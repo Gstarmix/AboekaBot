@@ -1,0 +1,273 @@
+- id: cert-fr
+  url: https://www.cert.ssi.gouv.fr/feed/
+  category: cyber
+  language: fr
+  priority: 1
+  active: true
+  notes: "CERT-FR officiel — alertes critiques ANSSI"
+- id: krebs
+  url: https://krebsonsecurity.com/feed/
+  category: cyber
+  language: en
+  priority: 1
+  active: true
+  notes: Krebs on Security — référence cyber, recommandé par le prof
+- id: hackernews-cyber
+  url: https://feeds.feedburner.com/TheHackersNews
+  category: cyber
+  language: en
+  priority: 2
+  active: true
+  notes: The Hacker News — gros volume, blacklist Webinar pour filtrer
+- id: bleepingcomputer
+  url: https://www.bleepingcomputer.com/feed/
+  category: cyber
+  language: en
+  priority: 1
+  active: true
+  notes: Ajouté via !veille sources add le 2026-04-26
+- id: zataz
+  url: https://www.zataz.com/feed/
+  category: cyber
+  language: en
+  priority: 2
+  active: true
+  notes: Ajouté via !veille sources add le 2026-04-26
+- id: anthropic-news
+  url: https://rsshub.rssforever.com/anthropic/news
+  category: ia
+  language: en
+  priority: 1
+  active: true
+  notes: "Anthropic News via miroir RSSHub (rsshub.app en 403, miroir communautaire)"
+- id: openai-news
+  url: https://openai.com/news/rss.xml
+  category: ia
+  language: en
+  priority: 1
+  active: true
+  notes: "OpenAI News officiel — annonces produits ChatGPT/GPT"
+- id: huggingface-blog
+  url: https://huggingface.co/blog/feed.xml
+  category: ia
+  language: en
+  priority: 2
+  active: true
+  notes: "Hugging Face Blog — modèles open-source, datasets"
+- id: actuia
+  url: https://www.actuia.com/feed/
+  category: ia
+  language: fr
+  priority: 2
+  active: true
+  notes: "ActuIA — actualité IA en français"
+- id: lebigdata
+  url: https://www.lebigdata.fr/feed
+  category: ia
+  language: fr
+  priority: 1
+  active: true
+  notes: "Le Big Data — média IA/data FR de référence"
+- id: deepmind
+  url: https://deepmind.google/blog/rss.xml
+  category: ia
+  language: en
+  priority: 1
+  active: true
+  notes: "Google DeepMind — annonces officielles labo (Gemini, AlphaFold, etc.)"
+- id: import-ai
+  url: https://importai.substack.com/feed
+  category: ia
+  language: en
+  priority: 1
+  active: true
+  notes: "Import AI — newsletter Jack Clark (ex-OpenAI), référence analyses IA"
+- id: nvidia-dev
+  url: https://developer.nvidia.com/blog/feed/
+  category: ia
+  language: en
+  priority: 2
+  active: true
+  notes: "NVIDIA Technical Blog — gros volume ML/IA, GPU, modèles"
+- id: siecledigital
+  url: https://siecledigital.fr/feed/
+  category: ia
+  language: fr
+  priority: 2
+  active: true
+  notes: "Siècle Digital — tech FR avec section IA forte"
+- id: marktechpost
+  url: https://www.marktechpost.com/feed/
+  category: ia
+  language: en
+  priority: 2
+  active: true
+  notes: "MarkTechPost — agrégateur actu IA (papiers, modèles, releases)"
+- id: msft-research
+  url: https://www.microsoft.com/en-us/research/feed/
+  category: ia
+  language: en
+  priority: 2
+  active: true
+  notes: "Microsoft Research — recherche IA officielle Microsoft"
+- id: raschka
+  url: https://magazine.sebastianraschka.com/feed
+  category: ia
+  language: en
+  priority: 2
+  active: true
+  notes: "Ahead of AI (Sebastian Raschka) — analyses de fond LLMs"
+- id: ai-snake-oil
+  url: https://www.aisnakeoil.com/feed
+  category: ia
+  language: en
+  priority: 2
+  active: true
+  notes: "AI Snake Oil (Princeton) — critique des claims marketing IA"
+- id: claudeai-x
+  url: https://nitter.net/claudeai/rss
+  category: ia
+  language: en
+  priority: 2
+  active: true
+  notes: "Compte X officiel @claudeai (via Nitter, instable — auto-disable si 5 erreurs)"
+- id: geminiapp-x
+  url: https://nitter.net/GeminiApp/rss
+  category: ia
+  language: en
+  priority: 2
+  active: true
+  notes: "Compte X officiel @GeminiApp (via Nitter, instable — auto-disable si 5 erreurs)"
+- id: openai-x
+  url: https://nitter.net/OpenAI/rss
+  category: ia
+  language: en
+  priority: 2
+  active: true
+  notes: "Compte X officiel @OpenAI (via Nitter, complémentaire au blog officiel)"
+- id: frenchweb
+  url: https://www.frenchweb.fr/feed
+  category: ia
+  language: fr
+  priority: 3
+  active: true
+  notes: "Frenchweb — écosystème tech/startup FR (filtre IA via scoring)"
+- id: google-research
+  url: https://research.google/blog/rss/
+  category: ia
+  language: en
+  priority: 3
+  active: true
+  notes: "Google Research blog — papiers et annonces recherche brute"
+- id: github-blog
+  url: https://github.blog/feed/
+  category: dev
+  language: en
+  priority: 1
+  active: true
+  notes: "Annonces plateforme GitHub + supply chain"
+- id: stackoverflow-blog
+  url: https://stackoverflow.blog/feed/
+  category: dev
+  language: en
+  priority: 2
+  active: true
+  notes: Stack Overflow Blog — tendances dev, articles techniques
+- id: realpython
+  url: https://realpython.com/atom.xml
+  category: dev
+  language: en
+  priority: 2
+  active: true
+  notes: Real Python — tutoriels et news Python, cohérent avec stack BotGSTAR
+- id: journalduhacker
+  url: https://www.journalduhacker.net/rss
+  category: dev
+  language: fr
+  priority: 2
+  active: true
+  notes: Journal du Hacker — Hacker News à la française
+- id: hnrss
+  url: https://hnrss.org/frontpage
+  category: dev
+  language: en
+  priority: 3
+  active: true
+  notes: Hacker News frontpage — volume énorme, prio 3 pour modérer
+- id: linuxfr
+  url: https://linuxfr.org/news.atom
+  category: dev
+  language: fr
+  priority: 3
+  active: true
+  notes: LinuxFr — écosystème libre et Linux FR, faible volume
+- id: developpez
+  url: https://www.developpez.com/index/rss
+  category: dev
+  language: fr
+  priority: 1
+  active: true
+  notes: "Developpez.com — référence dev FR, news + tutoriels"
+- id: pragmatic-eng
+  url: https://blog.pragmaticengineer.com/rss/
+  category: dev
+  language: en
+  priority: 1
+  active: true
+  notes: "The Pragmatic Engineer (Gergely Orosz) — newsletter ingénierie soft"
+- id: programmez
+  url: https://www.programmez.com/rss.xml
+  category: dev
+  language: fr
+  priority: 2
+  active: true
+  notes: "Programmez! — magazine dev FR"
+- id: devto
+  url: https://dev.to/feed
+  category: dev
+  language: en
+  priority: 3
+  active: true
+  notes: "DEV Community — articles communautaires, gros volume"
+- id: lobsters
+  url: https://lobste.rs/rss
+  category: dev
+  language: en
+  priority: 3
+  active: true
+  notes: "Lobsters — Hacker News-like orienté technique"
+- id: numerama
+  url: https://www.numerama.com/feed/
+  category: tech
+  language: fr
+  priority: 1
+  active: true
+  notes: "Tech grand public FR"
+- id: next-ink
+  url: https://next.ink/feed/
+  category: tech
+  language: fr
+  priority: 1
+  active: true
+  notes: Next.ink (ex-Next INpact) — tech FR rigoureuse
+- id: arstechnica
+  url: https://feeds.arstechnica.com/arstechnica/index
+  category: tech
+  language: en
+  priority: 2
+  active: true
+  notes: Ajouté via !veille sources add le 2026-04-26
+- id: korben
+  url: https://korben.info/feed
+  category: tech
+  language: en
+  priority: 3
+  active: true
+  notes: Ajouté via !veille sources add le 2026-04-26
+- id: frandroid
+  url: https://www.frandroid.com/feed
+  category: tech
+  language: en
+  priority: 3
+  active: true
+  notes: Ajouté via !veille sources add le 2026-04-26

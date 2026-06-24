@@ -1,0 +1,320 @@
+all:
+  boost: []
+  blacklist:
+  - sponsorisé
+  - publi-rédactionnel
+  - publicité
+  - horoscope
+  - people
+  - promo
+  - advertorial
+  - sponsored
+  - bons plans
+  - code promo
+actu-chaude:
+  boost:
+  - alerte
+  - urgent
+  - breaking
+  - exclusif
+  - enquête
+  - dossier
+  - décryptage
+  - en direct
+  - tribune
+  - réforme
+  - assemblée nationale
+  - conseil constitutionnel
+  - macronie
+  blacklist:
+  - sport
+  - foot
+  - tennis
+  - rugby
+  - tour de france
+  - célébrité
+arsenal-eco:
+  boost:
+  - inégalités
+  - patrimoine
+  - milliardaires
+  - fortune
+  - super-riches
+  - oligarchie
+  - SMIC
+  - salaire minimum
+  - retraite
+  - système de retraite
+  - 64 ans
+  - 62 ans
+  - réforme des retraites
+  - fiscalité
+  - impôt sur la fortune
+  - ISF
+  - CSG
+  - flat tax
+  - redistribution
+  - néolibéralisme
+  - austérité
+  - dette publique
+  - dette
+  - BCE
+  - FMI
+  - banque centrale
+  - inflation
+  - pouvoir d'achat
+  - chômage
+  - financiarisation
+  - capitalisme
+  - actionnaire
+  - dividende
+  - CAC 40
+  - LVMH
+  - Bernard Arnault
+  - exonération
+  - cadeau fiscal
+  - bouclier fiscal
+  blacklist:
+  - sponsorisé
+arsenal-ecologie:
+  boost:
+  - climat
+  - réchauffement
+  - réchauffement climatique
+  - écologie
+  - biodiversité
+  - carbone
+  - GIEC
+  - transition énergétique
+  - énergie fossile
+  - pétrole
+  - gaz
+  - charbon
+  - nucléaire
+  - renouvelable
+  - éolien
+  - solaire
+  - déforestation
+  - pollution
+  - ZAD
+  - Sainte-Soline
+  - bassine
+  - mégabassines
+  - agriculture intensive
+  - permaculture
+  - agroécologie
+  - artificialisation
+  - sécheresse
+  - canicule
+  - extinction
+  - effondrement
+  - Total Energies
+  - Bayer
+  - Monsanto
+  - pesticides
+  - glyphosate
+  - néonicotinoïdes
+  blacklist:
+  - sponsorisé
+arsenal-international:
+  boost:
+  - Palestine
+  - Gaza
+  - Israël
+  - sionisme
+  - génocide
+  - BDS
+  - Cisjordanie
+  - colon israélien
+  - Hamas
+  - Ukraine
+  - Russie
+  - Poutine
+  - OTAN
+  - États-Unis
+  - USA
+  - Trump
+  - Biden
+  - Chine
+  - Xi Jinping
+  - BRICS
+  - extrême droite
+  - fasciste
+  - néofascisme
+  - néofasciste
+  - Sahara occidental
+  - Soudan
+  - Yémen
+  - Iran
+  - Liban
+  - Syrie
+  - Maroc
+  - Algérie
+  - Tunisie
+  - Burkina Faso
+  - Mali
+  - Niger
+  - Françafrique
+  - décolonisation
+  - guerre
+  - conflit
+  - cessez-le-feu
+  - ONU
+  - droit international
+  - Cour pénale internationale
+  blacklist:
+  - sponsorisé
+arsenal-social:
+  boost:
+  - syndicat
+  - CGT
+  - SUD
+  - FSU
+  - Solidaires
+  - FO
+  - Unsa
+  - manifestation
+  - manif
+  - grève
+  - mobilisation
+  - mouvement social
+  - mouvement populaire
+  - luttes sociales
+  - antifa
+  - antifasciste
+  - autonome
+  - libertaire
+  - anarchiste
+  - écosocialisme
+  - extrême gauche
+  - communiste
+  - PCF
+  - EELV
+  - écologiste
+  - violences policières
+  - répression
+  - répression policière
+  - Gilets Jaunes
+  - black bloc
+  - ZAD
+  - occupation
+  - blocage
+  - quartier populaire
+  - banlieue
+  - racisme
+  - antiracisme
+  - islamophobie
+  - LGBT
+  - LGBTQI
+  - transphobie
+  - féminisme
+  - sexisme
+  - violences sexistes
+  - violences sexuelles
+  blacklist:
+  - sponsorisé
+arsenal-attaques:
+  boost:
+  - LFI
+  - France Insoumise
+  - Mélenchon
+  - Jean-Luc Mélenchon
+  - Mathilde Panot
+  - Manuel Bompard
+  - Manon Aubry
+  - Clémence Guetté
+  - Eric Coquerel
+  - Aurélien Saintoul
+  - Sophia Chikirou
+  - Antoine Léaument
+  - Louis Boyard
+  - NUPES
+  - Union Populaire
+  - Front Populaire
+  - Nouveau Front Populaire
+  - NFP
+  - insoumis
+  - insoumise
+  - PS
+  - Parti Socialiste
+  - Olivier Faure
+  - PCF
+  - Fabien Roussel
+  - EELV
+  - Marine Tondelier
+  - Rassemblement National
+  - Marine Le Pen
+  - Jordan Bardella
+  - RN
+  - Eric Ciotti
+  - Reconquête
+  - Eric Zemmour
+  - Les Républicains
+  - LR
+  - Laurent Wauquiez
+  - Renaissance
+  - Macron
+  - Edouard Philippe
+  - Horizons
+  - MoDem
+  - François Bayrou
+  - Gabriel Attal
+  - Elisabeth Borne
+  - extrême gauche
+  - radicalité
+  - radical
+  - groupe parlementaire
+  - tribune
+  - intervention assemblée
+  - question au gouvernement
+  - censure
+  - motion de censure
+  - 49.3
+  - dissolution
+  blacklist:
+  - sponsorisé
+arsenal-medias:
+  boost:
+  - désinformation
+  - fact-check
+  - fact checking
+  - fake news
+  - bobard
+  - manipulation
+  - biais médiatique
+  - narratif
+  - Bolloré
+  - Vincent Bolloré
+  - Vivendi
+  - CNEWS
+  - C8
+  - Hanouna
+  - Pascal Praud
+  - concentration média
+  - oligarques
+  - Niel
+  - Drahi
+  - Lagardère
+  - Le Monde
+  - propriété médias
+  - presse écrite
+  - audiovisuel
+  - service public
+  - France Télévisions
+  - Radio France
+  - éditorialiste
+  - Pujadas
+  - Apolline de Malherbe
+  - Léa Salamé
+  - Patrick Cohen
+  - Yves Calvi
+  - censure
+  - autocensure
+  - liberté de la presse
+  - reporter
+  - journalisme
+  - investigation
+  - Acrimed
+  - Reporters sans frontières
+  blacklist:
+  - sponsorisé

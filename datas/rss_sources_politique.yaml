@@ -1,0 +1,280 @@
+- id: le-monde-une
+  url: https://www.lemonde.fr/rss/une.xml
+  category: actu-chaude
+  language: fr
+  priority: 1
+  active: true
+  notes: "Le Monde — Une (référence quotidien de référence)"
+- id: mediapart
+  url: https://www.mediapart.fr/articles/feed
+  category: actu-chaude
+  language: fr
+  priority: 1
+  active: true
+  notes: "Mediapart — investigation, abonnement (titres publics seulement)"
+- id: liberation
+  url: https://www.liberation.fr/arc/outboundfeeds/rss/?outputType=xml
+  category: actu-chaude
+  language: fr
+  priority: 1
+  active: true
+  notes: "Libération — quotidien gauche libérale (50 articles/jour)"
+- id: france-info
+  url: https://www.francetvinfo.fr/titres.rss
+  category: actu-chaude
+  language: fr
+  priority: 2
+  active: true
+  notes: "France Info — info publique (service public)"
+- id: le-monde-france
+  url: https://www.lemonde.fr/france/rss_full.xml
+  category: actu-chaude
+  language: fr
+  priority: 2
+  active: true
+  notes: "Le Monde — section France"
+- id: le-parisien
+  url: https://feeds.leparisien.fr/leparisien/rss
+  category: actu-chaude
+  language: fr
+  priority: 2
+  active: true
+  notes: "Le Parisien — quotidien populaire (100 articles)"
+- id: alternatives-economiques
+  url: https://www.alternatives-economiques.fr/rss.xml
+  category: arsenal-eco
+  language: fr
+  priority: 1
+  active: true
+  notes: "Alternatives Économiques — référence économie alternative"
+- id: contretemps
+  url: https://www.contretemps.eu/feed/
+  category: arsenal-eco
+  language: fr
+  priority: 1
+  active: true
+  notes: "Contretemps — revue intellectuelle marxiste"
+- id: frustration
+  url: https://www.frustrationmagazine.fr/feed/
+  category: arsenal-eco
+  language: fr
+  priority: 1
+  active: true
+  notes: "Frustration Magazine — critique systémique de classe (déplacé depuis lfi)"
+- id: inegalites
+  url: https://www.inegalites.fr/spip.php?page=backend
+  category: arsenal-eco
+  language: fr
+  priority: 1
+  active: true
+  notes: "Observatoire des inégalités — données + analyses"
+- id: attac
+  url: https://france.attac.org/spip.php?page=backend
+  category: arsenal-eco
+  language: fr
+  priority: 2
+  active: true
+  notes: "Attac France — altermondialisme, justice fiscale"
+- id: rfi-eco
+  url: https://www.rfi.fr/fr/economie/rss
+  category: arsenal-eco
+  language: fr
+  priority: 2
+  active: true
+  notes: "RFI Économie — actu macro mondiale (30 articles)"
+- id: reporterre
+  url: https://reporterre.net/spip.php?page=backend
+  category: arsenal-ecologie
+  language: fr
+  priority: 1
+  active: true
+  notes: "Reporterre — quotidien de l'écologie (60 articles)"
+- id: bonpote
+  url: https://bonpote.com/feed/
+  category: arsenal-ecologie
+  language: fr
+  priority: 1
+  active: true
+  notes: "Bon Pote — vulgarisation climat, GIEC, science"
+- id: vert
+  url: https://vert.eco/feed
+  category: arsenal-ecologie
+  language: fr
+  priority: 1
+  active: true
+  notes: "Vert.eco — actualité environnementale quotidienne"
+- id: basta
+  url: https://www.bastamag.net/spip.php?page=backend
+  category: arsenal-ecologie
+  language: fr
+  priority: 2
+  active: true
+  notes: "Basta! — médias indé, environnement + luttes sociales"
+- id: nfa-eco
+  url: https://nouvelobs.com/ecologie/rss.xml
+  category: arsenal-ecologie
+  language: fr
+  priority: 2
+  active: true
+  notes: "Le Nouvel Obs — EcoloObs (40 articles)"
+- id: monde-diplo
+  url: https://www.monde-diplomatique.fr/recents.xml
+  category: arsenal-international
+  language: fr
+  priority: 1
+  active: true
+  notes: "Le Monde Diplomatique — référence géopolitique critique"
+- id: courrier-international
+  url: https://www.courrierinternational.com/feed/all/rss.xml
+  category: arsenal-international
+  language: fr
+  priority: 1
+  active: true
+  notes: "Courrier International — agrégat presse mondiale traduite"
+- id: lemonde-international
+  url: https://www.lemonde.fr/international/rss_full.xml
+  category: arsenal-international
+  language: fr
+  priority: 1
+  active: true
+  notes: "Le Monde International (20 articles)"
+- id: france24-monde
+  url: https://www.france24.com/fr/rss
+  category: arsenal-international
+  language: fr
+  priority: 2
+  active: true
+  notes: "France 24 Monde — flux principal (24 articles)"
+- id: rfi-monde
+  url: https://www.rfi.fr/fr/monde/rss
+  category: arsenal-international
+  language: fr
+  priority: 2
+  active: true
+  notes: "RFI Monde — actualité internationale (30 articles)"
+- id: humanite
+  url: https://www.humanite.fr/rss/actu.rss
+  category: arsenal-social
+  language: fr
+  priority: 1
+  active: true
+  notes: "L'Humanité — historique communiste"
+- id: streetpress
+  url: https://www.streetpress.com/rss.xml
+  category: arsenal-social
+  language: fr
+  priority: 1
+  active: true
+  notes: "StreetPress — reportages sociaux, racisme, banlieues"
+- id: regards
+  url: https://regards.fr/feed/
+  category: arsenal-social
+  language: fr
+  priority: 2
+  active: true
+  notes: "Regards.fr — magazine politique gauche transformatrice"
+- id: lundi-matin
+  url: https://lundi.am/spip.php?page=backend
+  category: arsenal-social
+  language: fr
+  priority: 2
+  active: true
+  notes: "Lundi Matin — webzine antiautoritaire et anticapitaliste"
+- id: revolution-permanente
+  url: https://www.revolutionpermanente.fr/spip.php?page=backend
+  category: arsenal-social
+  language: fr
+  priority: 2
+  active: true
+  notes: "Révolution Permanente — trotskiste (issue NPA — CCR)"
+- id: paris-luttes
+  url: https://paris-luttes.info/spip.php?page=backend
+  category: arsenal-social
+  language: fr
+  priority: 3
+  active: true
+  notes: "Paris-luttes.info — agenda + récits autonomes Paris"
+- id: rebellyon
+  url: https://rebellyon.info/spip.php?page=backend
+  category: arsenal-social
+  language: fr
+  priority: 3
+  active: true
+  notes: "Rebellyon — équivalent Lyon de Paris-luttes"
+- id: contre-attaque
+  url: https://contre-attaque.net/feed/
+  category: arsenal-social
+  language: fr
+  priority: 3
+  active: true
+  notes: "Contre Attaque — média de luttes (autonomes/antifascistes)"
+- id: linsoumission
+  url: https://linsoumission.fr/feed/
+  category: arsenal-attaques
+  language: fr
+  priority: 1
+  active: true
+  notes: "L'Insoumission — média en ligne marqué gauche radicale (100 articles)"
+- id: lvsl
+  url: https://lvsl.fr/feed/
+  category: arsenal-attaques
+  language: fr
+  priority: 1
+  active: true
+  notes: "Le Vent Se Lève — revue intellectuelle gauche radicale"
+- id: melenchon-blog
+  url: https://melenchon.fr/feed/
+  category: arsenal-attaques
+  language: fr
+  priority: 2
+  active: true
+  notes: "Blog officiel Mélenchon — publication sporadique mais référence"
+- id: lfi-officiel
+  url: https://lafranceinsoumise.fr/feed/
+  category: arsenal-attaques
+  language: fr
+  priority: 2
+  active: true
+  notes: "Site officiel LFI — communiqués et actu interne"
+- id: liberation-politique
+  url: https://www.liberation.fr/arc/outboundfeeds/rss-all/category/politique/?outputType=xml
+  category: arsenal-attaques
+  language: fr
+  priority: 2
+  active: true
+  notes: "Libération Politique — analyses politiques quotidiennes (50 articles)"
+- id: acrimed
+  url: https://www.acrimed.org/spip.php?page=backend
+  category: arsenal-medias
+  language: fr
+  priority: 1
+  active: true
+  notes: "Acrimed — Action Critique Médias (référence critique systémique)"
+- id: arret-sur-images
+  url: https://api.arretsurimages.net/api/public/rss/all-content
+  category: arsenal-medias
+  language: fr
+  priority: 1
+  active: true
+  notes: "Arrêt sur Images — investigation média (30 articles via API publique)"
+- id: checknews
+  url: https://www.liberation.fr/arc/outboundfeeds/rss-all/category/checknews/?outputType=xml
+  category: arsenal-medias
+  language: fr
+  priority: 1
+  active: true
+  notes: "CheckNews (Libération) — fact-checking quotidien (50 articles)"
+- id: decodeurs
+  url: https://www.lemonde.fr/les-decodeurs/rss_full.xml
+  category: arsenal-medias
+  language: fr
+  priority: 2
+  active: true
+  notes: "Les Décodeurs (Le Monde) — fact-checking + data journalism"
+- id: aoc
+  url: https://aoc.media/feed/
+  category: arsenal-medias
+  language: fr
+  priority: 2
+  active: true
+  notes: "AOC — Analyse Opinion Critique (revue intellectuelle)"

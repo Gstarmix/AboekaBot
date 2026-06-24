@@ -1,0 +1,4753 @@
+{
+  "schema_version": 1,
+  "threads": {
+    "AN1__CC__4__2023-2024": {
+      "annee": "2023-2024",
+      "created_at": "2026-04-25T07:34:08Z",
+      "forum_id": "1497497569788694688",
+      "last_updated": "2026-04-25T07:34:26Z",
+      "matiere": "AN1",
+      "num": "4",
+      "posts": {
+        "script:global:md": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "a2a90cab665542785a53c84922a6a4c5",
+          "message_id": "1497500982282551427",
+          "published_at": "2026-04-25T07:34:16Z",
+          "rel_key": "AN1/CC/2023-2024/CC4/scripts_oraux/SCRIPT_AN1_CC4_2023-2024.md",
+          "size_mb": 0.04,
+          "version": 1
+        },
+        "script:global:txt": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "bb781f9067202b7d01ca3ebd472c445e",
+          "message_id": "1497500992839876659",
+          "published_at": "2026-04-25T07:34:19Z",
+          "rel_key": "AN1/CC/2023-2024/CC4/scripts_oraux/script_oral_AN1_CC4_2023-2024.txt",
+          "size_mb": 0.02,
+          "version": 1
+        },
+        "slides:global": {
+          "is_too_big": false,
+          "kind": "slides",
+          "md5": "ad70edf42320f86781da04c0026ba263",
+          "message_id": "1497501003849928784",
+          "published_at": "2026-04-25T07:34:21Z",
+          "rel_key": "AN1/CC/2023-2024/CC4/scripts_oraux/slides_AN1_CC4_2023-2024.pdf",
+          "size_mb": 0.34,
+          "version": 1
+        },
+        "slides_src:global": {
+          "is_too_big": false,
+          "kind": "slides_src",
+          "md5": "d2f1d89d70b4c0ad875991a89bdb84da",
+          "message_id": "1497501013542961203",
+          "published_at": "2026-04-25T07:34:23Z",
+          "rel_key": "AN1/CC/2023-2024/CC4/scripts_oraux/slides_AN1_CC4_2023-2024.tex",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex1": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "258e448ab618921e8be86492e25ec6ce",
+          "message_id": "1497500950208974849",
+          "published_at": "2026-04-25T07:34:09Z",
+          "rel_key": "AN1/CC/2023-2024/CC4/TACHE_AN1_CC4_2023-2024_ex1.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex2": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "f28659a538e4284b7f82075188771c96",
+          "message_id": "1497500961130807348",
+          "published_at": "2026-04-25T07:34:11Z",
+          "rel_key": "AN1/CC/2023-2024/CC4/TACHE_AN1_CC4_2023-2024_ex2.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex3": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "41fcfca888f6c6329ffb3a5c6de1b5a9",
+          "message_id": "1497500971314450535",
+          "published_at": "2026-04-25T07:34:13Z",
+          "rel_key": "AN1/CC/2023-2024/CC4/TACHE_AN1_CC4_2023-2024_ex3.md",
+          "size_mb": 0.01,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "CC",
+        "TACHE",
+        "Script oral",
+        "Slides"
+      ],
+      "thread_id": "1497500948203835512",
+      "title": "[CC4 2023-2024] Limites et continuité",
+      "type": "CC"
+    },
+    "AN1__CC__4__2024-2025": {
+      "annee": "2024-2025",
+      "created_at": "2026-04-25T07:34:41Z",
+      "forum_id": "1497497569788694688",
+      "last_updated": "2026-04-25T07:34:56Z",
+      "matiere": "AN1",
+      "num": "4",
+      "posts": {
+        "script:global:md": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "846e09b9ae374dc649138532d4564259",
+          "message_id": "1497501108904656980",
+          "published_at": "2026-04-25T07:34:46Z",
+          "rel_key": "AN1/CC/2024-2025/CC4/scripts_oraux/SCRIPT_AN1_CC4_2024-2025.md",
+          "size_mb": 0.03,
+          "version": 1
+        },
+        "script:global:txt": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "cf432f9688143d437d4cca01a235e828",
+          "message_id": "1497501119352537159",
+          "published_at": "2026-04-25T07:34:49Z",
+          "rel_key": "AN1/CC/2024-2025/CC4/scripts_oraux/script_oral_AN1_CC4_2024-2025.txt",
+          "size_mb": 0.02,
+          "version": 1
+        },
+        "slides:global": {
+          "is_too_big": false,
+          "kind": "slides",
+          "md5": "221e7b1b43297e32ff98e062fbe168a4",
+          "message_id": "1497501130085634200",
+          "published_at": "2026-04-25T07:34:51Z",
+          "rel_key": "AN1/CC/2024-2025/CC4/scripts_oraux/slides_AN1_CC4_2024-2025.pdf",
+          "size_mb": 0.4,
+          "version": 1
+        },
+        "slides_src:global": {
+          "is_too_big": false,
+          "kind": "slides_src",
+          "md5": "a24fd6cd4300fdcefb428ca6273c7b4a",
+          "message_id": "1497501140068208710",
+          "published_at": "2026-04-25T07:34:54Z",
+          "rel_key": "AN1/CC/2024-2025/CC4/scripts_oraux/slides_AN1_CC4_2024-2025.tex",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex1": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "6e09674ab655ce7bf07918bbcadbf712",
+          "message_id": "1497501089010946068",
+          "published_at": "2026-04-25T07:34:41Z",
+          "rel_key": "AN1/CC/2024-2025/CC4/TACHE_AN1_CC4_2024-2025_ex1.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex2": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "5bf4f20e083b3509b826fde2ef6a4581",
+          "message_id": "1497501098892722319",
+          "published_at": "2026-04-25T07:34:44Z",
+          "rel_key": "AN1/CC/2024-2025/CC4/TACHE_AN1_CC4_2024-2025_ex2.md",
+          "size_mb": 0.01,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "CC",
+        "TACHE",
+        "Script oral",
+        "Slides"
+      ],
+      "thread_id": "1497501087589204023",
+      "title": "[CC4 2024-2025] Limites et continuité",
+      "type": "CC"
+    },
+    "AN1__TD__1": {
+      "annee": null,
+      "created_at": "2026-04-25T07:35:11Z",
+      "forum_id": "1497497569788694688",
+      "last_updated": "2026-04-25T07:35:51Z",
+      "matiere": "AN1",
+      "num": "1",
+      "posts": {
+        "tache:ex1": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "85e9dfff1dd38f2f022b22d713db3bec",
+          "message_id": "1497501215242588270",
+          "published_at": "2026-04-25T07:35:11Z",
+          "rel_key": "AN1/TD/TD1/TACHE_AN1_TD1_ex1.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex10": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "022b8d56290580e97f116a7f762d141b",
+          "message_id": "1497501308553396445",
+          "published_at": "2026-04-25T07:35:34Z",
+          "rel_key": "AN1/TD/TD1/TACHE_AN1_TD1_ex10.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex11": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "d028e1cccfb32c50685f8bf1565abb7f",
+          "message_id": "1497501318833766540",
+          "published_at": "2026-04-25T07:35:36Z",
+          "rel_key": "AN1/TD/TD1/TACHE_AN1_TD1_ex11.md",
+          "size_mb": 0.02,
+          "version": 1
+        },
+        "tache:ex12": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "58f390e337f5ef23751826eb2d931279",
+          "message_id": "1497501329105354832",
+          "published_at": "2026-04-25T07:35:39Z",
+          "rel_key": "AN1/TD/TD1/TACHE_AN1_TD1_ex12.md",
+          "size_mb": 0.02,
+          "version": 1
+        },
+        "tache:ex13": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "b5ce409e4555eefbda110464a0e47bec",
+          "message_id": "1497501339553628211",
+          "published_at": "2026-04-25T07:35:41Z",
+          "rel_key": "AN1/TD/TD1/TACHE_AN1_TD1_ex13.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex14": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "6b4fcc807608cdcdee5d9f6359ec3fb8",
+          "message_id": "1497501350844432444",
+          "published_at": "2026-04-25T07:35:44Z",
+          "rel_key": "AN1/TD/TD1/TACHE_AN1_TD1_ex14.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex15": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "bce4d83e44637b1bae5b1c3a77ae3cd5",
+          "message_id": "1497501361263214592",
+          "published_at": "2026-04-25T07:35:46Z",
+          "rel_key": "AN1/TD/TD1/TACHE_AN1_TD1_ex15.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex16": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "3df62c2894373e8418ffc6bd794c8852",
+          "message_id": "1497501371346325524",
+          "published_at": "2026-04-25T07:35:49Z",
+          "rel_key": "AN1/TD/TD1/TACHE_AN1_TD1_ex16.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex2": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "692c798c2e25002b8c15524c5a4272ca",
+          "message_id": "1497501225187541063",
+          "published_at": "2026-04-25T07:35:14Z",
+          "rel_key": "AN1/TD/TD1/TACHE_AN1_TD1_ex2.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex3": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "5eedddd1ae8ad20a3f4e465c3070b7e0",
+          "message_id": "1497501235778031737",
+          "published_at": "2026-04-25T07:35:16Z",
+          "rel_key": "AN1/TD/TD1/TACHE_AN1_TD1_ex3.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex4": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "9314b8a72a6632cc74e71036c445dd06",
+          "message_id": "1497501246024847460",
+          "published_at": "2026-04-25T07:35:19Z",
+          "rel_key": "AN1/TD/TD1/TACHE_AN1_TD1_ex4.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex5": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "3b91bd15fff497470375234f02e6c445",
+          "message_id": "1497501256393162865",
+          "published_at": "2026-04-25T07:35:21Z",
+          "rel_key": "AN1/TD/TD1/TACHE_AN1_TD1_ex5.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex6": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "6a65b26bdf9c358a0db461fd9cf5aea5",
+          "message_id": "1497501267185106975",
+          "published_at": "2026-04-25T07:35:24Z",
+          "rel_key": "AN1/TD/TD1/TACHE_AN1_TD1_ex6.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex7": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "5681feb985c9c564cf1f6340bafae040",
+          "message_id": "1497501278266462308",
+          "published_at": "2026-04-25T07:35:27Z",
+          "rel_key": "AN1/TD/TD1/TACHE_AN1_TD1_ex7.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex8": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "5711d38e66d9d7de8e26fa42055c8eda",
+          "message_id": "1497501288169209870",
+          "published_at": "2026-04-25T07:35:29Z",
+          "rel_key": "AN1/TD/TD1/TACHE_AN1_TD1_ex8.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex9": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "8bb3bd6ed1e6233b6eae6ba0456f6114",
+          "message_id": "1497501298709364847",
+          "published_at": "2026-04-25T07:35:31Z",
+          "rel_key": "AN1/TD/TD1/TACHE_AN1_TD1_ex9.md",
+          "size_mb": 0.01,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "TD",
+        "TACHE"
+      ],
+      "thread_id": "1497501213829369908",
+      "title": "[TD1] Les Nombres Complexes",
+      "type": "TD"
+    },
+    "AN1__TD__2": {
+      "annee": null,
+      "created_at": "2026-04-25T07:36:06Z",
+      "forum_id": "1497497569788694688",
+      "last_updated": "2026-04-25T07:36:56Z",
+      "matiere": "AN1",
+      "num": "2",
+      "posts": {
+        "tache:ex1": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "a52c3b2f844d5faf274baf6223973f34",
+          "message_id": "1497501448005746730",
+          "published_at": "2026-04-25T07:36:07Z",
+          "rel_key": "AN1/TD/TD2/TACHE_AN1_TD2_ex1.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex10": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "7ea96799739e318bb9920eae166e9802",
+          "message_id": "1497501540687286375",
+          "published_at": "2026-04-25T07:36:29Z",
+          "rel_key": "AN1/TD/TD2/TACHE_AN1_TD2_ex10.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex11": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "a7bf01337e0cc8360f2b0dfca5b7270a",
+          "message_id": "1497501550342570097",
+          "published_at": "2026-04-25T07:36:31Z",
+          "rel_key": "AN1/TD/TD2/TACHE_AN1_TD2_ex11.md",
+          "size_mb": 0.02,
+          "version": 1
+        },
+        "tache:ex12": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "d5983d79db3cb1e47f48f70625a68c03",
+          "message_id": "1497501560522145855",
+          "published_at": "2026-04-25T07:36:34Z",
+          "rel_key": "AN1/TD/TD2/TACHE_AN1_TD2_ex12.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex13": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "cad0d399e938296e679c018f751ee238",
+          "message_id": "1497501570487681096",
+          "published_at": "2026-04-25T07:36:36Z",
+          "rel_key": "AN1/TD/TD2/TACHE_AN1_TD2_ex13.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex14": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "b2a34de71c5aea0a0f5c5dc35a3bb1cf",
+          "message_id": "1497501580738691204",
+          "published_at": "2026-04-25T07:36:39Z",
+          "rel_key": "AN1/TD/TD2/TACHE_AN1_TD2_ex14.md",
+          "size_mb": 0.02,
+          "version": 1
+        },
+        "tache:ex15": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "dd09f406fe90828298402f90cb3c8786",
+          "message_id": "1497501590767140946",
+          "published_at": "2026-04-25T07:36:41Z",
+          "rel_key": "AN1/TD/TD2/TACHE_AN1_TD2_ex15.md",
+          "size_mb": 0.02,
+          "version": 1
+        },
+        "tache:ex16": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "cbbd1facde66c37d139d00084efc1980",
+          "message_id": "1497501601600901150",
+          "published_at": "2026-04-25T07:36:44Z",
+          "rel_key": "AN1/TD/TD2/TACHE_AN1_TD2_ex16.md",
+          "size_mb": 0.02,
+          "version": 1
+        },
+        "tache:ex17": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "4868cfe7aafa795d9fe8cbec9b6a7b82",
+          "message_id": "1497501614162841761",
+          "published_at": "2026-04-25T07:36:47Z",
+          "rel_key": "AN1/TD/TD2/TACHE_AN1_TD2_ex17.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex18": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "ff7953eb73c026d397b30b351a023a72",
+          "message_id": "1497501624636149821",
+          "published_at": "2026-04-25T07:36:49Z",
+          "rel_key": "AN1/TD/TD2/TACHE_AN1_TD2_ex18.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex19": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "55e9787edf8d7f0d549d5347553970d0",
+          "message_id": "1497501635105128472",
+          "published_at": "2026-04-25T07:36:52Z",
+          "rel_key": "AN1/TD/TD2/TACHE_AN1_TD2_ex19.md",
+          "size_mb": 0.02,
+          "version": 1
+        },
+        "tache:ex2": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "5c43b88f52ced0cf7b499da0ab80d8f1",
+          "message_id": "1497501459439419392",
+          "published_at": "2026-04-25T07:36:10Z",
+          "rel_key": "AN1/TD/TD2/TACHE_AN1_TD2_ex2.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex20": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "3fc01c4e646fb00c00f27cd164972220",
+          "message_id": "1497501645347749899",
+          "published_at": "2026-04-25T07:36:54Z",
+          "rel_key": "AN1/TD/TD2/TACHE_AN1_TD2_ex20.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex3": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "357bc5470ffc2f94b83c5f2bd0978545",
+          "message_id": "1497501470088757360",
+          "published_at": "2026-04-25T07:36:12Z",
+          "rel_key": "AN1/TD/TD2/TACHE_AN1_TD2_ex3.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex4": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "a9b11e68c97389abce4d727b15f6f610",
+          "message_id": "1497501479844450375",
+          "published_at": "2026-04-25T07:36:15Z",
+          "rel_key": "AN1/TD/TD2/TACHE_AN1_TD2_ex4.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex5": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "f56b661b1b303153d1527c89ab872051",
+          "message_id": "1497501489529094204",
+          "published_at": "2026-04-25T07:36:17Z",
+          "rel_key": "AN1/TD/TD2/TACHE_AN1_TD2_ex5.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex6": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "a4054fa7b0f6612900423ea24e3fd442",
+          "message_id": "1497501499205619773",
+          "published_at": "2026-04-25T07:36:19Z",
+          "rel_key": "AN1/TD/TD2/TACHE_AN1_TD2_ex6.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex7": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "e9f27faa93d51adea083f4a325d30385",
+          "message_id": "1497501509674471465",
+          "published_at": "2026-04-25T07:36:22Z",
+          "rel_key": "AN1/TD/TD2/TACHE_AN1_TD2_ex7.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex8": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "22024c8569abe15c3867fdc2c139cfa2",
+          "message_id": "1497501520386588693",
+          "published_at": "2026-04-25T07:36:24Z",
+          "rel_key": "AN1/TD/TD2/TACHE_AN1_TD2_ex8.md",
+          "size_mb": 0.02,
+          "version": 1
+        },
+        "tache:ex9": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "26af14b43dd32cdd935b653e98399955",
+          "message_id": "1497501530394329239",
+          "published_at": "2026-04-25T07:36:27Z",
+          "rel_key": "AN1/TD/TD2/TACHE_AN1_TD2_ex9.md",
+          "size_mb": 0.01,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "TD",
+        "TACHE"
+      ],
+      "thread_id": "1497501445824581684",
+      "title": "[TD2] Fonctions",
+      "type": "TD"
+    },
+    "AN1__TD__3": {
+      "annee": null,
+      "created_at": "2026-04-28T08:56:22Z",
+      "forum_id": "1497497569788694688",
+      "last_updated": "2026-04-28T08:57:21Z",
+      "matiere": "AN1",
+      "num": "3",
+      "posts": {
+        "script:ex4:md": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "d726ca2253fe6a7fe60a4e6629654c6e",
+          "message_id": "1498609001242300508",
+          "published_at": "2026-04-28T08:57:09Z",
+          "rel_key": "AN1/TD/TD3/scripts_oraux/SCRIPT_AN1_TD3_ex4.md",
+          "size_mb": 0.02,
+          "version": 1
+        },
+        "script:ex4:txt": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "8f4e890387435e34f5051606906e2f8f",
+          "message_id": "1498609011434455104",
+          "published_at": "2026-04-28T08:57:11Z",
+          "rel_key": "AN1/TD/TD3/scripts_oraux/script_oral_AN1_TD3_ex4.txt",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "script_print:ex4": {
+          "is_too_big": false,
+          "kind": "script_print",
+          "md5": "f60c458346c917816d02d9d8eb2594d1",
+          "message_id": "1498609021735796867",
+          "published_at": "2026-04-28T08:57:13Z",
+          "rel_key": "AN1/TD/TD3/scripts_oraux/script_imprimable_AN1_TD3_ex4.pdf",
+          "size_mb": 0.16,
+          "version": 1
+        },
+        "slides:ex4": {
+          "is_too_big": false,
+          "kind": "slides",
+          "md5": "31012150fc88a2b8ab58e27fece57923",
+          "message_id": "1498609032317894726",
+          "published_at": "2026-04-28T08:57:16Z",
+          "rel_key": "AN1/TD/TD3/scripts_oraux/slides_AN1_TD3_ex4.pdf",
+          "size_mb": 0.26,
+          "version": 1
+        },
+        "slides_src:ex4": {
+          "is_too_big": false,
+          "kind": "slides_src",
+          "md5": "79d3ff3fb68275e6d57871b779e3221d",
+          "message_id": "1498609042627493958",
+          "published_at": "2026-04-28T08:57:18Z",
+          "rel_key": "AN1/TD/TD3/scripts_oraux/slides_AN1_TD3_ex4.tex",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex1": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "7b2a1fc14b02efb18723ebee4e46e38b",
+          "message_id": "1498608808593854545",
+          "published_at": "2026-04-28T08:56:23Z",
+          "rel_key": "AN1/TD/TD3/TACHE_AN1_TD3_ex1.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex10": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "099bf9cff8525e1a697e98db18a3277a",
+          "message_id": "1498608898251165908",
+          "published_at": "2026-04-28T08:56:44Z",
+          "rel_key": "AN1/TD/TD3/TACHE_AN1_TD3_ex10.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex11": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "a804f61d4433771967c32fb7ab653d97",
+          "message_id": "1498608908707561473",
+          "published_at": "2026-04-28T08:56:47Z",
+          "rel_key": "AN1/TD/TD3/TACHE_AN1_TD3_ex11.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex12": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "44e481d09d8db1d92a75021e2b7ce472",
+          "message_id": "1498608919654695003",
+          "published_at": "2026-04-28T08:56:49Z",
+          "rel_key": "AN1/TD/TD3/TACHE_AN1_TD3_ex12.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex13": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "4310ba6202731e1c4d86f1be0204b5b0",
+          "message_id": "1498608930895564851",
+          "published_at": "2026-04-28T08:56:52Z",
+          "rel_key": "AN1/TD/TD3/TACHE_AN1_TD3_ex13.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex14": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "6b084dd79e415de795e6c76ae4206ea4",
+          "message_id": "1498608940500647956",
+          "published_at": "2026-04-28T08:56:54Z",
+          "rel_key": "AN1/TD/TD3/TACHE_AN1_TD3_ex14.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex15": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "9a35316ad0bb9afebe236b609b076136",
+          "message_id": "1498608950503804948",
+          "published_at": "2026-04-28T08:56:56Z",
+          "rel_key": "AN1/TD/TD3/TACHE_AN1_TD3_ex15.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex16": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "f5570ae73acecce3a0ca880bd1dd8389",
+          "message_id": "1498608960599621655",
+          "published_at": "2026-04-28T08:56:59Z",
+          "rel_key": "AN1/TD/TD3/TACHE_AN1_TD3_ex16.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex17": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "efaa63f1d7385d8cd43a22732c935543",
+          "message_id": "1498608971022340186",
+          "published_at": "2026-04-28T08:57:01Z",
+          "rel_key": "AN1/TD/TD3/TACHE_AN1_TD3_ex17.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex18": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "05aa51885450fff4534388e4b1bc84b3",
+          "message_id": "1498608981046984806",
+          "published_at": "2026-04-28T08:57:04Z",
+          "rel_key": "AN1/TD/TD3/TACHE_AN1_TD3_ex18.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex19": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "aee8fdafddfad06a4495b383073fa7c5",
+          "message_id": "1498608991159451738",
+          "published_at": "2026-04-28T08:57:06Z",
+          "rel_key": "AN1/TD/TD3/TACHE_AN1_TD3_ex19.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex2": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "77feab79ef6253c44bef04174a16d849",
+          "message_id": "1498608818643275806",
+          "published_at": "2026-04-28T08:56:25Z",
+          "rel_key": "AN1/TD/TD3/TACHE_AN1_TD3_ex2.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex3": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "faeab1537144f1afeea72c8ff401fef1",
+          "message_id": "1498608828265267250",
+          "published_at": "2026-04-28T08:56:27Z",
+          "rel_key": "AN1/TD/TD3/TACHE_AN1_TD3_ex3.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex4": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "ad7db48aa5b1bed6b5e0740b8b23ef65",
+          "message_id": "1498608837933138012",
+          "published_at": "2026-04-28T08:56:30Z",
+          "rel_key": "AN1/TD/TD3/TACHE_AN1_TD3_ex4.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex5": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "4ec4007f2ffe4ee04ff725f10587e3d7",
+          "message_id": "1498608847487500352",
+          "published_at": "2026-04-28T08:56:32Z",
+          "rel_key": "AN1/TD/TD3/TACHE_AN1_TD3_ex5.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex6": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "9cae5069bd043f23f9034b615cacb533",
+          "message_id": "1498608858053083196",
+          "published_at": "2026-04-28T08:56:34Z",
+          "rel_key": "AN1/TD/TD3/TACHE_AN1_TD3_ex6.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex7": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "54cb5ac49e8bb4ee23bb8ead1c540a72",
+          "message_id": "1498608868089921626",
+          "published_at": "2026-04-28T08:56:37Z",
+          "rel_key": "AN1/TD/TD3/TACHE_AN1_TD3_ex7.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex8": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "a61f20d82626c26fce023a8b71be9dcc",
+          "message_id": "1498608878529679400",
+          "published_at": "2026-04-28T08:56:39Z",
+          "rel_key": "AN1/TD/TD3/TACHE_AN1_TD3_ex8.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex9": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "d5ede23e0f3fe17c366b55dbbabd3aec",
+          "message_id": "1498608887945760779",
+          "published_at": "2026-04-28T08:56:42Z",
+          "rel_key": "AN1/TD/TD3/TACHE_AN1_TD3_ex9.md",
+          "size_mb": 0.0,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "TD",
+        "Script oral",
+        "Slides",
+        "TACHE"
+      ],
+      "thread_id": "1498608807776096296",
+      "title": "[TD3] Étude locale de fonctions",
+      "type": "TD"
+    },
+    "AN1__TD__4": {
+      "annee": null,
+      "created_at": "2026-04-25T07:21:25Z",
+      "forum_id": "1497497569788694688",
+      "last_updated": "2026-04-25T20:10:21Z",
+      "matiere": "AN1",
+      "num": "4",
+      "posts": {
+        "script:global:md": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "355e704229878b694401932b3afe1998",
+          "message_id": "1497497832528019556",
+          "published_at": "2026-04-25T07:21:45Z",
+          "rel_key": "AN1/TD/TD4/scripts_oraux/SCRIPT_AN1_TD4.md",
+          "size_mb": 0.06,
+          "version": 1
+        },
+        "script:global:txt": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "0960c71557d93598901ea471c8bfe801",
+          "message_id": "1497497843169103964",
+          "published_at": "2026-04-25T07:21:48Z",
+          "rel_key": "AN1/TD/TD4/scripts_oraux/script_oral_AN1_TD4.txt",
+          "size_mb": 0.03,
+          "version": 1
+        },
+        "script_print:global": {
+          "is_too_big": false,
+          "kind": "script_print",
+          "md5": "6862d00e90a8b46c42b622c75b503f5a",
+          "message_id": "1497691231403376821",
+          "published_at": "2026-04-25T20:10:14Z",
+          "rel_key": "AN1/TD/TD4/scripts_oraux/script_imprimable_AN1_TD4.pdf",
+          "size_mb": 0.26,
+          "version": 1
+        },
+        "slides:global": {
+          "is_too_big": false,
+          "kind": "slides",
+          "md5": "cc6dbe7a3d06ba06100c50d66b0d01d1",
+          "message_id": "1497497855030595717",
+          "published_at": "2026-04-25T07:21:50Z",
+          "rel_key": "AN1/TD/TD4/scripts_oraux/slides_AN1_TD4.pdf",
+          "size_mb": 0.53,
+          "version": 1
+        },
+        "slides_src:global": {
+          "is_too_big": false,
+          "kind": "slides_src",
+          "md5": "720532164d56b69aafef0dbae21cfbf7",
+          "message_id": "1497497865025622037",
+          "published_at": "2026-04-25T07:21:53Z",
+          "rel_key": "AN1/TD/TD4/scripts_oraux/slides_AN1_TD4.tex",
+          "size_mb": 0.02,
+          "version": 1
+        },
+        "tache:ex1": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "a51a5146f67566304a2e4c3084e3437e",
+          "message_id": "1497497751569563669",
+          "published_at": "2026-04-25T07:21:26Z",
+          "rel_key": "AN1/TD/TD4/TACHE_AN1_TD4_ex1.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex2": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "a1a238d36929774224ad332c2e324d06",
+          "message_id": "1497497761921110177",
+          "published_at": "2026-04-25T07:21:28Z",
+          "rel_key": "AN1/TD/TD4/TACHE_AN1_TD4_ex2.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex3": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "4f66f16a624f35ee388185dfeba25704",
+          "message_id": "1497497771845091410",
+          "published_at": "2026-04-25T07:21:30Z",
+          "rel_key": "AN1/TD/TD4/TACHE_AN1_TD4_ex3.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex4": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "afaba148fa66f645f5a2640c28c40b24",
+          "message_id": "1497497781571551282",
+          "published_at": "2026-04-25T07:21:33Z",
+          "rel_key": "AN1/TD/TD4/TACHE_AN1_TD4_ex4.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex5": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "bc6414c4096e95406edd273feb5d4800",
+          "message_id": "1497497791562256384",
+          "published_at": "2026-04-25T07:21:35Z",
+          "rel_key": "AN1/TD/TD4/TACHE_AN1_TD4_ex5.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex6": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "37833ec8654309eb56d21f22beb7cf0e",
+          "message_id": "1497497801825845248",
+          "published_at": "2026-04-25T07:21:38Z",
+          "rel_key": "AN1/TD/TD4/TACHE_AN1_TD4_ex6.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex7": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "b9930ef9acf2bdaf76410362a0b7315a",
+          "message_id": "1497497812386971781",
+          "published_at": "2026-04-25T07:21:40Z",
+          "rel_key": "AN1/TD/TD4/TACHE_AN1_TD4_ex7.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex8": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "406ab42be8510e7df5bd735bf510aa90",
+          "message_id": "1497497822667345960",
+          "published_at": "2026-04-25T07:21:43Z",
+          "rel_key": "AN1/TD/TD4/TACHE_AN1_TD4_ex8.md",
+          "size_mb": 0.01,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "TD",
+        "Slides",
+        "TACHE",
+        "Script oral"
+      ],
+      "thread_id": "1497497748927287367",
+      "title": "[TD4] Étude globale de fonctions",
+      "type": "TD"
+    },
+    "AN1__TD__5": {
+      "annee": null,
+      "created_at": "2026-04-28T05:46:12Z",
+      "forum_id": "1497497569788694688",
+      "last_updated": "2026-05-04T13:18:32Z",
+      "matiere": "AN1",
+      "num": "5",
+      "posts": {
+        "script:global:md": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "dfd5b46c31ccff0e3c5e3e3f5ec610c4",
+          "message_id": "1500848995163963423",
+          "published_at": "2026-05-04T13:18:06Z",
+          "rel_key": "AN1/TD/TD5/scripts_oraux/SCRIPT_AN1_TD5_global_transcription.md",
+          "size_mb": 0.03,
+          "version": 6
+        },
+        "script:global:txt": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "c061cafb7009f128f5570c89f5dd946e",
+          "message_id": "1500849021936472124",
+          "published_at": "2026-05-04T13:18:12Z",
+          "rel_key": "AN1/TD/TD5/scripts_oraux/script_oral_AN1_TD5_global_transcription.txt",
+          "size_mb": 0.02,
+          "version": 6
+        },
+        "script_print:global": {
+          "is_too_big": false,
+          "kind": "script_print",
+          "md5": "9e54af0bcfd9748b489457f90d2b6c67",
+          "message_id": "1500849045487489235",
+          "published_at": "2026-05-04T13:18:17Z",
+          "rel_key": "AN1/TD/TD5/scripts_oraux/script_imprimable_AN1_TD5_global_transcription.pdf",
+          "size_mb": 0.26,
+          "version": 6
+        },
+        "slides:global": {
+          "is_too_big": false,
+          "kind": "slides",
+          "md5": "f610c3cd2b8c0e317665190d0f37bd52",
+          "message_id": "1500849070493798581",
+          "published_at": "2026-05-04T13:18:23Z",
+          "rel_key": "AN1/TD/TD5/scripts_oraux/slides_AN1_TD5_global_transcription.pdf",
+          "size_mb": 0.4,
+          "version": 6
+        },
+        "slides_src:global": {
+          "is_too_big": false,
+          "kind": "slides_src",
+          "md5": "37a8366df8255fc1730842a9f0da1911",
+          "message_id": "1500849094824951848",
+          "published_at": "2026-05-04T13:18:29Z",
+          "rel_key": "AN1/TD/TD5/scripts_oraux/slides_AN1_TD5_global_transcription.tex",
+          "size_mb": 0.01,
+          "version": 6
+        },
+        "tache:ex1": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "cf7d897de7355f3a9fb966b93fe28b14",
+          "message_id": "1498560951757312012",
+          "published_at": "2026-04-28T05:46:13Z",
+          "rel_key": "AN1/TD/TD5/TACHE_AN1_TD5_ex1.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex10": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "d973ba78275b90d4c3de6a613b1ca578",
+          "message_id": "1498561044837306450",
+          "published_at": "2026-04-28T05:46:35Z",
+          "rel_key": "AN1/TD/TD5/TACHE_AN1_TD5_ex10.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex11": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "d36b2608c452a872317a956c27fd71d3",
+          "message_id": "1498561055113351310",
+          "published_at": "2026-04-28T05:46:37Z",
+          "rel_key": "AN1/TD/TD5/TACHE_AN1_TD5_ex11.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex2": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "9ade9580a05b34c878f26b46b2d05225",
+          "message_id": "1498560961991147623",
+          "published_at": "2026-04-28T05:46:15Z",
+          "rel_key": "AN1/TD/TD5/TACHE_AN1_TD5_ex2.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex3": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "4961b1522f3fc245cef089693ddbe4a6",
+          "message_id": "1498560971726389269",
+          "published_at": "2026-04-28T05:46:18Z",
+          "rel_key": "AN1/TD/TD5/TACHE_AN1_TD5_ex3.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex4": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "6831e5e86b9aa28045066bc197b23945",
+          "message_id": "1498560982581121134",
+          "published_at": "2026-04-28T05:46:20Z",
+          "rel_key": "AN1/TD/TD5/TACHE_AN1_TD5_ex4.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex5": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "98b207ddce6b735a04d89203bff2ff35",
+          "message_id": "1500568032949436426",
+          "published_at": "2026-05-03T18:41:38Z",
+          "rel_key": "AN1/TD/TD5/TACHE_AN1_TD5_ex5.md",
+          "size_mb": 0.01,
+          "version": 2
+        },
+        "tache:ex6": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "14a882706082777f62b6df1bcc20e6b2",
+          "message_id": "1500568044647223328",
+          "published_at": "2026-05-03T18:41:41Z",
+          "rel_key": "AN1/TD/TD5/TACHE_AN1_TD5_ex6.md",
+          "size_mb": 0.01,
+          "version": 2
+        },
+        "tache:ex7": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "2324214800b4bc8c1fac42c8c0a8e21a",
+          "message_id": "1500848924230025407",
+          "published_at": "2026-05-04T13:17:49Z",
+          "rel_key": "AN1/TD/TD5/TACHE_AN1_TD5_ex7.md",
+          "size_mb": 0.01,
+          "version": 2
+        },
+        "tache:ex8": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "27033ec8a0c32300beaed96f7bce10e1",
+          "message_id": "1500848937412853801",
+          "published_at": "2026-05-04T13:17:52Z",
+          "rel_key": "AN1/TD/TD5/TACHE_AN1_TD5_ex8.md",
+          "size_mb": 0.01,
+          "version": 2
+        },
+        "tache:ex9": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "3d1b800c928edda5801b8bd69bfcabee",
+          "message_id": "1500848952340250654",
+          "published_at": "2026-05-04T13:17:55Z",
+          "rel_key": "AN1/TD/TD5/TACHE_AN1_TD5_ex9.md",
+          "size_mb": 0.01,
+          "version": 2
+        }
+      },
+      "tags_applied": [
+        "TD",
+        "Script oral",
+        "Slides",
+        "TACHE"
+      ],
+      "thread_id": "1498560951073640508",
+      "title": "[TD5] Intégrations",
+      "type": "TD"
+    },
+    "EN1__CC__1__2023-24": {
+      "annee": "2023-24",
+      "created_at": "2026-04-25T07:38:18Z",
+      "forum_id": "1497497570841460746",
+      "last_updated": "2026-04-27T21:28:57Z",
+      "matiere": "EN1",
+      "num": "1",
+      "posts": {
+        "tache:global": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "6c47bab5db4da614d8c888cfc04ac412",
+          "message_id": "1498435804756836482",
+          "published_at": "2026-04-27T21:28:55Z",
+          "rel_key": "EN1/CC/TACHE_EN1_CC1_2023-24.md",
+          "size_mb": 0.01,
+          "version": 2
+        }
+      },
+      "tags_applied": [
+        "CC",
+        "TACHE"
+      ],
+      "thread_id": "1497501996968579122",
+      "title": "[CC1 2023-24] Représentation et logique combinatoire",
+      "type": "CC"
+    },
+    "EN1__CC__1__2024-25": {
+      "annee": "2024-25",
+      "created_at": "2026-04-25T07:38:36Z",
+      "forum_id": "1497497570841460746",
+      "last_updated": "2026-04-27T21:29:01Z",
+      "matiere": "EN1",
+      "num": "1",
+      "posts": {
+        "tache:global": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "991cd6eb7957d61d2ec5345c8b97e107",
+          "message_id": "1498435820984467606",
+          "published_at": "2026-04-27T21:28:59Z",
+          "rel_key": "EN1/CC/TACHE_EN1_CC1_2024-25.md",
+          "size_mb": 0.01,
+          "version": 2
+        }
+      },
+      "tags_applied": [
+        "CC",
+        "TACHE"
+      ],
+      "thread_id": "1497502072554393663",
+      "title": "[CC1 2024-25] Représentation et logique combinatoire",
+      "type": "CC"
+    },
+    "EN1__CC__1__2025-26": {
+      "annee": "2025-26",
+      "created_at": "2026-04-25T07:38:54Z",
+      "forum_id": "1497497570841460746",
+      "last_updated": "2026-04-27T21:29:18Z",
+      "matiere": "EN1",
+      "num": "1",
+      "posts": {
+        "script:global:json": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "ba141585f3597354cf6d96675f880660",
+          "message_id": "1497502160315744276",
+          "published_at": "2026-04-25T07:38:57Z",
+          "rel_key": "EN1/CC/scripts_oraux/project_EN1_CC1_2025-26.json",
+          "size_mb": 0.08,
+          "version": 1
+        },
+        "script:global:md": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "aa929f0e27f85eefd9a06b9264e346d4",
+          "message_id": "1497502171149762640",
+          "published_at": "2026-04-25T07:38:59Z",
+          "rel_key": "EN1/CC/scripts_oraux/SCRIPT_EN1_CC1_2025-26.md",
+          "size_mb": 0.04,
+          "version": 1
+        },
+        "script:global:txt": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "71623b768b1d3001596f3802ff3dbe08",
+          "message_id": "1497502181413355671",
+          "published_at": "2026-04-25T07:39:02Z",
+          "rel_key": "EN1/CC/scripts_oraux/script_oral_EN1_CC1_2025-26.txt",
+          "size_mb": 0.02,
+          "version": 1
+        },
+        "script_print:global": {
+          "is_too_big": false,
+          "kind": "script_print",
+          "md5": "6d0e8415d4ce8b354fd8fd9b46a96f60",
+          "message_id": "1498435874122108999",
+          "published_at": "2026-04-27T21:29:12Z",
+          "rel_key": "EN1/CC/scripts_oraux/script_imprimable_EN1_CC1_2025-26.pdf",
+          "size_mb": 0.18,
+          "version": 1
+        },
+        "slides:global": {
+          "is_too_big": false,
+          "kind": "slides",
+          "md5": "fe970e9f65c80b69a2009883bbc94b85",
+          "message_id": "1497502192771399712",
+          "published_at": "2026-04-25T07:39:05Z",
+          "rel_key": "EN1/CC/scripts_oraux/slides_EN1_CC1_2025-26.pdf",
+          "size_mb": 0.4,
+          "version": 1
+        },
+        "slides_src:global": {
+          "is_too_big": false,
+          "kind": "slides_src",
+          "md5": "67cebef56e99b67847b48f594460bd7f",
+          "message_id": "1497502203596767242",
+          "published_at": "2026-04-25T07:39:07Z",
+          "rel_key": "EN1/CC/scripts_oraux/slides_EN1_CC1_2025-26.tex",
+          "size_mb": 0.02,
+          "version": 1
+        },
+        "tache:global": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "1ee16cfb7819be2abba74da55b54edcc",
+          "message_id": "1498435837287731352",
+          "published_at": "2026-04-27T21:29:03Z",
+          "rel_key": "EN1/CC/TACHE_EN1_CC1_2025-26.md",
+          "size_mb": 0.02,
+          "version": 2
+        }
+      },
+      "tags_applied": [
+        "CC",
+        "TACHE",
+        "Slides",
+        "Script oral"
+      ],
+      "thread_id": "1497502148949442630",
+      "title": "[CC1 2025-26]",
+      "type": "CC"
+    },
+    "EN1__CC__2__2023-24": {
+      "annee": "2023-24",
+      "created_at": "2026-04-27T21:29:25Z",
+      "forum_id": "1497497570841460746",
+      "last_updated": "2026-04-27T21:29:45Z",
+      "matiere": "EN1",
+      "num": "2",
+      "posts": {
+        "script:global:json": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "467a3b16e033bd7b8aaa4cf6adf4799f",
+          "message_id": "1498435949556662374",
+          "published_at": "2026-04-27T21:29:30Z",
+          "rel_key": "EN1/CC/scripts_oraux/project_EN1_CC2_2023-24.json",
+          "size_mb": 0.09,
+          "version": 1
+        },
+        "script:global:md": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "8ca067e729e64b723bae4420cc235f99",
+          "message_id": "1498435960193683586",
+          "published_at": "2026-04-27T21:29:32Z",
+          "rel_key": "EN1/CC/scripts_oraux/SCRIPT_EN1_CC2_2023-24.md",
+          "size_mb": 0.04,
+          "version": 1
+        },
+        "script:global:txt": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "9e2be5847283bfa690dd2f075b95a458",
+          "message_id": "1498435970658336798",
+          "published_at": "2026-04-27T21:29:35Z",
+          "rel_key": "EN1/CC/scripts_oraux/script_oral_EN1_CC2_2023-24.txt",
+          "size_mb": 0.03,
+          "version": 1
+        },
+        "script_print:global": {
+          "is_too_big": false,
+          "kind": "script_print",
+          "md5": "a193c3f9c975af159512633ef1d49b75",
+          "message_id": "1498435981689487622",
+          "published_at": "2026-04-27T21:29:38Z",
+          "rel_key": "EN1/CC/scripts_oraux/script_imprimable_EN1_CC2_2023-24.pdf",
+          "size_mb": 0.19,
+          "version": 1
+        },
+        "slides:global": {
+          "is_too_big": false,
+          "kind": "slides",
+          "md5": "c95cfcf79d62373b428bf6dfe16b5119",
+          "message_id": "1498435995283095743",
+          "published_at": "2026-04-27T21:29:41Z",
+          "rel_key": "EN1/CC/scripts_oraux/slides_EN1_CC2_2023-24.pdf",
+          "size_mb": 0.35,
+          "version": 1
+        },
+        "slides_src:global": {
+          "is_too_big": false,
+          "kind": "slides_src",
+          "md5": "e5274f7902a34e380edb97493add2adf",
+          "message_id": "1498436005466996766",
+          "published_at": "2026-04-27T21:29:43Z",
+          "rel_key": "EN1/CC/scripts_oraux/slides_EN1_CC2_2023-24.tex",
+          "size_mb": 0.02,
+          "version": 1
+        },
+        "tache:global": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "2b158fea36093201660480f4faea6091",
+          "message_id": "1498435933723295918",
+          "published_at": "2026-04-27T21:29:27Z",
+          "rel_key": "EN1/CC/TACHE_EN1_CC2_2023-24.md",
+          "size_mb": 0.02,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "CC",
+        "TACHE",
+        "Slides",
+        "Script oral"
+      ],
+      "thread_id": "1498435931848446004",
+      "title": "[CC2 2023-24] Codeurs et multiplexeurs",
+      "type": "CC"
+    },
+    "EN1__CC__2__2024-25": {
+      "annee": "2024-25",
+      "created_at": "2026-04-27T22:44:56Z",
+      "forum_id": "1497497570841460746",
+      "last_updated": "2026-04-27T22:45:16Z",
+      "matiere": "EN1",
+      "num": "2",
+      "posts": {
+        "script:global:json": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "9de8ad830dece7f3b67c49067cd8c2c1",
+          "message_id": "1498454947271020588",
+          "published_at": "2026-04-27T22:44:59Z",
+          "rel_key": "EN1/CC/scripts_oraux/project_EN1_CC2_2024-25.json",
+          "size_mb": 0.08,
+          "version": 1
+        },
+        "script:global:md": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "27bd6b297e24ae5072296970f9feb6cc",
+          "message_id": "1498454958360756224",
+          "published_at": "2026-04-27T22:45:03Z",
+          "rel_key": "EN1/CC/scripts_oraux/SCRIPT_EN1_CC2_2024-25.md",
+          "size_mb": 0.04,
+          "version": 1
+        },
+        "script:global:txt": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "09c80dd19de4a38d473a1e9149c09bba",
+          "message_id": "1498454975951671387",
+          "published_at": "2026-04-27T22:45:06Z",
+          "rel_key": "EN1/CC/scripts_oraux/script_oral_EN1_CC2_2024-25.txt",
+          "size_mb": 0.03,
+          "version": 1
+        },
+        "script_print:global": {
+          "is_too_big": false,
+          "kind": "script_print",
+          "md5": "34fbaf8bd468651093ba150dc1747f52",
+          "message_id": "1498454986500346008",
+          "published_at": "2026-04-27T22:45:08Z",
+          "rel_key": "EN1/CC/scripts_oraux/script_imprimable_EN1_CC2_2024-25.pdf",
+          "size_mb": 0.21,
+          "version": 1
+        },
+        "slides:global": {
+          "is_too_big": false,
+          "kind": "slides",
+          "md5": "4676740171b9007c8c5aab6aed55cad5",
+          "message_id": "1498454998172831795",
+          "published_at": "2026-04-27T22:45:11Z",
+          "rel_key": "EN1/CC/scripts_oraux/slides_EN1_CC2_2024-25.pdf",
+          "size_mb": 0.32,
+          "version": 1
+        },
+        "slides_src:global": {
+          "is_too_big": false,
+          "kind": "slides_src",
+          "md5": "0a1549c0e6cc13d44ac7e58c9dea41da",
+          "message_id": "1498455009162166423",
+          "published_at": "2026-04-27T22:45:14Z",
+          "rel_key": "EN1/CC/scripts_oraux/slides_EN1_CC2_2024-25.tex",
+          "size_mb": 0.02,
+          "version": 1
+        },
+        "tache:global": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "1b475f354eea506009262a005d14ee43",
+          "message_id": "1498454935522771106",
+          "published_at": "2026-04-27T22:44:57Z",
+          "rel_key": "EN1/CC/TACHE_EN1_CC2_2024-25.md",
+          "size_mb": 0.03,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "CC",
+        "TACHE",
+        "Slides",
+        "Script oral"
+      ],
+      "thread_id": "1498454933899317289",
+      "title": "[CC2 2024-25] Codeurs et multiplexeurs",
+      "type": "CC"
+    },
+    "EN1__CC__2__2025-26": {
+      "annee": "2025-26",
+      "created_at": "2026-05-09T19:46:03Z",
+      "forum_id": "1497497570841460746",
+      "last_updated": "2026-05-09T19:46:19Z",
+      "matiere": "EN1",
+      "num": "2",
+      "posts": {
+        "script:global:md": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "70dc83b872738df85ab61ef7acf97508",
+          "message_id": "1502758587418546327",
+          "published_at": "2026-05-09T19:46:06Z",
+          "rel_key": "EN1/CC/scripts_oraux/SCRIPT_EN1_CC2_2025-26.md",
+          "size_mb": 0.04,
+          "version": 1
+        },
+        "script:global:txt": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "2be5f2e012e7e075fae8dce2ce9595de",
+          "message_id": "1502758597833134301",
+          "published_at": "2026-05-09T19:46:09Z",
+          "rel_key": "EN1/CC/scripts_oraux/script_oral_EN1_CC2_2025-26.txt",
+          "size_mb": 0.02,
+          "version": 1
+        },
+        "script_print:global": {
+          "is_too_big": false,
+          "kind": "script_print",
+          "md5": "97cbead393a1fed56838164b76364b9d",
+          "message_id": "1502758608339734528",
+          "published_at": "2026-05-09T19:46:11Z",
+          "rel_key": "EN1/CC/scripts_oraux/script_imprimable_EN1_CC2_2025-26.pdf",
+          "size_mb": 0.18,
+          "version": 1
+        },
+        "slides:global": {
+          "is_too_big": false,
+          "kind": "slides",
+          "md5": "90fc183d392b782b68277d49b5a3e7d3",
+          "message_id": "1502758620574519356",
+          "published_at": "2026-05-09T19:46:14Z",
+          "rel_key": "EN1/CC/scripts_oraux/slides_EN1_CC2_2025-26.pdf",
+          "size_mb": 0.35,
+          "version": 1
+        },
+        "slides_src:global": {
+          "is_too_big": false,
+          "kind": "slides_src",
+          "md5": "f408497238c1b45e7a33cec7ef9453eb",
+          "message_id": "1502758630477271111",
+          "published_at": "2026-05-09T19:46:17Z",
+          "rel_key": "EN1/CC/scripts_oraux/slides_EN1_CC2_2025-26.tex",
+          "size_mb": 0.02,
+          "version": 1
+        },
+        "tache:global": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "d4784319c578fa5652fdb2d1d951c1e3",
+          "message_id": "1502758576949694465",
+          "published_at": "2026-05-09T19:46:04Z",
+          "rel_key": "EN1/CC/TACHE_EN1_CC2_2025-26.md",
+          "size_mb": 0.04,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "CC",
+        "Slides",
+        "TACHE",
+        "Script oral"
+      ],
+      "thread_id": "1502758575859302561",
+      "title": "[CC2 2025-26] MUX/DEMUX et opérateurs combinatoires",
+      "type": "CC"
+    },
+    "EN1__TD__1": {
+      "annee": null,
+      "created_at": "2026-04-25T07:40:26Z",
+      "forum_id": "1497497570841460746",
+      "last_updated": "2026-04-27T21:29:57Z",
+      "matiere": "EN1",
+      "num": "1",
+      "posts": {
+        "tache:ex1": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "d00eb51f6f41449ae8ef917da467e11d",
+          "message_id": "1497502537421422622",
+          "published_at": "2026-04-25T07:40:27Z",
+          "rel_key": "EN1/TD/TD1/TACHE_EN1_TD1_ex1.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex2": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "b4669d2d88ea8fa0dc011723faff27f1",
+          "message_id": "1497502546942627962",
+          "published_at": "2026-04-25T07:40:29Z",
+          "rel_key": "EN1/TD/TD1/TACHE_EN1_TD1_ex2.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex3": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "f75f918a0760ef875794fe35189266ae",
+          "message_id": "1497502557516599426",
+          "published_at": "2026-04-25T07:40:32Z",
+          "rel_key": "EN1/TD/TD1/TACHE_EN1_TD1_ex3.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex4": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "5a327440096f60c5b8cecfbbe2f5fc95",
+          "message_id": "1497502568199229641",
+          "published_at": "2026-04-25T07:40:34Z",
+          "rel_key": "EN1/TD/TD1/TACHE_EN1_TD1_ex4.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex5": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "2ac21f047e780cf87dfb9f3801ec5571",
+          "message_id": "1498436055261642813",
+          "published_at": "2026-04-27T21:29:55Z",
+          "rel_key": "EN1/TD/TD1/TACHE_EN1_TD1_ex5.md",
+          "size_mb": 0.01,
+          "version": 2
+        }
+      },
+      "tags_applied": [
+        "TD",
+        "TACHE"
+      ],
+      "thread_id": "1497502536221851688",
+      "title": "[TD1] Représentation des nombres – Tables de vérité des portes logiques",
+      "type": "TD"
+    },
+    "EN1__TD__2": {
+      "annee": null,
+      "created_at": "2026-04-25T07:40:54Z",
+      "forum_id": "1497497570841460746",
+      "last_updated": "2026-04-25T07:41:04Z",
+      "matiere": "EN1",
+      "num": "2",
+      "posts": {
+        "tache:ex1": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "3a0fbc25548d2454e73a4d3c178404b4",
+          "message_id": "1497502655113855066",
+          "published_at": "2026-04-25T07:40:55Z",
+          "rel_key": "EN1/TD/TD2/TACHE_EN1_TD2_ex1.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex2": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "0452c6231e9d8564f689060fa42e49af",
+          "message_id": "1497502664794050590",
+          "published_at": "2026-04-25T07:40:57Z",
+          "rel_key": "EN1/TD/TD2/TACHE_EN1_TD2_ex2.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex3": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "d8c54e508e1c0de051f2b6b86479c7a7",
+          "message_id": "1497502674965368903",
+          "published_at": "2026-04-25T07:40:59Z",
+          "rel_key": "EN1/TD/TD2/TACHE_EN1_TD2_ex3.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex4": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "f0dbcf7c7ef7b99cb6b155e01dd74732",
+          "message_id": "1497502684847280250",
+          "published_at": "2026-04-25T07:41:02Z",
+          "rel_key": "EN1/TD/TD2/TACHE_EN1_TD2_ex4.md",
+          "size_mb": 0.01,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "TD",
+        "TACHE"
+      ],
+      "thread_id": "1497502653280686150",
+      "title": "[TD2] Simplification des fonctions logiques",
+      "type": "TD"
+    },
+    "EN1__TD__3": {
+      "annee": null,
+      "created_at": "2026-04-25T07:41:20Z",
+      "forum_id": "1497497570841460746",
+      "last_updated": "2026-04-25T07:41:36Z",
+      "matiere": "EN1",
+      "num": "3",
+      "posts": {
+        "tache:ex1": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "f9424cb6f61b5bae63102a8e4f45f3be",
+          "message_id": "1497502767357366373",
+          "published_at": "2026-04-25T07:41:22Z",
+          "rel_key": "EN1/TD/TD3/TACHE_EN1_TD3_ex1.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex2": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "7573e2602def27f36965bffbc2f5ac98",
+          "message_id": "1497502778518405132",
+          "published_at": "2026-04-25T07:41:24Z",
+          "rel_key": "EN1/TD/TD3/TACHE_EN1_TD3_ex2.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex3": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "f01fb31c2e4ea5f0e3649b7912e76329",
+          "message_id": "1497502790006734858",
+          "published_at": "2026-04-25T07:41:27Z",
+          "rel_key": "EN1/TD/TD3/TACHE_EN1_TD3_ex3.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex4": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "3b8be79a7903697e2f2c4cbd33187660",
+          "message_id": "1497502800110813326",
+          "published_at": "2026-04-25T07:41:31Z",
+          "rel_key": "EN1/TD/TD3/TACHE_EN1_TD3_ex4.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex5": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "4056e9f6fc5bffbc1ebc0c86fb264590",
+          "message_id": "1497502817445871687",
+          "published_at": "2026-04-25T07:41:34Z",
+          "rel_key": "EN1/TD/TD3/TACHE_EN1_TD3_ex5.md",
+          "size_mb": 0.01,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "TD",
+        "TACHE"
+      ],
+      "thread_id": "1497502759476531300",
+      "title": "[TD3] Simplification des fonctions logiques",
+      "type": "TD"
+    },
+    "EN1__TD__4": {
+      "annee": null,
+      "created_at": "2026-04-25T07:41:51Z",
+      "forum_id": "1497497570841460746",
+      "last_updated": "2026-04-27T21:30:07Z",
+      "matiere": "EN1",
+      "num": "4",
+      "posts": {
+        "tache:ex1": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "e3ad6ce522a060f2f8b0b9f4fc84a3d4",
+          "message_id": "1498436070793019502",
+          "published_at": "2026-04-27T21:29:59Z",
+          "rel_key": "EN1/TD/TD4/TACHE_EN1_TD4_ex1.md",
+          "size_mb": 0.01,
+          "version": 2
+        },
+        "tache:ex2": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "0d0df5dd92fe743ab64fde556e8f0f7d",
+          "message_id": "1497502902917267557",
+          "published_at": "2026-04-25T07:41:54Z",
+          "rel_key": "EN1/TD/TD4/TACHE_EN1_TD4_ex2.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex3": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "3dfecf5c29fec3ea83579a7caa11967d",
+          "message_id": "1497502912556040314",
+          "published_at": "2026-04-25T07:41:56Z",
+          "rel_key": "EN1/TD/TD4/TACHE_EN1_TD4_ex3.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex4": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "99e262c6472af9ccd7f03b727e4b347a",
+          "message_id": "1497502926837518356",
+          "published_at": "2026-04-25T07:42:00Z",
+          "rel_key": "EN1/TD/TD4/TACHE_EN1_TD4_ex4.md",
+          "size_mb": 0.01,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "TD",
+        "TACHE"
+      ],
+      "thread_id": "1497502892024795186",
+      "title": "[TD4] Additionneurs et fonctions arithmétiques",
+      "type": "TD"
+    },
+    "EN1__TD__5": {
+      "annee": null,
+      "created_at": "2026-04-25T07:42:17Z",
+      "forum_id": "1497497570841460746",
+      "last_updated": "2026-05-03T07:52:26Z",
+      "matiere": "EN1",
+      "num": "5",
+      "posts": {
+        "script:global:md": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "c012455ec26adb192b87fb020c9c6a9a",
+          "message_id": "1500404613084352633",
+          "published_at": "2026-05-03T07:52:14Z",
+          "rel_key": "EN1/TD/TD5/scripts_oraux/SCRIPT_EN1_TD5.md",
+          "size_mb": 0.03,
+          "version": 1
+        },
+        "script:global:txt": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "43307abb699637ce441534913680e493",
+          "message_id": "1500404623813509180",
+          "published_at": "2026-05-03T07:52:17Z",
+          "rel_key": "EN1/TD/TD5/scripts_oraux/script_oral_EN1_TD5.txt",
+          "size_mb": 0.02,
+          "version": 1
+        },
+        "script_print:global": {
+          "is_too_big": false,
+          "kind": "script_print",
+          "md5": "068bc3c77fdd0e66eb3d720d825cfa6b",
+          "message_id": "1500404634056003625",
+          "published_at": "2026-05-03T07:52:20Z",
+          "rel_key": "EN1/TD/TD5/scripts_oraux/script_imprimable_EN1_TD5.pdf",
+          "size_mb": 0.18,
+          "version": 1
+        },
+        "slides:global": {
+          "is_too_big": false,
+          "kind": "slides",
+          "md5": "9e8f0c183d4b6988db6e4ec8ac6d20d7",
+          "message_id": "1500404645082828841",
+          "published_at": "2026-05-03T07:52:22Z",
+          "rel_key": "EN1/TD/TD5/scripts_oraux/slides_EN1_TD5.pdf",
+          "size_mb": 0.22,
+          "version": 1
+        },
+        "slides_src:global": {
+          "is_too_big": false,
+          "kind": "slides_src",
+          "md5": "c897b0db8f00779d0313e5f476441e52",
+          "message_id": "1500404654440321227",
+          "published_at": "2026-05-03T07:52:24Z",
+          "rel_key": "EN1/TD/TD5/scripts_oraux/slides_EN1_TD5.tex",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex1": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "3cb4eadbb49a79e93c4b9d081b12d90a",
+          "message_id": "1500404603068616704",
+          "published_at": "2026-05-03T07:52:12Z",
+          "rel_key": "EN1/TD/TD5/TACHE_EN1_TD5_ex1q2.md",
+          "size_mb": 0.01,
+          "version": 6
+        }
+      },
+      "tags_applied": [
+        "TD",
+        "Script oral",
+        "Slides",
+        "TACHE"
+      ],
+      "thread_id": "1497503001760366684",
+      "title": "[TD5] Comparateurs",
+      "type": "TD"
+    },
+    "EN1__TD__6": {
+      "annee": null,
+      "created_at": "2026-04-25T07:42:42Z",
+      "forum_id": "1497497570841460746",
+      "last_updated": "2026-05-03T07:52:46Z",
+      "matiere": "EN1",
+      "num": "6",
+      "posts": {
+        "script:global:md": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "6a76338a92343ef58d065afe5160a42d",
+          "message_id": "1500404692528791554",
+          "published_at": "2026-05-03T07:52:33Z",
+          "rel_key": "EN1/TD/TD6/scripts_oraux/SCRIPT_EN1_TD6.md",
+          "size_mb": 0.03,
+          "version": 1
+        },
+        "script:global:txt": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "aae9da44ccce602da3365aabb00d73b4",
+          "message_id": "1500404703022944296",
+          "published_at": "2026-05-03T07:52:36Z",
+          "rel_key": "EN1/TD/TD6/scripts_oraux/script_oral_EN1_TD6.txt",
+          "size_mb": 0.02,
+          "version": 1
+        },
+        "script_print:global": {
+          "is_too_big": false,
+          "kind": "script_print",
+          "md5": "fbc621376d1ff43add2127a2c809bfcf",
+          "message_id": "1500404715362582608",
+          "published_at": "2026-05-03T07:52:39Z",
+          "rel_key": "EN1/TD/TD6/scripts_oraux/script_imprimable_EN1_TD6.pdf",
+          "size_mb": 0.19,
+          "version": 1
+        },
+        "slides:global": {
+          "is_too_big": false,
+          "kind": "slides",
+          "md5": "b4df5acee0931d36d911703e14855aed",
+          "message_id": "1500404724975796275",
+          "published_at": "2026-05-03T07:52:41Z",
+          "rel_key": "EN1/TD/TD6/scripts_oraux/slides_EN1_TD6.pdf",
+          "size_mb": 0.24,
+          "version": 1
+        },
+        "slides_src:global": {
+          "is_too_big": false,
+          "kind": "slides_src",
+          "md5": "e4efcb74c43155e11a2918d83c9400cb",
+          "message_id": "1500404735130341512",
+          "published_at": "2026-05-03T07:52:44Z",
+          "rel_key": "EN1/TD/TD6/scripts_oraux/slides_EN1_TD6.tex",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex1": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "dbcffdeff3ced54954c2cdf0dcfdb13e",
+          "message_id": "1498436111473705061",
+          "published_at": "2026-04-27T21:30:08Z",
+          "rel_key": "EN1/TD/TD6/TACHE_EN1_TD6_ex1.md",
+          "size_mb": 0.01,
+          "version": 2
+        },
+        "tache:ex2": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "a4398e9df775fbbc64efdb8cd16d8626",
+          "message_id": "1498436125356982342",
+          "published_at": "2026-04-27T21:30:12Z",
+          "rel_key": "EN1/TD/TD6/TACHE_EN1_TD6_ex2.md",
+          "size_mb": 0.01,
+          "version": 2
+        },
+        "tache:ex3": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "bea1bc828bbba27342a4a33afbc3c8bd",
+          "message_id": "1498436137780383755",
+          "published_at": "2026-04-27T21:30:15Z",
+          "rel_key": "EN1/TD/TD6/TACHE_EN1_TD6_ex3.md",
+          "size_mb": 0.01,
+          "version": 2
+        }
+      },
+      "tags_applied": [
+        "TD",
+        "Script oral",
+        "Slides",
+        "TACHE"
+      ],
+      "thread_id": "1497503104139264055",
+      "title": "[TD6] Codeurs 1",
+      "type": "TD"
+    },
+    "EN1__TD__7": {
+      "annee": null,
+      "created_at": "2026-04-25T07:43:05Z",
+      "forum_id": "1497497570841460746",
+      "last_updated": "2026-04-25T20:10:51Z",
+      "matiere": "EN1",
+      "num": "7",
+      "posts": {
+        "script:global:json": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "ad857f1f95464e7bb5a7f550373394dc",
+          "message_id": "1497503261660413973",
+          "published_at": "2026-04-25T07:43:20Z",
+          "rel_key": "EN1/TD/TD7/scripts_oraux/project_EN1_TD7.json",
+          "size_mb": 0.07,
+          "version": 1
+        },
+        "script:global:md": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "b4f254d5e8d8a44e2413ae8749b3d553",
+          "message_id": "1497503272829718659",
+          "published_at": "2026-04-25T07:43:22Z",
+          "rel_key": "EN1/TD/TD7/scripts_oraux/SCRIPT_EN1_TD7.md",
+          "size_mb": 0.03,
+          "version": 1
+        },
+        "script:global:txt": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "a77dad0a72cd8cb75c7fddfe879a0121",
+          "message_id": "1497503282946375710",
+          "published_at": "2026-04-25T07:43:24Z",
+          "rel_key": "EN1/TD/TD7/scripts_oraux/script_oral_EN1_TD7.txt",
+          "size_mb": 0.02,
+          "version": 1
+        },
+        "script_print:global": {
+          "is_too_big": false,
+          "kind": "script_print",
+          "md5": "f0ad423b0a6e06e9e9c869027d854347",
+          "message_id": "1497691359354814575",
+          "published_at": "2026-04-25T20:10:45Z",
+          "rel_key": "EN1/TD/TD7/scripts_oraux/script_imprimable_EN1_TD7.pdf",
+          "size_mb": 0.19,
+          "version": 1
+        },
+        "slides:global": {
+          "is_too_big": false,
+          "kind": "slides",
+          "md5": "ca1b61bbe3f0449eccbd04a95282bc3d",
+          "message_id": "1497503293708963971",
+          "published_at": "2026-04-25T07:43:27Z",
+          "rel_key": "EN1/TD/TD7/scripts_oraux/slides_EN1_TD7.pdf",
+          "size_mb": 0.24,
+          "version": 1
+        },
+        "slides_src:global": {
+          "is_too_big": false,
+          "kind": "slides_src",
+          "md5": "0f4780553ab0300ebd0116f16ce61e08",
+          "message_id": "1497503304010436618",
+          "published_at": "2026-04-25T07:43:30Z",
+          "rel_key": "EN1/TD/TD7/scripts_oraux/slides_EN1_TD7.tex",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex1": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "658e0ffab7d80888fddc264bcd45669b",
+          "message_id": "1497503201736523848",
+          "published_at": "2026-04-25T07:43:07Z",
+          "rel_key": "EN1/TD/TD7/TACHE_EN1_TD7_ex1.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex2": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "0124304d9209e52be8d2d870019d2ad4",
+          "message_id": "1497503220682194974",
+          "published_at": "2026-04-25T07:43:10Z",
+          "rel_key": "EN1/TD/TD7/TACHE_EN1_TD7_ex2.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex3": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "2e22b86dad6caba381b50604da89ffe4",
+          "message_id": "1497503230463315978",
+          "published_at": "2026-04-25T07:43:12Z",
+          "rel_key": "EN1/TD/TD7/TACHE_EN1_TD7_ex3.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex4": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "c5fdeeead52180771c7fcdfd0ff6dd74",
+          "message_id": "1497503240437366815",
+          "published_at": "2026-04-25T07:43:14Z",
+          "rel_key": "EN1/TD/TD7/TACHE_EN1_TD7_ex4.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex5": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "2d2d31edf7a09a3a82899a7cdbca6280",
+          "message_id": "1497503250352439320",
+          "published_at": "2026-04-25T07:43:17Z",
+          "rel_key": "EN1/TD/TD7/TACHE_EN1_TD7_ex5.md",
+          "size_mb": 0.01,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "TD",
+        "Slides",
+        "TACHE",
+        "Script oral"
+      ],
+      "thread_id": "1497503199773589546",
+      "title": "[TD7] Multiplexeurs",
+      "type": "TD"
+    },
+    "EN1__TD__8": {
+      "annee": null,
+      "created_at": "2026-04-25T07:43:48Z",
+      "forum_id": "1497497570841460746",
+      "last_updated": "2026-04-25T20:11:27Z",
+      "matiere": "EN1",
+      "num": "8",
+      "posts": {
+        "script:global:json": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "ce6515e14f6c909e90319403d6ecaca9",
+          "message_id": "1497503423946424420",
+          "published_at": "2026-04-25T07:43:58Z",
+          "rel_key": "EN1/TD/TD8/scripts_oraux/project_EN1_TD8.json",
+          "size_mb": 0.06,
+          "version": 1
+        },
+        "script:global:md": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "27e87a170989bff3ed8159c29e075362",
+          "message_id": "1497503434742567023",
+          "published_at": "2026-04-25T07:44:01Z",
+          "rel_key": "EN1/TD/TD8/scripts_oraux/SCRIPT_EN1_TD8.md",
+          "size_mb": 0.03,
+          "version": 1
+        },
+        "script:global:txt": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "890913a4be63d51f96b53781ccef5b4b",
+          "message_id": "1497503445152960513",
+          "published_at": "2026-04-25T07:44:03Z",
+          "rel_key": "EN1/TD/TD8/scripts_oraux/script_oral_EN1_TD8.txt",
+          "size_mb": 0.02,
+          "version": 1
+        },
+        "script_print:global": {
+          "is_too_big": false,
+          "kind": "script_print",
+          "md5": "85c31547ac1d4797848174b22b8c59d5",
+          "message_id": "1497691509686800425",
+          "published_at": "2026-04-25T20:11:21Z",
+          "rel_key": "EN1/TD/TD8/scripts_oraux/script_imprimable_EN1_TD8.pdf",
+          "size_mb": 0.12,
+          "version": 1
+        },
+        "slides:global": {
+          "is_too_big": false,
+          "kind": "slides",
+          "md5": "ae642394c17fcac005c353a1d52ffcbc",
+          "message_id": "1497503456217272484",
+          "published_at": "2026-04-25T07:44:06Z",
+          "rel_key": "EN1/TD/TD8/scripts_oraux/slides_EN1_TD8.pdf",
+          "size_mb": 0.29,
+          "version": 1
+        },
+        "slides_src:global": {
+          "is_too_big": false,
+          "kind": "slides_src",
+          "md5": "7fb5c0f697d3093de2af52caf654b0f2",
+          "message_id": "1497503467667980320",
+          "published_at": "2026-04-25T07:44:09Z",
+          "rel_key": "EN1/TD/TD8/scripts_oraux/slides_EN1_TD8.tex",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex1": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "bb91c3f96cd13ac509340e505f53a2a5",
+          "message_id": "1497503382192128030",
+          "published_at": "2026-04-25T07:43:48Z",
+          "rel_key": "EN1/TD/TD8/TACHE_EN1_TD8_ex1.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex2": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "5cbece9e24797df9a0edb472987b1e73",
+          "message_id": "1497503392472498207",
+          "published_at": "2026-04-25T07:43:51Z",
+          "rel_key": "EN1/TD/TD8/TACHE_EN1_TD8_ex2.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex3": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "abf8619326073f28473d0849e6ea78fa",
+          "message_id": "1497503402425323641",
+          "published_at": "2026-04-25T07:43:53Z",
+          "rel_key": "EN1/TD/TD8/TACHE_EN1_TD8_ex3.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex4": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "2ff6eeaa0fb056e6b101f0f48b2fe768",
+          "message_id": "1497503413288833055",
+          "published_at": "2026-04-25T07:43:56Z",
+          "rel_key": "EN1/TD/TD8/TACHE_EN1_TD8_ex4.md",
+          "size_mb": 0.01,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "TD",
+        "Slides",
+        "TACHE",
+        "Script oral"
+      ],
+      "thread_id": "1497503381152071700",
+      "title": "[TD8] Codeurs 2",
+      "type": "TD"
+    },
+    "EN1__TP__1": {
+      "annee": null,
+      "created_at": "2026-04-25T07:44:26Z",
+      "forum_id": "1497497570841460746",
+      "last_updated": "2026-04-25T07:44:29Z",
+      "matiere": "EN1",
+      "num": "1",
+      "posts": {
+        "tache:global": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "be02e8ebecc04ca2b1257c8c9b5904f7",
+          "message_id": "1497503544352444528",
+          "published_at": "2026-04-25T07:44:27Z",
+          "rel_key": "EN1/TP/TP1/TACHE_EN1_TP1.md",
+          "size_mb": 0.03,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "TP",
+        "TACHE"
+      ],
+      "thread_id": "1497503542091452580",
+      "title": "[TP1] Instrumentation et fonctions logiques",
+      "type": "TP"
+    },
+    "EN1__TP__2": {
+      "annee": null,
+      "created_at": "2026-04-25T07:44:45Z",
+      "forum_id": "1497497570841460746",
+      "last_updated": "2026-04-25T07:44:48Z",
+      "matiere": "EN1",
+      "num": "2",
+      "posts": {
+        "tache:global": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "4f03ae9a32f109a5378dd78aae8fc228",
+          "message_id": "1497503621867372595",
+          "published_at": "2026-04-25T07:44:45Z",
+          "rel_key": "EN1/TP/TP2/TACHE_EN1_TP2.md",
+          "size_mb": 0.04,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "TP",
+        "TACHE"
+      ],
+      "thread_id": "1497503620697034792",
+      "title": "[TP2] Partie 1 : Additionneur",
+      "type": "TP"
+    },
+    "EN1__TP__3": {
+      "annee": null,
+      "created_at": "2026-04-25T07:45:03Z",
+      "forum_id": "1497497570841460746",
+      "last_updated": "2026-04-27T21:30:20Z",
+      "matiere": "EN1",
+      "num": "3",
+      "posts": {
+        "tache:global": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "1a2fb1dd886d33d8f686ef5008160064",
+          "message_id": "1498436153085268110",
+          "published_at": "2026-04-27T21:30:18Z",
+          "rel_key": "EN1/TP/TP3/TACHE_EN1_TP3.md",
+          "size_mb": 0.03,
+          "version": 2
+        }
+      },
+      "tags_applied": [
+        "TP",
+        "TACHE"
+      ],
+      "thread_id": "1497503696894955531",
+      "title": "[TP3] Additionneur 4 bits",
+      "type": "TP"
+    },
+    "EN1__TP__4": {
+      "annee": null,
+      "created_at": "2026-04-25T07:45:21Z",
+      "forum_id": "1497497570841460746",
+      "last_updated": "2026-04-25T07:45:24Z",
+      "matiere": "EN1",
+      "num": "4",
+      "posts": {
+        "tache:global": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "3f4f4900c018679fec0ef5423d50c8e3",
+          "message_id": "1497503775273779272",
+          "published_at": "2026-04-25T07:45:22Z",
+          "rel_key": "EN1/TP/TP4/TACHE_EN1_TP4.md",
+          "size_mb": 0.04,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "TP",
+        "TACHE"
+      ],
+      "thread_id": "1497503773965291661",
+      "title": "[TP4] Pilotage d’afficheurs 7 segments",
+      "type": "TP"
+    },
+    "EN1__TP__5": {
+      "annee": null,
+      "created_at": "2026-04-25T07:45:39Z",
+      "forum_id": "1497497570841460746",
+      "last_updated": "2026-04-25T07:45:55Z",
+      "matiere": "EN1",
+      "num": "5",
+      "posts": {
+        "script:global:json": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "0db976d41839ad61fd2a6b8a71110ac0",
+          "message_id": "1497503863274602628",
+          "published_at": "2026-04-25T07:45:43Z",
+          "rel_key": "EN1/TP/TP5/scripts_oraux/project_EN1_TP5.json",
+          "size_mb": 0.12,
+          "version": 1
+        },
+        "script:global:md": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "181f118151113e19df238742b00e37bd",
+          "message_id": "1497503873160446063",
+          "published_at": "2026-04-25T07:45:45Z",
+          "rel_key": "EN1/TP/TP5/scripts_oraux/SCRIPT_EN1_TP5.md",
+          "size_mb": 0.05,
+          "version": 1
+        },
+        "script:global:txt": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "5bd8a5ec1fb924d0c55ce4df6fad5fd2",
+          "message_id": "1497503883704926248",
+          "published_at": "2026-04-25T07:45:48Z",
+          "rel_key": "EN1/TP/TP5/scripts_oraux/script_oral_EN1_TP5.txt",
+          "size_mb": 0.03,
+          "version": 1
+        },
+        "slides:global": {
+          "is_too_big": false,
+          "kind": "slides",
+          "md5": "a91b52d225373383c6d3abf9139eb497",
+          "message_id": "1497503894883008605",
+          "published_at": "2026-04-25T07:45:50Z",
+          "rel_key": "EN1/TP/TP5/scripts_oraux/slides_EN1_TP5.pdf",
+          "size_mb": 0.37,
+          "version": 1
+        },
+        "slides_src:global": {
+          "is_too_big": false,
+          "kind": "slides_src",
+          "md5": "d5dd19359fb2c612efff1f291ef66ffa",
+          "message_id": "1497503905246875658",
+          "published_at": "2026-04-25T07:45:53Z",
+          "rel_key": "EN1/TP/TP5/scripts_oraux/slides_EN1_TP5.tex",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:global": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "0937d6134d65227b10f1f5513e412673",
+          "message_id": "1497503851396337674",
+          "published_at": "2026-04-25T07:45:40Z",
+          "rel_key": "EN1/TP/TP5/TACHE_EN1_TP5.md",
+          "size_mb": 0.06,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "TP",
+        "TACHE",
+        "Script oral",
+        "Slides"
+      ],
+      "thread_id": "1497503849567486073",
+      "title": "[TP5] Multiplexeurs",
+      "type": "TP"
+    },
+    "EN1__TP__6": {
+      "annee": null,
+      "created_at": "2026-04-25T07:46:10Z",
+      "forum_id": "1497497570841460746",
+      "last_updated": "2026-04-27T21:30:37Z",
+      "matiere": "EN1",
+      "num": "6",
+      "posts": {
+        "script:global:json": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "39ad5f5ad8d1ad00048ede8ffd4d6301",
+          "message_id": "1497503992216027238",
+          "published_at": "2026-04-25T07:46:14Z",
+          "rel_key": "EN1/TP/TP6/scripts_oraux/project_EN1_TP6.json",
+          "size_mb": 0.12,
+          "version": 1
+        },
+        "script:global:md": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "6c0f7143d8325a5eca5d2ff5020bf58e",
+          "message_id": "1497504003368681532",
+          "published_at": "2026-04-25T07:46:16Z",
+          "rel_key": "EN1/TP/TP6/scripts_oraux/SCRIPT_EN1_TP6.md",
+          "size_mb": 0.05,
+          "version": 1
+        },
+        "script:global:txt": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "2e559ea51298a128f16921560ef12002",
+          "message_id": "1497504013544067112",
+          "published_at": "2026-04-25T07:46:19Z",
+          "rel_key": "EN1/TP/TP6/scripts_oraux/script_oral_EN1_TP6.txt",
+          "size_mb": 0.03,
+          "version": 1
+        },
+        "script_print:global": {
+          "is_too_big": false,
+          "kind": "script_print",
+          "md5": "d101842e02828edd04abcc5a70bfb43e",
+          "message_id": "1498436205413666859",
+          "published_at": "2026-04-27T21:30:31Z",
+          "rel_key": "EN1/TP/TP6/scripts_oraux/script_imprimable_EN1_TP6.pdf",
+          "size_mb": 0.2,
+          "version": 1
+        },
+        "slides:global": {
+          "is_too_big": false,
+          "kind": "slides",
+          "md5": "c803021bb1e8ecb42bb594cceedf2df8",
+          "message_id": "1497504025006964746",
+          "published_at": "2026-04-25T07:46:21Z",
+          "rel_key": "EN1/TP/TP6/scripts_oraux/slides_EN1_TP6.pdf",
+          "size_mb": 0.36,
+          "version": 1
+        },
+        "slides_src:global": {
+          "is_too_big": false,
+          "kind": "slides_src",
+          "md5": "7b1a7198633ade76e10af5d168cd6482",
+          "message_id": "1497504034729230378",
+          "published_at": "2026-04-25T07:46:24Z",
+          "rel_key": "EN1/TP/TP6/scripts_oraux/slides_EN1_TP6.tex",
+          "size_mb": 0.02,
+          "version": 1
+        },
+        "tache:global": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "3e381def6015c88edf389efc766e76b6",
+          "message_id": "1498436168843395313",
+          "published_at": "2026-04-27T21:30:22Z",
+          "rel_key": "EN1/TP/TP6/TACHE_EN1_TP6.md",
+          "size_mb": 0.02,
+          "version": 2
+        }
+      },
+      "tags_applied": [
+        "TP",
+        "TACHE",
+        "Slides",
+        "Script oral"
+      ],
+      "thread_id": "1497503978756505695",
+      "title": "[TP6] Codeur de Hamming",
+      "type": "TP"
+    },
+    "PRG2__CC__1__2024-25": {
+      "annee": "2024-25",
+      "created_at": "2026-04-25T07:23:43Z",
+      "forum_id": "1497497571600367630",
+      "last_updated": "2026-04-25T07:23:46Z",
+      "matiere": "PRG2",
+      "num": "1",
+      "posts": {
+        "tache:global": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "e9e943998d244fa05a9d6cef3e0199c4",
+          "message_id": "1497498330106691604",
+          "published_at": "2026-04-25T07:23:44Z",
+          "rel_key": "PRG2/CC/TACHE_PRG2_CC1_2024-25.md",
+          "size_mb": 0.02,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "CC",
+        "TACHE"
+      ],
+      "thread_id": "1497498328974360648",
+      "title": "[CC1 2024-25] Idris 2 — fonctions et types",
+      "type": "CC"
+    },
+    "PRG2__CC__1__2025-2026": {
+      "annee": "2025-2026",
+      "created_at": "2026-04-25T07:26:39Z",
+      "forum_id": "1497497571600367630",
+      "last_updated": "2026-04-25T07:26:43Z",
+      "matiere": "PRG2",
+      "num": "1",
+      "posts": {
+        "script:global:json": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "b72511d698c07f4509f28c54b29c490e",
+          "message_id": "1497499072427196488",
+          "published_at": "2026-04-25T07:26:41Z",
+          "rel_key": "PRG2/CC/2025-2026/CC1/scripts_oraux/test.json",
+          "size_mb": 1.44,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "CC",
+        "Script oral"
+      ],
+      "thread_id": "1497499067238846610",
+      "title": "[CC1 2025-2026]",
+      "type": "CC"
+    },
+    "PRG2__CC__1__2025-26": {
+      "annee": "2025-26",
+      "created_at": "2026-04-25T07:25:08Z",
+      "forum_id": "1497497571600367630",
+      "last_updated": "2026-04-25T07:26:24Z",
+      "matiere": "PRG2",
+      "num": "1",
+      "posts": {
+        "script:global:json": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "5182ea2aa5293699f5291e49fb3549e0",
+          "message_id": "1497498774489141298",
+          "published_at": "2026-04-25T07:25:29Z",
+          "rel_key": "PRG2/CC/2025-2026/CC1/scripts_oraux/project_PRG2_CC1_2025-26_echoue.render.json",
+          "size_mb": 0.01,
+          "version": 8
+        },
+        "script:global:md": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "9a2245a0f7f05e42832ff24c935b9a6e",
+          "message_id": "1497498792583237685",
+          "published_at": "2026-04-25T07:25:34Z",
+          "rel_key": "PRG2/CC/2025-2026/CC1/scripts_oraux/SCRIPT_PRG2_CC1_2025-26_echoue.md",
+          "size_mb": 0.04,
+          "version": 1
+        },
+        "script:global:txt": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "3c7b73ec437cf0232763d804333d8ab2",
+          "message_id": "1497498892739018904",
+          "published_at": "2026-04-25T07:25:58Z",
+          "rel_key": "PRG2/TP/TP6/exports/project_PRG2_CC1_2025-26_echoue_8e252c9e11f1435ba91b9401513d843e_20260422_095555_chapters.txt",
+          "size_mb": 0.01,
+          "version": 8
+        },
+        "slides:global": {
+          "is_too_big": false,
+          "kind": "slides",
+          "md5": "bd7d27a6e368d1cd7f6b67d601db959a",
+          "message_id": "1497498903459926036",
+          "published_at": "2026-04-25T07:26:00Z",
+          "rel_key": "PRG2/CC/2025-2026/CC1/scripts_oraux/slides_PRG2_CC1_2025-26_echoue.pdf",
+          "size_mb": 0.32,
+          "version": 1
+        },
+        "slides_src:global": {
+          "is_too_big": false,
+          "kind": "slides_src",
+          "md5": "0a7a47f0a5217d1f5f362b931efc208f",
+          "message_id": "1497498913404485632",
+          "published_at": "2026-04-25T07:26:03Z",
+          "rel_key": "PRG2/CC/2025-2026/CC1/scripts_oraux/slides_PRG2_CC1_2025-26_echoue.tex",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "video:global": {
+          "is_too_big": true,
+          "kind": "video",
+          "md5": "3eb6c3c0e1a928e71e8673355cfdfe8e",
+          "message_id": "1497498994396631090",
+          "published_at": "2026-04-25T07:26:22Z",
+          "rel_key": "PRG2/TP/TP6/exports/project_PRG2_CC1_2025-26_echoue_8e252c9e11f1435ba91b9401513d843e_20260422_095555.mp4",
+          "size_mb": 53.9,
+          "version": 7
+        }
+      },
+      "tags_applied": [
+        "CC",
+        "Vidéo",
+        "Script oral",
+        "Slides"
+      ],
+      "thread_id": "1497498684110409768",
+      "title": "[CC1 2025-26]",
+      "type": "CC"
+    },
+    "PRG2__CC__2__2024-25": {
+      "annee": "2024-25",
+      "created_at": "2026-04-28T05:18:06Z",
+      "forum_id": "1497497571600367630",
+      "last_updated": "2026-04-28T05:18:24Z",
+      "matiere": "PRG2",
+      "num": "2",
+      "posts": {
+        "script:global:json": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "6c1bfedb5df938b2417880314f91d66b",
+          "message_id": "1498553889648152606",
+          "published_at": "2026-04-28T05:18:09Z",
+          "rel_key": "PRG2/CC/2024-2025/CC2/scripts_oraux/project_PRG2_CC2_2024-25.json",
+          "size_mb": 0.06,
+          "version": 1
+        },
+        "script:global:md": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "303eceb783fbc00d7f110ad2d7483be5",
+          "message_id": "1498553899861147780",
+          "published_at": "2026-04-28T05:18:11Z",
+          "rel_key": "PRG2/CC/2024-2025/CC2/scripts_oraux/SCRIPT_PRG2_CC2_2024-25.md",
+          "size_mb": 0.04,
+          "version": 1
+        },
+        "script:global:txt": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "17b5ffbc7066f86fff7cda1b878b8013",
+          "message_id": "1498553910338650262",
+          "published_at": "2026-04-28T05:18:14Z",
+          "rel_key": "PRG2/CC/2024-2025/CC2/scripts_oraux/script_oral_PRG2_CC2_2024-25.txt",
+          "size_mb": 0.02,
+          "version": 1
+        },
+        "script_print:global": {
+          "is_too_big": false,
+          "kind": "script_print",
+          "md5": "6b502961394ce7a26ff80197cb5be3d5",
+          "message_id": "1498553921793425479",
+          "published_at": "2026-04-28T05:18:17Z",
+          "rel_key": "PRG2/CC/2024-2025/CC2/scripts_oraux/script_imprimable_PRG2_CC2_2024-25.pdf",
+          "size_mb": 0.17,
+          "version": 1
+        },
+        "slides:global": {
+          "is_too_big": false,
+          "kind": "slides",
+          "md5": "f87d8f2a70d1fdecded9bb742a327486",
+          "message_id": "1498553932832706610",
+          "published_at": "2026-04-28T05:18:19Z",
+          "rel_key": "PRG2/CC/2024-2025/CC2/scripts_oraux/slides_PRG2_CC2_2024-25.pdf",
+          "size_mb": 0.28,
+          "version": 1
+        },
+        "slides_src:global": {
+          "is_too_big": false,
+          "kind": "slides_src",
+          "md5": "f82cc7f5f97bf32dda4cbfd249953b0e",
+          "message_id": "1498553943058288741",
+          "published_at": "2026-04-28T05:18:22Z",
+          "rel_key": "PRG2/CC/2024-2025/CC2/scripts_oraux/slides_PRG2_CC2_2024-25.tex",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:global": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "9145a158727c90ff2e1926d3d8631880",
+          "message_id": "1498553878684368976",
+          "published_at": "2026-04-28T05:18:06Z",
+          "rel_key": "PRG2/CC/TACHE_PRG2_CC2_2024-25.md",
+          "size_mb": 0.02,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "CC",
+        "Script oral",
+        "Slides",
+        "TACHE"
+      ],
+      "thread_id": "1498553876956188702",
+      "title": "[CC2 2024-25] Idris 2 — récursion et listes",
+      "type": "CC"
+    },
+    "PRG2__CC__3__2024-25": {
+      "annee": "2024-25",
+      "created_at": "2026-05-14T14:17:38Z",
+      "forum_id": "1497497571600367630",
+      "last_updated": "2026-05-14T14:32:53Z",
+      "matiere": "PRG2",
+      "num": "3",
+      "posts": {
+        "script:global:md": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "404555019f7285b521e528758d73456c",
+          "message_id": "1504491647872925870",
+          "published_at": "2026-05-14T14:32:41Z",
+          "rel_key": "PRG2/CC/scripts_oraux/SCRIPT_PRG2_CC3_2024-25.md",
+          "size_mb": 0.02,
+          "version": 1
+        },
+        "script:global:txt": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "62b4b3b93dae3c770058a2438767c1eb",
+          "message_id": "1504491658908274780",
+          "published_at": "2026-05-14T14:32:44Z",
+          "rel_key": "PRG2/CC/scripts_oraux/script_oral_PRG2_CC3_2024-25.txt",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "script_print:global": {
+          "is_too_big": false,
+          "kind": "script_print",
+          "md5": "4b4cf914075b15260a709040fb649a7e",
+          "message_id": "1504491671524479097",
+          "published_at": "2026-05-14T14:32:46Z",
+          "rel_key": "PRG2/CC/scripts_oraux/script_imprimable_PRG2_CC3_2024-25.pdf",
+          "size_mb": 0.17,
+          "version": 1
+        },
+        "slides:global": {
+          "is_too_big": false,
+          "kind": "slides",
+          "md5": "962d3eaaacef6ac95497f0584fcc43ea",
+          "message_id": "1504491681435615234",
+          "published_at": "2026-05-14T14:32:49Z",
+          "rel_key": "PRG2/CC/scripts_oraux/slides_PRG2_CC3_2024-25.pdf",
+          "size_mb": 0.25,
+          "version": 1
+        },
+        "slides_src:global": {
+          "is_too_big": false,
+          "kind": "slides_src",
+          "md5": "2ad15bac93f4a6e979e7914a65850bc0",
+          "message_id": "1504491691510599851",
+          "published_at": "2026-05-14T14:32:51Z",
+          "rel_key": "PRG2/CC/scripts_oraux/slides_PRG2_CC3_2024-25.tex",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:global": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "e253cb907c9ac6451ace057a8ba14c52",
+          "message_id": "1504491637156352172",
+          "published_at": "2026-05-14T14:32:38Z",
+          "rel_key": "PRG2/CC/TACHE_PRG2_CC3_2024-25.md",
+          "size_mb": 0.04,
+          "version": 2
+        }
+      },
+      "tags_applied": [
+        "CC",
+        "Slides",
+        "Script oral",
+        "TACHE"
+      ],
+      "thread_id": "1504487859963428896",
+      "title": "[CC3 2024-25] Idris 2 — arbres binaires, récursion, ordre supérieur (Contrôle Terminal annale 202…",
+      "type": "CC"
+    },
+    "PRG2__CM__7": {
+      "annee": null,
+      "created_at": "2026-05-06T05:29:40Z",
+      "forum_id": "1497497571600367630",
+      "last_updated": "2026-05-06T05:29:53Z",
+      "matiere": "PRG2",
+      "num": "7",
+      "posts": {
+        "script:global:md": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "4b353c6b0f0ce4a82827f80e011a226a",
+          "message_id": "1501455892531515524",
+          "published_at": "2026-05-06T05:29:41Z",
+          "rel_key": "PRG2/CM/scripts_oraux/SCRIPT_PRG2_CM7.md",
+          "size_mb": 0.03,
+          "version": 1
+        },
+        "script:global:txt": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "e6dfc7cadd1f7dcf30bd08e8ad7c2d74",
+          "message_id": "1501455903172333658",
+          "published_at": "2026-05-06T05:29:43Z",
+          "rel_key": "PRG2/CM/scripts_oraux/script_oral_PRG2_CM7.txt",
+          "size_mb": 0.02,
+          "version": 1
+        },
+        "script_print:global": {
+          "is_too_big": false,
+          "kind": "script_print",
+          "md5": "fdcf81f2f8101a8028abd2bac11651b7",
+          "message_id": "1501455913628729404",
+          "published_at": "2026-05-06T05:29:46Z",
+          "rel_key": "PRG2/CM/scripts_oraux/script_imprimable_PRG2_CM7.pdf",
+          "size_mb": 0.17,
+          "version": 1
+        },
+        "slides:global": {
+          "is_too_big": false,
+          "kind": "slides",
+          "md5": "2149b86f3c558a7c9cdbfa3bae1d0e04",
+          "message_id": "1501455924685176935",
+          "published_at": "2026-05-06T05:29:49Z",
+          "rel_key": "PRG2/CM/scripts_oraux/slides_PRG2_CM7.pdf",
+          "size_mb": 0.35,
+          "version": 1
+        },
+        "slides_src:global": {
+          "is_too_big": false,
+          "kind": "slides_src",
+          "md5": "53d692e6638d41f6213407ac5233f288",
+          "message_id": "1501455934168371341",
+          "published_at": "2026-05-06T05:29:51Z",
+          "rel_key": "PRG2/CM/scripts_oraux/slides_PRG2_CM7.tex",
+          "size_mb": 0.02,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "Slides",
+        "Script oral"
+      ],
+      "thread_id": "1501455890325176420",
+      "title": "[CM7] Ordre supérieur — map, lambda, sections, composition",
+      "type": "CM"
+    },
+    "PRG2__CM__8": {
+      "annee": null,
+      "created_at": "2026-05-06T05:29:54Z",
+      "forum_id": "1497497571600367630",
+      "last_updated": "2026-05-06T05:30:06Z",
+      "matiere": "PRG2",
+      "num": "8",
+      "posts": {
+        "script:global:md": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "a1d6ef867776b03f0d1bcfdde2365493",
+          "message_id": "1501455947321708574",
+          "published_at": "2026-05-06T05:29:54Z",
+          "rel_key": "PRG2/CM/scripts_oraux/SCRIPT_PRG2_CM8.md",
+          "size_mb": 0.03,
+          "version": 1
+        },
+        "script:global:txt": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "dd473628d8b2ae984275ea27a0479300",
+          "message_id": "1501455957228523681",
+          "published_at": "2026-05-06T05:29:56Z",
+          "rel_key": "PRG2/CM/scripts_oraux/script_oral_PRG2_CM8.txt",
+          "size_mb": 0.02,
+          "version": 1
+        },
+        "script_print:global": {
+          "is_too_big": false,
+          "kind": "script_print",
+          "md5": "60d01dd06e94b711a5e568ea4dfa0990",
+          "message_id": "1501455967034802328",
+          "published_at": "2026-05-06T05:29:59Z",
+          "rel_key": "PRG2/CM/scripts_oraux/script_imprimable_PRG2_CM8.pdf",
+          "size_mb": 0.16,
+          "version": 1
+        },
+        "slides:global": {
+          "is_too_big": false,
+          "kind": "slides",
+          "md5": "5a03be820fdbe443caf1ef8e1fc8cec9",
+          "message_id": "1501455976841351188",
+          "published_at": "2026-05-06T05:30:01Z",
+          "rel_key": "PRG2/CM/scripts_oraux/slides_PRG2_CM8.pdf",
+          "size_mb": 0.34,
+          "version": 1
+        },
+        "slides_src:global": {
+          "is_too_big": false,
+          "kind": "slides_src",
+          "md5": "8f0ec964d5f2ac40d9530eb015a9214d",
+          "message_id": "1501455986823659580",
+          "published_at": "2026-05-06T05:30:03Z",
+          "rel_key": "PRG2/CM/scripts_oraux/slides_PRG2_CM8.tex",
+          "size_mb": 0.01,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "Slides",
+        "Script oral"
+      ],
+      "thread_id": "1501455946151493693",
+      "title": "[CM8] Arbres binaires — type, schémas, parcours",
+      "type": "CM"
+    },
+    "PRG2__TD__1": {
+      "annee": null,
+      "created_at": "2026-04-25T07:26:58Z",
+      "forum_id": "1497497571600367630",
+      "last_updated": "2026-04-25T07:27:15Z",
+      "matiere": "PRG2",
+      "num": "1",
+      "posts": {
+        "tache:ex1": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "998c627439f4bbf25de0d3c73af39912",
+          "message_id": "1497499148549750874",
+          "published_at": "2026-04-25T07:26:59Z",
+          "rel_key": "PRG2/TD/TD1/TACHE_PRG2_TD1_ex1.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex2": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "56e2b47152ab5b292375c079c2e5fab0",
+          "message_id": "1497499158494576691",
+          "published_at": "2026-04-25T07:27:01Z",
+          "rel_key": "PRG2/TD/TD1/TACHE_PRG2_TD1_ex2.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex3": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "8e3757524915296ba97a1bfc52350be4",
+          "message_id": "1497499168128630875",
+          "published_at": "2026-04-25T07:27:03Z",
+          "rel_key": "PRG2/TD/TD1/TACHE_PRG2_TD1_ex3.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex4": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "17f2c396af2fbd9aa261ca5f340529e7",
+          "message_id": "1497499178190766212",
+          "published_at": "2026-04-25T07:27:06Z",
+          "rel_key": "PRG2/TD/TD1/TACHE_PRG2_TD1_ex4.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex5": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "df06249dc9373b7de8a5b8696ea541ad",
+          "message_id": "1497499188488048710",
+          "published_at": "2026-04-25T07:27:08Z",
+          "rel_key": "PRG2/TD/TD1/TACHE_PRG2_TD1_ex5.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex6": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "1ad967b3c1349a50b422d3a9a4c0e887",
+          "message_id": "1497499198311104623",
+          "published_at": "2026-04-25T07:27:11Z",
+          "rel_key": "PRG2/TD/TD1/TACHE_PRG2_TD1_ex6.md",
+          "size_mb": 0.0,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "TD",
+        "TACHE"
+      ],
+      "thread_id": "1497499146939138169",
+      "title": "[TD1] Fonctions, conditionnelles, expressions booléennes",
+      "type": "TD"
+    },
+    "PRG2__TD__2": {
+      "annee": null,
+      "created_at": "2026-04-25T07:27:30Z",
+      "forum_id": "1497497571600367630",
+      "last_updated": "2026-04-25T07:27:40Z",
+      "matiere": "PRG2",
+      "num": "2",
+      "posts": {
+        "tache:ex1": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "46872351e0c7f83da093d78d55f93ea3",
+          "message_id": "1497499280997617674",
+          "published_at": "2026-04-25T07:27:31Z",
+          "rel_key": "PRG2/TD/TD2/TACHE_PRG2_TD2_ex1.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex2": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "9d4c437c5fa39b8187a472ad2a101731",
+          "message_id": "1497499291952873492",
+          "published_at": "2026-04-25T07:27:33Z",
+          "rel_key": "PRG2/TD/TD2/TACHE_PRG2_TD2_ex2.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex3": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "2731733c5689cad79652f36e0362e7e6",
+          "message_id": "1497499302191304755",
+          "published_at": "2026-04-25T07:27:35Z",
+          "rel_key": "PRG2/TD/TD2/TACHE_PRG2_TD2_ex3.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex4": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "090e6fc9b50231cce8d46ae90a3966ba",
+          "message_id": "1497499311922090035",
+          "published_at": "2026-04-25T07:27:38Z",
+          "rel_key": "PRG2/TD/TD2/TACHE_PRG2_TD2_ex4.md",
+          "size_mb": 0.01,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "TD",
+        "TACHE"
+      ],
+      "thread_id": "1497499279797780551",
+      "title": "[TD2] Alias de Types et Types Algébriques Simples",
+      "type": "TD"
+    },
+    "PRG2__TD__3": {
+      "annee": null,
+      "created_at": "2026-04-25T07:27:56Z",
+      "forum_id": "1497497571600367630",
+      "last_updated": "2026-04-25T07:28:17Z",
+      "matiere": "PRG2",
+      "num": "3",
+      "posts": {
+        "tache:ex1": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "808a5f10b5fac9201295a3986efbd7b1",
+          "message_id": "1497499388325396702",
+          "published_at": "2026-04-25T07:27:56Z",
+          "rel_key": "PRG2/TD/TD3/TACHE_PRG2_TD3_ex1.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex2": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "0b84f496eaaf7315e18f615bbf4371f8",
+          "message_id": "1497499398048059524",
+          "published_at": "2026-04-25T07:27:58Z",
+          "rel_key": "PRG2/TD/TD3/TACHE_PRG2_TD3_ex2.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex3": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "420073c10a6cd6ad6ea4aa873761580e",
+          "message_id": "1497499407883567135",
+          "published_at": "2026-04-25T07:28:01Z",
+          "rel_key": "PRG2/TD/TD3/TACHE_PRG2_TD3_ex3.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex4": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "a123b2e1f35b69c4aa3d19f1e8f5167a",
+          "message_id": "1497499417605963816",
+          "published_at": "2026-04-25T07:28:03Z",
+          "rel_key": "PRG2/TD/TD3/TACHE_PRG2_TD3_ex4.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex5": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "a4a0ffd7d21671edba611b1e5bedc0df",
+          "message_id": "1497499427651190907",
+          "published_at": "2026-04-25T07:28:05Z",
+          "rel_key": "PRG2/TD/TD3/TACHE_PRG2_TD3_ex5.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex6": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "19d30771b9ac769883c0b8e9436c59aa",
+          "message_id": "1497499438086619199",
+          "published_at": "2026-04-25T07:28:08Z",
+          "rel_key": "PRG2/TD/TD3/TACHE_PRG2_TD3_ex6.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex7": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "1e5baffb65681e9a7ad19c286d1ab9fe",
+          "message_id": "1497499447792242749",
+          "published_at": "2026-04-25T07:28:10Z",
+          "rel_key": "PRG2/TD/TD3/TACHE_PRG2_TD3_ex7.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex8": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "1df57024f041c9ca03b6dc0207636199",
+          "message_id": "1497499458785644595",
+          "published_at": "2026-04-25T07:28:13Z",
+          "rel_key": "PRG2/TD/TD3/TACHE_PRG2_TD3_ex8.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex9": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "0f179a504375ab07900811f21d1e917e",
+          "message_id": "1497499468625346592",
+          "published_at": "2026-04-25T07:28:15Z",
+          "rel_key": "PRG2/TD/TD3/TACHE_PRG2_TD3_ex9.md",
+          "size_mb": 0.0,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "TD",
+        "TACHE"
+      ],
+      "thread_id": "1497499386173853738",
+      "title": "[TD3] Récursivité sur les entiers naturels",
+      "type": "TD"
+    },
+    "PRG2__TD__4": {
+      "annee": null,
+      "created_at": "2026-04-25T07:28:33Z",
+      "forum_id": "1497497571600367630",
+      "last_updated": "2026-04-25T07:28:51Z",
+      "matiere": "PRG2",
+      "num": "4",
+      "posts": {
+        "tache:ex1": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "855e7636e2d1db257961ff65eea20737",
+          "message_id": "1497499544043262043",
+          "published_at": "2026-04-25T07:28:33Z",
+          "rel_key": "PRG2/TD/TD4/TACHE_PRG2_TD4_ex1.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex2": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "7f92b03ced5ec6c7ddb6ae639379c9c9",
+          "message_id": "1497499555422539886",
+          "published_at": "2026-04-25T07:28:36Z",
+          "rel_key": "PRG2/TD/TD4/TACHE_PRG2_TD4_ex2.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex3": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "517e41368cee47359ed103e46679bcfb",
+          "message_id": "1497499566046711929",
+          "published_at": "2026-04-25T07:28:38Z",
+          "rel_key": "PRG2/TD/TD4/TACHE_PRG2_TD4_ex3.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex4": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "255a1d2a5fc2dd47dc92c775e8a282ec",
+          "message_id": "1497499576473620480",
+          "published_at": "2026-04-25T07:28:41Z",
+          "rel_key": "PRG2/TD/TD4/TACHE_PRG2_TD4_ex4.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex5": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "6ee1341bd0fb2e0d845d9f490f356d36",
+          "message_id": "1497499586095353869",
+          "published_at": "2026-04-25T07:28:43Z",
+          "rel_key": "PRG2/TD/TD4/TACHE_PRG2_TD4_ex5.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex6": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "550d1a596768f6ed671f0d2aa6bd0b47",
+          "message_id": "1497499597013123186",
+          "published_at": "2026-04-25T07:28:46Z",
+          "rel_key": "PRG2/TD/TD4/TACHE_PRG2_TD4_ex6.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex7": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "6ce40b11c035d1786246473a7d94919e",
+          "message_id": "1497499607364796476",
+          "published_at": "2026-04-25T07:28:48Z",
+          "rel_key": "PRG2/TD/TD4/TACHE_PRG2_TD4_ex7.md",
+          "size_mb": 0.0,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "TD",
+        "TACHE"
+      ],
+      "thread_id": "1497499542604746807",
+      "title": "[TD4] Récursion et pattern-matching",
+      "type": "TD"
+    },
+    "PRG2__TD__5": {
+      "annee": null,
+      "created_at": "2026-04-28T05:18:34Z",
+      "forum_id": "1497497571600367630",
+      "last_updated": "2026-04-28T05:19:09Z",
+      "matiere": "PRG2",
+      "num": "5",
+      "posts": {
+        "script:global:json": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "bfc2862753acd11e1c8413c328ea9ee8",
+          "message_id": "1498554079599919104",
+          "published_at": "2026-04-28T05:18:54Z",
+          "rel_key": "PRG2/TD/TD5/scripts_oraux/project_PRG2_TD5.json",
+          "size_mb": 0.05,
+          "version": 1
+        },
+        "script:global:md": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "c9917c04c208076387d083609dc29126",
+          "message_id": "1498554089733095444",
+          "published_at": "2026-04-28T05:18:57Z",
+          "rel_key": "PRG2/TD/TD5/scripts_oraux/SCRIPT_PRG2_TD5.md",
+          "size_mb": 0.03,
+          "version": 1
+        },
+        "script:global:txt": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "9b17ecdb4a30ba40c808b49ba6703da1",
+          "message_id": "1498554099401228329",
+          "published_at": "2026-04-28T05:18:59Z",
+          "rel_key": "PRG2/TD/TD5/scripts_oraux/script_oral_PRG2_TD5.txt",
+          "size_mb": 0.02,
+          "version": 1
+        },
+        "script_print:global": {
+          "is_too_big": false,
+          "kind": "script_print",
+          "md5": "7510ea4373544ff827914696931afd86",
+          "message_id": "1498554110549692456",
+          "published_at": "2026-04-28T05:19:02Z",
+          "rel_key": "PRG2/TD/TD5/scripts_oraux/script_imprimable_PRG2_TD5.pdf",
+          "size_mb": 0.14,
+          "version": 1
+        },
+        "slides:global": {
+          "is_too_big": false,
+          "kind": "slides",
+          "md5": "d85ac02417a5357f05aa0ea3d4968eb4",
+          "message_id": "1498554121895153796",
+          "published_at": "2026-04-28T05:19:04Z",
+          "rel_key": "PRG2/TD/TD5/scripts_oraux/slides_PRG2_TD5.pdf",
+          "size_mb": 0.31,
+          "version": 1
+        },
+        "slides_src:global": {
+          "is_too_big": false,
+          "kind": "slides_src",
+          "md5": "6b808fbf388da6017d4dedfbf9091960",
+          "message_id": "1498554132125061191",
+          "published_at": "2026-04-28T05:19:07Z",
+          "rel_key": "PRG2/TD/TD5/scripts_oraux/slides_PRG2_TD5.tex",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex1": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "8ea24e7915cd6f8e217b7a58d9859a5a",
+          "message_id": "1498553995273179266",
+          "published_at": "2026-04-28T05:18:34Z",
+          "rel_key": "PRG2/TD/TD5/TACHE_PRG2_TD5_ex1.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex2": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "9b6842f36bee948a8e60727d476f98d5",
+          "message_id": "1498554005700481115",
+          "published_at": "2026-04-28T05:18:37Z",
+          "rel_key": "PRG2/TD/TD5/TACHE_PRG2_TD5_ex2.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex3": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "10040b7de5a1a485a63668b4cced044f",
+          "message_id": "1498554015691182215",
+          "published_at": "2026-04-28T05:18:39Z",
+          "rel_key": "PRG2/TD/TD5/TACHE_PRG2_TD5_ex3.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex4": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "333f1e592ec72869d8fa0cddbcd02ea8",
+          "message_id": "1498554026357166120",
+          "published_at": "2026-04-28T05:18:42Z",
+          "rel_key": "PRG2/TD/TD5/TACHE_PRG2_TD5_ex4.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex5": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "c6afed89002521235a3288c43ca4ee73",
+          "message_id": "1498554036667027536",
+          "published_at": "2026-04-28T05:18:45Z",
+          "rel_key": "PRG2/TD/TD5/TACHE_PRG2_TD5_ex5.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex6": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "cdb0f29361567f40694a317471b55de2",
+          "message_id": "1498554049056997406",
+          "published_at": "2026-04-28T05:18:47Z",
+          "rel_key": "PRG2/TD/TD5/TACHE_PRG2_TD5_ex6.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex7": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "8b020ef5c5d9ea5de6d775ba668b1d38",
+          "message_id": "1498554058771009578",
+          "published_at": "2026-04-28T05:18:49Z",
+          "rel_key": "PRG2/TD/TD5/TACHE_PRG2_TD5_ex7.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex8": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "ccc8738e6c1fced4ce7f529956cd8ad6",
+          "message_id": "1498554069134999582",
+          "published_at": "2026-04-28T05:18:52Z",
+          "rel_key": "PRG2/TD/TD5/TACHE_PRG2_TD5_ex8.md",
+          "size_mb": 0.01,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "TD",
+        "Script oral",
+        "Slides",
+        "TACHE"
+      ],
+      "thread_id": "1498553994065477702",
+      "title": "[TD5] Récursion sur les listes",
+      "type": "TD"
+    },
+    "PRG2__TD__6": {
+      "annee": null,
+      "created_at": "2026-04-28T05:19:18Z",
+      "forum_id": "1497497571600367630",
+      "last_updated": "2026-04-28T05:19:55Z",
+      "matiere": "PRG2",
+      "num": "6",
+      "posts": {
+        "script:global:json": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "fa6e531ac1f32aa051f66723072d3e63",
+          "message_id": "1498554272520863774",
+          "published_at": "2026-04-28T05:19:40Z",
+          "rel_key": "PRG2/TD/TD6/scripts_oraux/project_PRG2_TD6.json",
+          "size_mb": 0.06,
+          "version": 1
+        },
+        "script:global:md": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "572bc5250f48388c9286b29ab8c16187",
+          "message_id": "1498554283141103730",
+          "published_at": "2026-04-28T05:19:43Z",
+          "rel_key": "PRG2/TD/TD6/scripts_oraux/SCRIPT_PRG2_TD6.md",
+          "size_mb": 0.03,
+          "version": 1
+        },
+        "script:global:txt": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "2f1a7896a0445e61375c20db9f7a7a37",
+          "message_id": "1498554293240987650",
+          "published_at": "2026-04-28T05:19:45Z",
+          "rel_key": "PRG2/TD/TD6/scripts_oraux/script_oral_PRG2_TD6.txt",
+          "size_mb": 0.02,
+          "version": 1
+        },
+        "script_print:global": {
+          "is_too_big": false,
+          "kind": "script_print",
+          "md5": "3db175f488cfc6cfe80061c733320f9c",
+          "message_id": "1498554304393379890",
+          "published_at": "2026-04-28T05:19:48Z",
+          "rel_key": "PRG2/TD/TD6/scripts_oraux/script_imprimable_PRG2_TD6.pdf",
+          "size_mb": 0.17,
+          "version": 1
+        },
+        "slides:global": {
+          "is_too_big": false,
+          "kind": "slides",
+          "md5": "3a0960af86db653395b7de8143770e7c",
+          "message_id": "1498554315445506210",
+          "published_at": "2026-04-28T05:19:50Z",
+          "rel_key": "PRG2/TD/TD6/scripts_oraux/slides_PRG2_TD6.pdf",
+          "size_mb": 0.3,
+          "version": 1
+        },
+        "slides_src:global": {
+          "is_too_big": false,
+          "kind": "slides_src",
+          "md5": "b03fd9e11cd86d971556a9ed5ba8cb0f",
+          "message_id": "1498554325595586622",
+          "published_at": "2026-04-28T05:19:53Z",
+          "rel_key": "PRG2/TD/TD6/scripts_oraux/slides_PRG2_TD6.tex",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex1": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "fc4b53470523aaabbf3e66f71dde33f6",
+          "message_id": "1498554182821482586",
+          "published_at": "2026-04-28T05:19:19Z",
+          "rel_key": "PRG2/TD/TD6/TACHE_PRG2_TD6_ex1.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex2": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "27a480676721b5dad17b6ee4fc959edc",
+          "message_id": "1498554193894445137",
+          "published_at": "2026-04-28T05:19:22Z",
+          "rel_key": "PRG2/TD/TD6/TACHE_PRG2_TD6_ex2.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex3": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "c2bd4a0a3d4403a33afb2add44b6ab3f",
+          "message_id": "1498554204837380127",
+          "published_at": "2026-04-28T05:19:24Z",
+          "rel_key": "PRG2/TD/TD6/TACHE_PRG2_TD6_ex3.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex4": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "07ba241ecf9efac03353ecb16efcfca4",
+          "message_id": "1498554214924816534",
+          "published_at": "2026-04-28T05:19:26Z",
+          "rel_key": "PRG2/TD/TD6/TACHE_PRG2_TD6_ex4.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex5": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "2c8626d5ffdb1543d9112aca1468eeb6",
+          "message_id": "1498554224831758406",
+          "published_at": "2026-04-28T05:19:29Z",
+          "rel_key": "PRG2/TD/TD6/TACHE_PRG2_TD6_ex5.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex6": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "c6447c5791d82042de564362da5b1b05",
+          "message_id": "1498554234541576224",
+          "published_at": "2026-04-28T05:19:31Z",
+          "rel_key": "PRG2/TD/TD6/TACHE_PRG2_TD6_ex6.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex7": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "1539d48216bfdbcd2e07455fe58c9252",
+          "message_id": "1498554244666626100",
+          "published_at": "2026-04-28T05:19:34Z",
+          "rel_key": "PRG2/TD/TD6/TACHE_PRG2_TD6_ex7.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex8": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "061dd5a0522974cd0badd82a5d4daf6e",
+          "message_id": "1498554254875558009",
+          "published_at": "2026-04-28T05:19:36Z",
+          "rel_key": "PRG2/TD/TD6/TACHE_PRG2_TD6_ex8.md",
+          "size_mb": 0.01,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "TD",
+        "Script oral",
+        "Slides",
+        "TACHE"
+      ],
+      "thread_id": "1498554180820926608",
+      "title": "[TD6] Fonctions d’ordre supérieur sur les listes",
+      "type": "TD"
+    },
+    "PRG2__TD__7": {
+      "annee": null,
+      "created_at": "2026-04-28T07:56:09Z",
+      "forum_id": "1497497571600367630",
+      "last_updated": "2026-04-28T07:56:42Z",
+      "matiere": "PRG2",
+      "num": "7",
+      "posts": {
+        "script:global:json": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "8114e7449a4577490f5e301f06975e14",
+          "message_id": "1498593729827573800",
+          "published_at": "2026-04-28T07:56:28Z",
+          "rel_key": "PRG2/TD/TD7/scripts_oraux/project_PRG2_TD7.json",
+          "size_mb": 0.07,
+          "version": 1
+        },
+        "script:global:md": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "d38017360b1c401bdffd868693a6907e",
+          "message_id": "1498593739898359848",
+          "published_at": "2026-04-28T07:56:30Z",
+          "rel_key": "PRG2/TD/TD7/scripts_oraux/SCRIPT_PRG2_TD7.md",
+          "size_mb": 0.03,
+          "version": 1
+        },
+        "script:global:txt": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "bf1206723ca27c83aebc7ff33a3ea4b5",
+          "message_id": "1498593750056701984",
+          "published_at": "2026-04-28T07:56:33Z",
+          "rel_key": "PRG2/TD/TD7/scripts_oraux/script_oral_PRG2_TD7.txt",
+          "size_mb": 0.02,
+          "version": 1
+        },
+        "script_print:global": {
+          "is_too_big": false,
+          "kind": "script_print",
+          "md5": "2b68d8a56a2726112f747c609a856420",
+          "message_id": "1498593761792360528",
+          "published_at": "2026-04-28T07:56:35Z",
+          "rel_key": "PRG2/TD/TD7/scripts_oraux/script_imprimable_PRG2_TD7.pdf",
+          "size_mb": 0.18,
+          "version": 1
+        },
+        "slides:global": {
+          "is_too_big": false,
+          "kind": "slides",
+          "md5": "179f1ec1ab4dc13a92a1663b8527f2d5",
+          "message_id": "1498593772131455078",
+          "published_at": "2026-04-28T07:56:38Z",
+          "rel_key": "PRG2/TD/TD7/scripts_oraux/slides_PRG2_TD7.pdf",
+          "size_mb": 0.34,
+          "version": 1
+        },
+        "slides_src:global": {
+          "is_too_big": false,
+          "kind": "slides_src",
+          "md5": "35328d56e904afc673feb0d684a92f72",
+          "message_id": "1498593782428598382",
+          "published_at": "2026-04-28T07:56:40Z",
+          "rel_key": "PRG2/TD/TD7/scripts_oraux/slides_PRG2_TD7.tex",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex1": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "65ed9ab16bf4815394eeceeb4e09bacb",
+          "message_id": "1498593654174912595",
+          "published_at": "2026-04-28T07:56:10Z",
+          "rel_key": "PRG2/TD/TD7/TACHE_PRG2_TD7_ex1.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex2": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "9fd04e6672cfe37e0ede447d61a05aca",
+          "message_id": "1498593665092681770",
+          "published_at": "2026-04-28T07:56:12Z",
+          "rel_key": "PRG2/TD/TD7/TACHE_PRG2_TD7_ex2.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex3": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "b67dbcd487a5cf71343fa4055f213250",
+          "message_id": "1498593675792617533",
+          "published_at": "2026-04-28T07:56:15Z",
+          "rel_key": "PRG2/TD/TD7/TACHE_PRG2_TD7_ex3.md",
+          "size_mb": 0.0,
+          "version": 1
+        },
+        "tache:ex4": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "81e3d43d165c0fd430b2e98d98e324fb",
+          "message_id": "1498593687859367957",
+          "published_at": "2026-04-28T07:56:18Z",
+          "rel_key": "PRG2/TD/TD7/TACHE_PRG2_TD7_ex4.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex5": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "4028a96aa6292fed291a043ae7ad074f",
+          "message_id": "1498593699255291925",
+          "published_at": "2026-04-28T07:56:20Z",
+          "rel_key": "PRG2/TD/TD7/TACHE_PRG2_TD7_ex5.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex6": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "2c1a5dce5d233c06fcd390a52d7c3a66",
+          "message_id": "1498593709418348574",
+          "published_at": "2026-04-28T07:56:23Z",
+          "rel_key": "PRG2/TD/TD7/TACHE_PRG2_TD7_ex6.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex7": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "4f40cdfa939825194d01056f46c873c0",
+          "message_id": "1498593719547330651",
+          "published_at": "2026-04-28T07:56:25Z",
+          "rel_key": "PRG2/TD/TD7/TACHE_PRG2_TD7_ex7.md",
+          "size_mb": 0.01,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "TD",
+        "Script oral",
+        "Slides",
+        "TACHE"
+      ],
+      "thread_id": "1498593652023361579",
+      "title": "[TD7] Ordre supérieur et composition",
+      "type": "TD"
+    },
+    "PRG2__TD__8": {
+      "annee": null,
+      "created_at": "2026-05-06T05:42:41Z",
+      "forum_id": "1497497571600367630",
+      "last_updated": "2026-05-06T05:43:32Z",
+      "matiere": "PRG2",
+      "num": "8",
+      "posts": {
+        "script:global:md": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "48356008178ab0477138b243df37860e",
+          "message_id": "1501459327788257350",
+          "published_at": "2026-05-06T05:43:20Z",
+          "rel_key": "PRG2/TD/TD8/scripts_oraux/SCRIPT_PRG2_TD8.md",
+          "size_mb": 0.04,
+          "version": 1
+        },
+        "script:global:txt": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "ce3cdd8ba95dd0703e1e3bfb549f8b5c",
+          "message_id": "1501459338345054371",
+          "published_at": "2026-05-06T05:43:23Z",
+          "rel_key": "PRG2/TD/TD8/scripts_oraux/script_oral_PRG2_TD8.txt",
+          "size_mb": 0.02,
+          "version": 1
+        },
+        "script_print:global": {
+          "is_too_big": false,
+          "kind": "script_print",
+          "md5": "50b820c13e38c6f926cf6add0b0f16d9",
+          "message_id": "1501459348881412236",
+          "published_at": "2026-05-06T05:43:25Z",
+          "rel_key": "PRG2/TD/TD8/scripts_oraux/script_imprimable_PRG2_TD8.pdf",
+          "size_mb": 0.17,
+          "version": 1
+        },
+        "slides:global": {
+          "is_too_big": false,
+          "kind": "slides",
+          "md5": "33bf28d7f54575584c5892ca704db208",
+          "message_id": "1501459359073308712",
+          "published_at": "2026-05-06T05:43:28Z",
+          "rel_key": "PRG2/TD/TD8/scripts_oraux/slides_PRG2_TD8.pdf",
+          "size_mb": 0.3,
+          "version": 1
+        },
+        "slides_src:global": {
+          "is_too_big": false,
+          "kind": "slides_src",
+          "md5": "784db48b25505e7699afc1a560b0341c",
+          "message_id": "1501459369118662727",
+          "published_at": "2026-05-06T05:43:30Z",
+          "rel_key": "PRG2/TD/TD8/scripts_oraux/slides_PRG2_TD8.tex",
+          "size_mb": 0.02,
+          "version": 1
+        },
+        "tache:ex1": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "7b15d09251b737e2402dd733f22d8508",
+          "message_id": "1501459165468430443",
+          "published_at": "2026-05-06T05:42:41Z",
+          "rel_key": "PRG2/TD/TD8/TACHE_PRG2_TD8_ex1.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex10": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "449b96dc0b9f38223a17e47af542d08a",
+          "message_id": "1501459258057822238",
+          "published_at": "2026-05-06T05:43:03Z",
+          "rel_key": "PRG2/TD/TD8/TACHE_PRG2_TD8_ex10.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex11": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "083e049fb69f2210d7876e9379e9537e",
+          "message_id": "1501459268061237329",
+          "published_at": "2026-05-06T05:43:06Z",
+          "rel_key": "PRG2/TD/TD8/TACHE_PRG2_TD8_ex11.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex12": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "aed3a57679793d6cfe85c438391da6f9",
+          "message_id": "1501459277984825394",
+          "published_at": "2026-05-06T05:43:08Z",
+          "rel_key": "PRG2/TD/TD8/TACHE_PRG2_TD8_ex12.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex13": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "8482f4961be037723187e56b45e83b1c",
+          "message_id": "1501459288122458193",
+          "published_at": "2026-05-06T05:43:11Z",
+          "rel_key": "PRG2/TD/TD8/TACHE_PRG2_TD8_ex13.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex14": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "52a80738d5de978ef0ed040069bc4f5c",
+          "message_id": "1501459298151170150",
+          "published_at": "2026-05-06T05:43:13Z",
+          "rel_key": "PRG2/TD/TD8/TACHE_PRG2_TD8_ex14.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex15": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "ae3c1c16f4d46e413f645a202d0102dd",
+          "message_id": "1501459308142133248",
+          "published_at": "2026-05-06T05:43:15Z",
+          "rel_key": "PRG2/TD/TD8/TACHE_PRG2_TD8_ex15.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex16": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "1839549c0b958f48ca6dcf2e69bbb741",
+          "message_id": "1501459317809873026",
+          "published_at": "2026-05-06T05:43:18Z",
+          "rel_key": "PRG2/TD/TD8/TACHE_PRG2_TD8_ex16.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex2": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "606eb69091f6a8b4f06b9033fd0296f7",
+          "message_id": "1501459175824298084",
+          "published_at": "2026-05-06T05:42:44Z",
+          "rel_key": "PRG2/TD/TD8/TACHE_PRG2_TD8_ex2.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex3": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "ab5594029c8e8412f54b2cdfa311a29d",
+          "message_id": "1501459186515578880",
+          "published_at": "2026-05-06T05:42:46Z",
+          "rel_key": "PRG2/TD/TD8/TACHE_PRG2_TD8_ex3.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex4": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "c18cfb3087fe60c4a3710fc405a92b52",
+          "message_id": "1501459195780665387",
+          "published_at": "2026-05-06T05:42:49Z",
+          "rel_key": "PRG2/TD/TD8/TACHE_PRG2_TD8_ex4.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex5": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "d7a60af52ffe2ab289a91202e71558ae",
+          "message_id": "1501459205457051679",
+          "published_at": "2026-05-06T05:42:51Z",
+          "rel_key": "PRG2/TD/TD8/TACHE_PRG2_TD8_ex5.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex6": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "085fd90db1ff6274128c9cd0d2c24892",
+          "message_id": "1501459216148332594",
+          "published_at": "2026-05-06T05:42:54Z",
+          "rel_key": "PRG2/TD/TD8/TACHE_PRG2_TD8_ex6.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex7": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "e0d5e2d05b0d033e6ab2ce15a0977b9b",
+          "message_id": "1501459227087077466",
+          "published_at": "2026-05-06T05:42:56Z",
+          "rel_key": "PRG2/TD/TD8/TACHE_PRG2_TD8_ex7.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex8": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "dbf09b27585a1c20b3948567c8947f96",
+          "message_id": "1501459236859674645",
+          "published_at": "2026-05-06T05:42:58Z",
+          "rel_key": "PRG2/TD/TD8/TACHE_PRG2_TD8_ex8.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:ex9": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "77e05ece6d75728554124f49ec37ccee",
+          "message_id": "1501459246901104715",
+          "published_at": "2026-05-06T05:43:01Z",
+          "rel_key": "PRG2/TD/TD8/TACHE_PRG2_TD8_ex9.md",
+          "size_mb": 0.01,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "TD",
+        "Script oral",
+        "Slides",
+        "TACHE"
+      ],
+      "thread_id": "1501459164143157272",
+      "title": "[TD8]",
+      "type": "TD"
+    },
+    "PRG2__TP__1": {
+      "annee": null,
+      "created_at": "2026-04-25T07:31:29Z",
+      "forum_id": "1497497571600367630",
+      "last_updated": "2026-04-25T07:31:32Z",
+      "matiere": "PRG2",
+      "num": "1",
+      "posts": {
+        "tache:global": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "89de34153b39c7cfd2878b7eeb56c517",
+          "message_id": "1497500283746648218",
+          "published_at": "2026-04-25T07:31:29Z",
+          "rel_key": "PRG2/TP/TP1/TACHE_PRG2_TP1.md",
+          "size_mb": 0.03,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "TP",
+        "TACHE"
+      ],
+      "thread_id": "1497500282655866930",
+      "title": "[TP1] Fonctions simples — partie 1",
+      "type": "TP"
+    },
+    "PRG2__TP__2": {
+      "annee": null,
+      "created_at": "2026-04-25T07:31:47Z",
+      "forum_id": "1497497571600367630",
+      "last_updated": "2026-04-25T20:13:07Z",
+      "matiere": "PRG2",
+      "num": "2",
+      "posts": {
+        "tache:global": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "b150369a74bb62e8f89e8eaf11491457",
+          "message_id": "1497691945462534317",
+          "published_at": "2026-04-25T20:13:05Z",
+          "rel_key": "PRG2/TP/TP2/TACHE_PRG2_TP2BIS.md",
+          "size_mb": 0.01,
+          "version": 4
+        }
+      },
+      "tags_applied": [
+        "TP",
+        "TACHE"
+      ],
+      "thread_id": "1497500358187028540",
+      "title": "[TP2] Fonctions simples — partie 2",
+      "type": "TP"
+    },
+    "PRG2__TP__3": {
+      "annee": null,
+      "created_at": "2026-04-25T07:32:08Z",
+      "forum_id": "1497497571600367630",
+      "last_updated": "2026-04-25T07:32:11Z",
+      "matiere": "PRG2",
+      "num": "3",
+      "posts": {
+        "tache:global": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "d1b17589832071d2902310c31bf25129",
+          "message_id": "1497500447303405680",
+          "published_at": "2026-04-25T07:32:09Z",
+          "rel_key": "PRG2/TP/TP3/TACHE_PRG2_TP3.md",
+          "size_mb": 0.01,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "TP",
+        "TACHE"
+      ],
+      "thread_id": "1497500446032531456",
+      "title": "[TP3] Pattern matching — récursion simple",
+      "type": "TP"
+    },
+    "PRG2__TP__4": {
+      "annee": null,
+      "created_at": "2026-04-25T07:32:26Z",
+      "forum_id": "1497497571600367630",
+      "last_updated": "2026-04-25T07:32:29Z",
+      "matiere": "PRG2",
+      "num": "4",
+      "posts": {
+        "tache:global": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "f92aab0e4e99ce323ed2209b24146f4c",
+          "message_id": "1497500524407427122",
+          "published_at": "2026-04-25T07:32:27Z",
+          "rel_key": "PRG2/TP/TP4/TACHE_PRG2_TP4.md",
+          "size_mb": 0.02,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "TP",
+        "TACHE"
+      ],
+      "thread_id": "1497500523182428160",
+      "title": "[TP4] Pattern matching — récursion avancée",
+      "type": "TP"
+    },
+    "PRG2__TP__5": {
+      "annee": null,
+      "created_at": "2026-04-25T07:32:44Z",
+      "forum_id": "1497497571600367630",
+      "last_updated": "2026-04-25T20:13:37Z",
+      "matiere": "PRG2",
+      "num": "5",
+      "posts": {
+        "script:global:json": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "eb2dfb8d9d67d3cd325a7f96b3e019fb",
+          "message_id": "1497500609903984691",
+          "published_at": "2026-04-25T07:32:47Z",
+          "rel_key": "PRG2/TP/TP5/scripts_oraux/project_PRG2_TP5.json",
+          "size_mb": 0.09,
+          "version": 1
+        },
+        "script:global:md": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "253025adde8445661e5a30bfd6c93c40",
+          "message_id": "1497500619823517840",
+          "published_at": "2026-04-25T07:32:50Z",
+          "rel_key": "PRG2/TP/TP5/scripts_oraux/SCRIPT_PRG2_TP5.md",
+          "size_mb": 0.03,
+          "version": 1
+        },
+        "script:global:txt": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "c6df757cb56b615ecc412c49056ba0c4",
+          "message_id": "1497500630259077222",
+          "published_at": "2026-04-25T07:32:52Z",
+          "rel_key": "PRG2/TP/TP5/scripts_oraux/script_oral_PRG2_TP5.txt",
+          "size_mb": 0.02,
+          "version": 1
+        },
+        "script_print:global": {
+          "is_too_big": false,
+          "kind": "script_print",
+          "md5": "e1e9500ddf323d779348ffaa505caa04",
+          "message_id": "1497692054182953142",
+          "published_at": "2026-04-25T20:13:30Z",
+          "rel_key": "PRG2/TP/TP5/scripts_oraux/script_imprimable_PRG2_TP5.pdf",
+          "size_mb": 0.16,
+          "version": 1
+        },
+        "slides:global": {
+          "is_too_big": false,
+          "kind": "slides",
+          "md5": "e79d0c4b8062b330d72d8aba79f3d43f",
+          "message_id": "1497500640962936973",
+          "published_at": "2026-04-25T07:32:55Z",
+          "rel_key": "PRG2/TP/TP5/scripts_oraux/slides_PRG2_TP5.pdf",
+          "size_mb": 0.42,
+          "version": 1
+        },
+        "slides_src:global": {
+          "is_too_big": false,
+          "kind": "slides_src",
+          "md5": "af7c029a25b16da02232fcdb8badb789",
+          "message_id": "1497500651645829272",
+          "published_at": "2026-04-25T07:32:57Z",
+          "rel_key": "PRG2/TP/TP5/scripts_oraux/slides_PRG2_TP5.tex",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:global": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "22c178cb3b6317df52eb83baa2035cc2",
+          "message_id": "1497500599367893003",
+          "published_at": "2026-04-25T07:32:45Z",
+          "rel_key": "PRG2/TP/TP5/TACHE_PRG2_TP5.md",
+          "size_mb": 0.02,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "TP",
+        "Slides",
+        "TACHE",
+        "Script oral"
+      ],
+      "thread_id": "1497500598524969104",
+      "title": "[TP5] Tris sur les listes",
+      "type": "TP"
+    },
+    "PRG2__TP__6": {
+      "annee": null,
+      "created_at": "2026-04-25T07:33:15Z",
+      "forum_id": "1497497571600367630",
+      "last_updated": "2026-04-25T20:14:07Z",
+      "matiere": "PRG2",
+      "num": "6",
+      "posts": {
+        "script:global:json": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "d4b3162b9bf5b82f1ac0bb2573f9899f",
+          "message_id": "1497500738547486790",
+          "published_at": "2026-04-25T07:33:18Z",
+          "rel_key": "PRG2/TP/TP6/scripts_oraux/project_PRG2_TP6.json",
+          "size_mb": 0.1,
+          "version": 1
+        },
+        "script:global:md": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "a24357450c839c6a3b0ea3153a0d3032",
+          "message_id": "1497500747934203929",
+          "published_at": "2026-04-25T07:33:20Z",
+          "rel_key": "PRG2/TP/TP6/scripts_oraux/SCRIPT_PRG2_TP6.md",
+          "size_mb": 0.04,
+          "version": 1
+        },
+        "script:global:txt": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "19933f63222fb75339ed29314512cdda",
+          "message_id": "1497500759363682305",
+          "published_at": "2026-04-25T07:33:23Z",
+          "rel_key": "PRG2/TP/TP6/scripts_oraux/script_oral_PRG2_TP6.txt",
+          "size_mb": 0.02,
+          "version": 1
+        },
+        "script_print:global": {
+          "is_too_big": false,
+          "kind": "script_print",
+          "md5": "4923a56d246ee6f188c45228f973524a",
+          "message_id": "1497692179420942506",
+          "published_at": "2026-04-25T20:14:00Z",
+          "rel_key": "PRG2/TP/TP6/scripts_oraux/script_imprimable_PRG2_TP6.pdf",
+          "size_mb": 0.15,
+          "version": 1
+        },
+        "slides:global": {
+          "is_too_big": false,
+          "kind": "slides",
+          "md5": "fc70abc88596ff8d672cb233b2db5928",
+          "message_id": "1497500770797621398",
+          "published_at": "2026-04-25T07:33:26Z",
+          "rel_key": "PRG2/TP/TP6/scripts_oraux/slides_PRG2_TP6.pdf",
+          "size_mb": 0.28,
+          "version": 1
+        },
+        "slides_src:global": {
+          "is_too_big": false,
+          "kind": "slides_src",
+          "md5": "7db51642d79f96950436bdac174fb235",
+          "message_id": "1497500781090308107",
+          "published_at": "2026-04-25T07:33:28Z",
+          "rel_key": "PRG2/TP/TP6/scripts_oraux/slides_PRG2_TP6.tex",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:global": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "f8ae232d6f5cb8fe5df770a4d89cdd3e",
+          "message_id": "1497500726983786670",
+          "published_at": "2026-04-25T07:33:15Z",
+          "rel_key": "PRG2/TP/TP6/TACHE_PRG2_TP6.md",
+          "size_mb": 0.03,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "TP",
+        "Slides",
+        "TACHE",
+        "Script oral"
+      ],
+      "thread_id": "1497500726145060925",
+      "title": "[TP6] Listes et ordre supérieur",
+      "type": "TP"
+    },
+    "PRG2__TP__7": {
+      "annee": null,
+      "created_at": "2026-05-13T09:19:24Z",
+      "forum_id": "1497497571600367630",
+      "last_updated": "2026-05-13T09:19:40Z",
+      "matiere": "PRG2",
+      "num": "7",
+      "posts": {
+        "script:global:md": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "90214512c000411b6a66137714562d4e",
+          "message_id": "1504050436972482582",
+          "published_at": "2026-05-13T09:19:28Z",
+          "rel_key": "PRG2/TP/TP7/scripts_oraux/SCRIPT_PRG2_TP7.md",
+          "size_mb": 0.04,
+          "version": 1
+        },
+        "script:global:txt": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "3ea11811fb9609b49284f424576f07c0",
+          "message_id": "1504050448246771712",
+          "published_at": "2026-05-13T09:19:30Z",
+          "rel_key": "PRG2/TP/TP7/scripts_oraux/script_oral_PRG2_TP7.txt",
+          "size_mb": 0.02,
+          "version": 1
+        },
+        "script_print:global": {
+          "is_too_big": false,
+          "kind": "script_print",
+          "md5": "3e35788b40378716d5314ce08d28d9ac",
+          "message_id": "1504050458937917450",
+          "published_at": "2026-05-13T09:19:32Z",
+          "rel_key": "PRG2/TP/TP7/scripts_oraux/script_imprimable_PRG2_TP7.pdf",
+          "size_mb": 0.18,
+          "version": 1
+        },
+        "slides:global": {
+          "is_too_big": false,
+          "kind": "slides",
+          "md5": "28577cf5decb7c47e92483fc8e0a1a94",
+          "message_id": "1504050468630958082",
+          "published_at": "2026-05-13T09:19:35Z",
+          "rel_key": "PRG2/TP/TP7/scripts_oraux/slides_PRG2_TP7.pdf",
+          "size_mb": 0.31,
+          "version": 1
+        },
+        "slides_src:global": {
+          "is_too_big": false,
+          "kind": "slides_src",
+          "md5": "9435d84c11bcd4183fafb2cbfdd5703e",
+          "message_id": "1504050479150141533",
+          "published_at": "2026-05-13T09:19:37Z",
+          "rel_key": "PRG2/TP/TP7/scripts_oraux/slides_PRG2_TP7.tex",
+          "size_mb": 0.02,
+          "version": 1
+        },
+        "tache:global": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "0937505826fec4d063904b6b0d4ab070",
+          "message_id": "1504050426541117511",
+          "published_at": "2026-05-13T09:19:25Z",
+          "rel_key": "PRG2/TP/TP7/TACHE_PRG2_TP7.md",
+          "size_mb": 0.03,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "TP",
+        "Slides",
+        "TACHE",
+        "Script oral"
+      ],
+      "thread_id": "1504050425366581338",
+      "title": "[TP7] Ordre supérieur et composition",
+      "type": "TP"
+    },
+    "PRG2__TP__8": {
+      "annee": null,
+      "created_at": "2026-05-13T09:45:24Z",
+      "forum_id": "1497497571600367630",
+      "last_updated": "2026-05-13T10:02:45Z",
+      "matiere": "PRG2",
+      "num": "8",
+      "posts": {
+        "script:global:md": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "991131608a6c98509fc60833a2231b28",
+          "message_id": "1504061263502770256",
+          "published_at": "2026-05-13T10:02:28Z",
+          "rel_key": "PRG2/TP/TP8/scripts_oraux/SCRIPT_PRG2_TP8.md",
+          "size_mb": 0.03,
+          "version": 2
+        },
+        "script:global:txt": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "16a9fbd7ab5158e414df1d4f7ee77c90",
+          "message_id": "1504061283555868785",
+          "published_at": "2026-05-13T10:02:34Z",
+          "rel_key": "PRG2/TP/TP8/scripts_oraux/script_oral_PRG2_TP8.txt",
+          "size_mb": 0.02,
+          "version": 2
+        },
+        "script_print:global": {
+          "is_too_big": false,
+          "kind": "script_print",
+          "md5": "664275dba58aa73f35139e7513a2459a",
+          "message_id": "1504061297686220820",
+          "published_at": "2026-05-13T10:02:37Z",
+          "rel_key": "PRG2/TP/TP8/scripts_oraux/script_imprimable_PRG2_TP8.pdf",
+          "size_mb": 0.17,
+          "version": 2
+        },
+        "slides:global": {
+          "is_too_big": false,
+          "kind": "slides",
+          "md5": "181d9c9501fec05bd6458f7ce3b0d436",
+          "message_id": "1504061309627535510",
+          "published_at": "2026-05-13T10:02:39Z",
+          "rel_key": "PRG2/TP/TP8/scripts_oraux/slides_PRG2_TP8.pdf",
+          "size_mb": 0.34,
+          "version": 2
+        },
+        "slides_src:global": {
+          "is_too_big": false,
+          "kind": "slides_src",
+          "md5": "3aa0cc17c34c51ba9b789d80831c1146",
+          "message_id": "1504061321186906213",
+          "published_at": "2026-05-13T10:02:42Z",
+          "rel_key": "PRG2/TP/TP8/scripts_oraux/slides_PRG2_TP8.tex",
+          "size_mb": 0.01,
+          "version": 2
+        },
+        "tache:global": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "6740c0e110ac0f29fdc8ed65ace26b99",
+          "message_id": "1504061249867223063",
+          "published_at": "2026-05-13T10:02:25Z",
+          "rel_key": "PRG2/TP/TP8/TACHE_PRG2_TP8.md",
+          "size_mb": 0.03,
+          "version": 2
+        }
+      },
+      "tags_applied": [
+        "TP",
+        "Slides",
+        "TACHE",
+        "Script oral"
+      ],
+      "thread_id": "1504056967478382624",
+      "title": "[TP8] Arbres binaires et arbres généraux",
+      "type": "TP"
+    },
+    "PRG2__TP__9": {
+      "annee": null,
+      "created_at": "2026-05-13T09:19:57Z",
+      "forum_id": "1497497571600367630",
+      "last_updated": "2026-05-13T09:20:12Z",
+      "matiere": "PRG2",
+      "num": "9",
+      "posts": {
+        "script:global:md": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "7efd8e35bf484de5c6a024cc13731ded",
+          "message_id": "1504050573840748694",
+          "published_at": "2026-05-13T09:20:00Z",
+          "rel_key": "PRG2/TP/TP9/scripts_oraux/SCRIPT_PRG2_TP9.md",
+          "size_mb": 0.03,
+          "version": 1
+        },
+        "script:global:txt": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "5f81e6509e0aa8c66072e1fbf971aeb4",
+          "message_id": "1504050583928307753",
+          "published_at": "2026-05-13T09:20:02Z",
+          "rel_key": "PRG2/TP/TP9/scripts_oraux/script_oral_PRG2_TP9.txt",
+          "size_mb": 0.02,
+          "version": 1
+        },
+        "script_print:global": {
+          "is_too_big": false,
+          "kind": "script_print",
+          "md5": "9d02bc0d6ce2c6ddeed8c0e9a41c910c",
+          "message_id": "1504050593981792288",
+          "published_at": "2026-05-13T09:20:05Z",
+          "rel_key": "PRG2/TP/TP9/scripts_oraux/script_imprimable_PRG2_TP9.pdf",
+          "size_mb": 0.18,
+          "version": 1
+        },
+        "slides:global": {
+          "is_too_big": false,
+          "kind": "slides",
+          "md5": "74dd44b95b78b0a5901c76c5bf12f210",
+          "message_id": "1504050605109547158",
+          "published_at": "2026-05-13T09:20:07Z",
+          "rel_key": "PRG2/TP/TP9/scripts_oraux/slides_PRG2_TP9.pdf",
+          "size_mb": 0.31,
+          "version": 1
+        },
+        "slides_src:global": {
+          "is_too_big": false,
+          "kind": "slides_src",
+          "md5": "4f22475f2295361c6bb8fc2340826839",
+          "message_id": "1504050615565946931",
+          "published_at": "2026-05-13T09:20:10Z",
+          "rel_key": "PRG2/TP/TP9/scripts_oraux/slides_PRG2_TP9.tex",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "tache:global": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "2213b17d6f79ed3524d90631ba3eea5c",
+          "message_id": "1504050563388674158",
+          "published_at": "2026-05-13T09:19:57Z",
+          "rel_key": "PRG2/TP/TP9/TACHE_PRG2_TP9.md",
+          "size_mb": 0.02,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "TP",
+        "Slides",
+        "TACHE",
+        "Script oral"
+      ],
+      "thread_id": "1504050562055012464",
+      "title": "[TP9] ADN Match — recherche par expressions régulières (Brzozowski)",
+      "type": "TP"
+    },
+    "PRG2__quiz__1": {
+      "annee": null,
+      "created_at": "2026-04-25T07:24:32Z",
+      "forum_id": "1497497571600367630",
+      "last_updated": "2026-04-25T07:24:35Z",
+      "matiere": "PRG2",
+      "num": "1",
+      "posts": {
+        "tache:global": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "ce27e4186250d412d0442f9a7c127904",
+          "message_id": "1497498534713495592",
+          "published_at": "2026-04-25T07:24:32Z",
+          "rel_key": "PRG2/CC/TACHE_PRG2_quiz1.md",
+          "size_mb": 0.01,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "Quiz",
+        "TACHE"
+      ],
+      "thread_id": "1497498533656395877",
+      "title": "[Quiz1] Quiz d'évaluation",
+      "type": "quiz"
+    },
+    "PRG2__quiz__2": {
+      "annee": null,
+      "created_at": "2026-04-25T07:24:50Z",
+      "forum_id": "1497497571600367630",
+      "last_updated": "2026-04-25T07:24:53Z",
+      "matiere": "PRG2",
+      "num": "2",
+      "posts": {
+        "tache:global": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "148f54bed663f9a6e2ba99b3b4510fd1",
+          "message_id": "1497498609929814058",
+          "published_at": "2026-04-25T07:24:50Z",
+          "rel_key": "PRG2/CC/TACHE_PRG2_quiz2.md",
+          "size_mb": 0.01,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "Quiz",
+        "TACHE"
+      ],
+      "thread_id": "1497498608516337675",
+      "title": "[Quiz2] Quiz d'évaluation",
+      "type": "quiz"
+    },
+    "PSI__TP__0": {
+      "annee": null,
+      "created_at": "2026-04-27T18:19:25Z",
+      "forum_id": "1497497580047695942",
+      "last_updated": "2026-04-27T20:41:04Z",
+      "matiere": "PSI",
+      "num": "0",
+      "posts": {
+        "script:global:md": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "b7aa17dfc34c4ab766e85c2466cd6776",
+          "message_id": "1498388162282786880",
+          "published_at": "2026-04-27T18:19:36Z",
+          "rel_key": "PSI/TP/TP0/scripts_oraux/SCRIPT_PSI_TP0_inference.md",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "script:global:txt": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "f15053afbc2445ebb5b9c9236b315c61",
+          "message_id": "1498388173372264469",
+          "published_at": "2026-04-27T18:19:39Z",
+          "rel_key": "PSI/TP/TP0/scripts_oraux/script_oral_PSI_TP0_inference.txt",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "script_print:global": {
+          "is_too_big": false,
+          "kind": "script_print",
+          "md5": "4af0acca7d70ffe4ba68b9cfc5b02e13",
+          "message_id": "1498388193609912472",
+          "published_at": "2026-04-27T18:19:44Z",
+          "rel_key": "PSI/TP/TP0/scripts_oraux/script_imprimable_PSI_TP0_inference.pdf",
+          "size_mb": 0.1,
+          "version": 1
+        },
+        "slides:global": {
+          "is_too_big": false,
+          "kind": "slides",
+          "md5": "c1eccf58a879fc38d405a4ce882fc4ea",
+          "message_id": "1498388183778332825",
+          "published_at": "2026-04-27T18:19:41Z",
+          "rel_key": "PSI/TP/TP0/scripts_oraux/slides_PSI_TP0_inference.pdf",
+          "size_mb": 0.16,
+          "version": 1
+        },
+        "tache:global": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "b8468f2922a5ded54e0fe4bb8dc1bfd4",
+          "message_id": "1498388139515973682",
+          "published_at": "2026-04-27T18:19:31Z",
+          "rel_key": "PSI/TP/TP0/TACHE_PSI_TP0.md",
+          "size_mb": 0.01,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "TP"
+      ],
+      "thread_id": "1498388116720062668",
+      "title": "[TP0] Prise en main Python",
+      "type": "TP"
+    },
+    "PSI__TP__6": {
+      "annee": null,
+      "created_at": "2026-04-27T17:02:29Z",
+      "forum_id": "1497497580047695942",
+      "last_updated": "2026-04-27T20:44:35Z",
+      "matiere": "PSI",
+      "num": "6",
+      "posts": {},
+      "tags_applied": [
+        "TP"
+      ],
+      "thread_id": "1498368756093554820",
+      "title": "TP6_PSI_2704",
+      "type": "TP"
+    },
+    "PSI__TP__SGF": {
+      "annee": null,
+      "created_at": "2026-04-27T18:19:46Z",
+      "forum_id": "1497497580047695942",
+      "last_updated": "2026-04-27T20:44:37Z",
+      "matiere": "PSI",
+      "num": "SGF",
+      "posts": {
+        "script:global:md": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "05e8b34c379472e686681e660c457cd9",
+          "message_id": "1498388244927217724",
+          "published_at": "2026-04-27T18:19:56Z",
+          "rel_key": "PSI/TP/SGF/scripts_oraux/SCRIPT_PSI_TP_SGF_inference.md",
+          "size_mb": 0.02,
+          "version": 1
+        },
+        "script:global:txt": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "15171ff7e2da1fe7f9b6768e11beb44f",
+          "message_id": "1498388254981095516",
+          "published_at": "2026-04-27T18:19:58Z",
+          "rel_key": "PSI/TP/SGF/scripts_oraux/script_oral_PSI_TP_SGF_inference.txt",
+          "size_mb": 0.01,
+          "version": 1
+        },
+        "script_print:global": {
+          "is_too_big": false,
+          "kind": "script_print",
+          "md5": "b7432ed0f2a9a70185ff591835d0bcd6",
+          "message_id": "1498388275751030785",
+          "published_at": "2026-04-27T18:20:03Z",
+          "rel_key": "PSI/TP/SGF/scripts_oraux/script_imprimable_PSI_TP_SGF_inference.pdf",
+          "size_mb": 0.13,
+          "version": 1
+        },
+        "slides:global": {
+          "is_too_big": false,
+          "kind": "slides",
+          "md5": "8750031158120c9f9677038ec3b82241",
+          "message_id": "1498388265798205560",
+          "published_at": "2026-04-27T18:20:01Z",
+          "rel_key": "PSI/TP/SGF/scripts_oraux/slides_PSI_TP_SGF_inference.pdf",
+          "size_mb": 0.2,
+          "version": 1
+        },
+        "tache:global": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "ab46d1719e16c03556865f94bac476f2",
+          "message_id": "1498388224576323686",
+          "published_at": "2026-04-27T18:19:51Z",
+          "rel_key": "PSI/TP/SGF/TACHE_PSI_TP_SGF.md",
+          "size_mb": 0.01,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "TP"
+      ],
+      "thread_id": "1498388204930203698",
+      "title": "[TP] SGF — Système de gestion de fichiers",
+      "type": "TP"
+    },
+    "PSI__TP__SHANNON": {
+      "annee": null,
+      "created_at": "2026-04-27T17:32:25Z",
+      "forum_id": "1497497580047695942",
+      "last_updated": "2026-04-27T20:44:36Z",
+      "matiere": "PSI",
+      "num": "SHANNON",
+      "posts": {
+        "script:global:md": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "56a014e9e81253346b52567690a01b8a",
+          "message_id": "1498376335930691608",
+          "published_at": "2026-04-27T17:32:36Z",
+          "rel_key": "PSI/TP/TP_SHANNON/scripts_oraux/SCRIPT_PSI_TP_SHANNON_inference.md",
+          "size_mb": 0.03,
+          "version": 1
+        },
+        "script:global:txt": {
+          "is_too_big": false,
+          "kind": "script",
+          "md5": "cafe02ae32b4b6020eaeeccce3a76baa",
+          "message_id": "1498376355585196183",
+          "published_at": "2026-04-27T17:32:41Z",
+          "rel_key": "PSI/TP/TP_SHANNON/scripts_oraux/script_oral_PSI_TP_SHANNON_inference.txt",
+          "size_mb": 0.02,
+          "version": 1
+        },
+        "script_print:global": {
+          "is_too_big": false,
+          "kind": "script_print",
+          "md5": "b099ea96182194c4ed861e918e8d61a3",
+          "message_id": "1498376381883744466",
+          "published_at": "2026-04-27T17:32:47Z",
+          "rel_key": "PSI/TP/TP_SHANNON/scripts_oraux/script_imprimable_PSI_TP_SHANNON_inference.pdf",
+          "size_mb": 0.2,
+          "version": 1
+        },
+        "slides:global": {
+          "is_too_big": false,
+          "kind": "slides",
+          "md5": "9d0196458234ef7e177af98cd22f0e45",
+          "message_id": "1498376370273648690",
+          "published_at": "2026-04-27T17:32:45Z",
+          "rel_key": "PSI/TP/TP_SHANNON/scripts_oraux/slides_PSI_TP_SHANNON_inference.pdf",
+          "size_mb": 0.46,
+          "version": 1
+        },
+        "tache:global": {
+          "is_too_big": false,
+          "kind": "tache",
+          "md5": "16ca6dbc0f1e62882f72c5abaefd9b3e",
+          "message_id": "1498376311893135420",
+          "published_at": "2026-04-27T17:32:31Z",
+          "rel_key": "PSI/TP/TP_SHANNON/TACHE_PSI_TP_SHANNON.md",
+          "size_mb": 0.02,
+          "version": 1
+        }
+      },
+      "tags_applied": [
+        "TP"
+      ],
+      "thread_id": "1498376289374048289",
+      "title": "[TP] Shannon — Le bit comme mesure de l'information",
+      "type": "TP"
+    }
+  }
+}

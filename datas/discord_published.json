@@ -1,0 +1,4140 @@
+{
+  "schema_version": 2,
+  "threads": {
+    "AN1__CC__4__2023-2024": {
+      "annee": "2023-2024",
+      "corrections": {
+        "1": {
+          "md5": "c84d13d9c611946d1d90c83d7469833b",
+          "message_id": "1497930297281478677",
+          "pdf_path": "AN1/CC/2023-2024/CC4/corrections/correction_CC4_2023-2024_ex1_AN1.pdf",
+          "published_at": "2026-04-26T12:00:12Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "c84d13d9c611946d1d90c83d7469833b",
+              "message_id": "1497930297281478677",
+              "timestamp": "2026-04-26T12:00:12Z",
+              "version": 1
+            }
+          ]
+        },
+        "2": {
+          "md5": "0194239a15bbc955db33ae00cd90ad13",
+          "message_id": "1497930299282292890",
+          "pdf_path": "AN1/CC/2023-2024/CC4/corrections/correction_CC4_2023-2024_ex2_AN1.pdf",
+          "published_at": "2026-04-26T12:00:13Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "0194239a15bbc955db33ae00cd90ad13",
+              "message_id": "1497930299282292890",
+              "timestamp": "2026-04-26T12:00:13Z",
+              "version": 1
+            }
+          ]
+        },
+        "3": {
+          "md5": "a1d42836b4c725d9ae82ec8ca849f6f6",
+          "message_id": "1497932075863511130",
+          "pdf_path": "AN1/CC/2023-2024/CC4/corrections/correction_CC4_2023-2024_ex3_AN1.pdf",
+          "published_at": "2026-04-26T12:07:16Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "a1d42836b4c725d9ae82ec8ca849f6f6",
+              "message_id": "1497932075863511130",
+              "timestamp": "2026-04-26T12:07:16Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-25T04:14:37Z",
+      "enonce": {
+        "md5": "4dd164abf15eb1139d3477a3e87e4f2e",
+        "message_id": "1497450738652151889",
+        "pdf_path": "AN1/CC/2023-2024/CC4/enonce_CC4_2023-2024_AN1.pdf",
+        "published_at": "2026-04-25T04:14:37Z",
+        "status": "present"
+      },
+      "forum_id": "1497322104176119849",
+      "last_updated": "2026-04-26T12:07:16Z",
+      "matiere": "AN1",
+      "num": "4",
+      "state": "corrections_present",
+      "tags_applied": [
+        "CC",
+        "Corrections présentes"
+      ],
+      "thread_id": "1497450738652151889",
+      "titre_td": "Maximum local (definition de cours)",
+      "type": "CC"
+    },
+    "AN1__CC__4__2024-2025": {
+      "annee": "2024-2025",
+      "corrections": {
+        "1": {
+          "md5": "bfad703ce004233aeba9c1525d212e66",
+          "message_id": "1497450941111074917",
+          "pdf_path": "AN1/CC/2024-2025/CC4/corrections/correction_CC4_2024-2025_ex1_AN1.pdf",
+          "published_at": "2026-04-25T04:15:25Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "bfad703ce004233aeba9c1525d212e66",
+              "message_id": "1497450941111074917",
+              "timestamp": "2026-04-25T04:15:25Z",
+              "version": 1
+            }
+          ]
+        },
+        "2": {
+          "md5": "b1ced7882cd9a5cebf75733756530201",
+          "message_id": "1497451006680760540",
+          "pdf_path": "AN1/CC/2024-2025/CC4/corrections/correction_CC4_2024-2025_ex2_AN1.pdf",
+          "published_at": "2026-04-25T04:15:41Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "b1ced7882cd9a5cebf75733756530201",
+              "message_id": "1497451006680760540",
+              "timestamp": "2026-04-25T04:15:41Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-25T04:15:25Z",
+      "enonce": {
+        "md5": "3d867975d746482639cfe90e578bc276",
+        "message_id": "1497450938003095723",
+        "pdf_path": "AN1/CC/2024-2025/CC4/enonce_CC4_2024-2025_AN1.pdf",
+        "published_at": "2026-04-25T04:15:25Z",
+        "status": "present"
+      },
+      "forum_id": "1497322104176119849",
+      "last_updated": "2026-04-25T04:15:41Z",
+      "matiere": "AN1",
+      "num": "4",
+      "state": "corrections_present",
+      "tags_applied": [
+        "CC",
+        "Corrections présentes"
+      ],
+      "thread_id": "1497450938003095723",
+      "titre_td": "Maximum local (definition de cours)",
+      "type": "CC"
+    },
+    "AN1__CC__T__2023-2024": {
+      "annee": "2023-2024",
+      "corrections": {
+        "1": {
+          "md5": "892525cbd6f41d20587141d3877097fb",
+          "message_id": "1504566384041005339",
+          "pdf_path": "AN1/CC/2023-2024/CCT/corrections/correction_CCT_2023-2024_ex1_AN1.pdf",
+          "published_at": "2026-05-14T19:29:39Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "892525cbd6f41d20587141d3877097fb",
+              "message_id": "1504566384041005339",
+              "timestamp": "2026-05-14T19:29:39Z",
+              "version": 1
+            }
+          ]
+        },
+        "2": {
+          "md5": "957f4bbbb786373ada781c770a61d0e5",
+          "message_id": "1504566389615366235",
+          "pdf_path": "AN1/CC/2023-2024/CCT/corrections/correction_CCT_2023-2024_ex2_AN1.pdf",
+          "published_at": "2026-05-14T19:29:40Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "957f4bbbb786373ada781c770a61d0e5",
+              "message_id": "1504566389615366235",
+              "timestamp": "2026-05-14T19:29:40Z",
+              "version": 1
+            }
+          ]
+        },
+        "3": {
+          "md5": "ed8fdea541b1139b141103189ec8a35d",
+          "message_id": "1504566392664621197",
+          "pdf_path": "AN1/CC/2023-2024/CCT/corrections/correction_CCT_2023-2024_ex3_AN1.pdf",
+          "published_at": "2026-05-14T19:29:41Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "ed8fdea541b1139b141103189ec8a35d",
+              "message_id": "1504566392664621197",
+              "timestamp": "2026-05-14T19:29:41Z",
+              "version": 1
+            }
+          ]
+        },
+        "4": {
+          "md5": "8bbe0ffe7c50cd4ccbc331c4d74e171d",
+          "message_id": "1504566395994767592",
+          "pdf_path": "AN1/CC/2023-2024/CCT/corrections/correction_CCT_2023-2024_ex4_AN1.pdf",
+          "published_at": "2026-05-14T19:29:42Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "8bbe0ffe7c50cd4ccbc331c4d74e171d",
+              "message_id": "1504566395994767592",
+              "timestamp": "2026-05-14T19:29:42Z",
+              "version": 1
+            }
+          ]
+        },
+        "5": {
+          "md5": "66743783c6ea279ed62ed1c70e7835f4",
+          "message_id": "1504566399027253399",
+          "pdf_path": "AN1/CC/2023-2024/CCT/corrections/correction_CCT_2023-2024_ex5_AN1.pdf",
+          "published_at": "2026-05-14T19:29:43Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "66743783c6ea279ed62ed1c70e7835f4",
+              "message_id": "1504566399027253399",
+              "timestamp": "2026-05-14T19:29:43Z",
+              "version": 1
+            }
+          ]
+        },
+        "6": {
+          "md5": "b7c5f07de5ea1eedd07cbd87377acf05",
+          "message_id": "1504566402412052531",
+          "pdf_path": "AN1/CC/2023-2024/CCT/corrections/correction_CCT_2023-2024_ex6_AN1.pdf",
+          "published_at": "2026-05-14T19:29:44Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "b7c5f07de5ea1eedd07cbd87377acf05",
+              "message_id": "1504566402412052531",
+              "timestamp": "2026-05-14T19:29:44Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-05-14T19:29:38Z",
+      "enonce": {
+        "md5": "903fcaf83217d8a2ac7bd026d6d47967",
+        "message_id": "1504566381050466497",
+        "pdf_path": "AN1/CC/2023-2024/CCT/enonce_CCT_2023-2024_AN1.pdf",
+        "published_at": "2026-05-14T19:29:38Z",
+        "status": "present"
+      },
+      "forum_id": "1497322104176119849",
+      "last_updated": "2026-05-14T19:29:44Z",
+      "matiere": "AN1",
+      "num": "T",
+      "state": "corrections_present",
+      "tags_applied": [
+        "CC",
+        "Corrections présentes"
+      ],
+      "thread_id": "1504566381050466497",
+      "titre_td": "Racines carrees de -3-4i et equation quadratique complexe",
+      "type": "CC"
+    },
+    "AN1__CC__T__2024-2025": {
+      "annee": "2024-2025",
+      "corrections": {
+        "1": {
+          "md5": "64760f689cb19fb166f5ecf4664db38e",
+          "message_id": "1504566412360814806",
+          "pdf_path": "AN1/CC/2024-2025/CCT/corrections/correction_CCT_2024-2025_ex1_AN1.pdf",
+          "published_at": "2026-05-14T19:29:46Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "64760f689cb19fb166f5ecf4664db38e",
+              "message_id": "1504566412360814806",
+              "timestamp": "2026-05-14T19:29:46Z",
+              "version": 1
+            }
+          ]
+        },
+        "2": {
+          "md5": "c80a412d3b8d3134d3071302ff0ffff4",
+          "message_id": "1504566418602070016",
+          "pdf_path": "AN1/CC/2024-2025/CCT/corrections/correction_CCT_2024-2025_ex2_AN1.pdf",
+          "published_at": "2026-05-14T19:29:47Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "c80a412d3b8d3134d3071302ff0ffff4",
+              "message_id": "1504566418602070016",
+              "timestamp": "2026-05-14T19:29:47Z",
+              "version": 1
+            }
+          ]
+        },
+        "3": {
+          "md5": "1e89e54b88bc18bc867dd1e92bd66a1f",
+          "message_id": "1504566422817214515",
+          "pdf_path": "AN1/CC/2024-2025/CCT/corrections/correction_CCT_2024-2025_ex3_AN1.pdf",
+          "published_at": "2026-05-14T19:29:48Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "1e89e54b88bc18bc867dd1e92bd66a1f",
+              "message_id": "1504566422817214515",
+              "timestamp": "2026-05-14T19:29:48Z",
+              "version": 1
+            }
+          ]
+        },
+        "4": {
+          "md5": "cf2ad53f31ba415004c1e62df7d5c9b0",
+          "message_id": "1504566427527548948",
+          "pdf_path": "AN1/CC/2024-2025/CCT/corrections/correction_CCT_2024-2025_ex4_AN1.pdf",
+          "published_at": "2026-05-14T19:29:49Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "cf2ad53f31ba415004c1e62df7d5c9b0",
+              "message_id": "1504566427527548948",
+              "timestamp": "2026-05-14T19:29:49Z",
+              "version": 1
+            }
+          ]
+        },
+        "5": {
+          "md5": "215b24d48006e7afd386c7463aebe2fc",
+          "message_id": "1504566430115430451",
+          "pdf_path": "AN1/CC/2024-2025/CCT/corrections/correction_CCT_2024-2025_ex5_AN1.pdf",
+          "published_at": "2026-05-14T19:29:50Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "215b24d48006e7afd386c7463aebe2fc",
+              "message_id": "1504566430115430451",
+              "timestamp": "2026-05-14T19:29:50Z",
+              "version": 1
+            }
+          ]
+        },
+        "6": {
+          "md5": "72bd0f71a9022787b0b60d386c30311a",
+          "message_id": "1504566433424871635",
+          "pdf_path": "AN1/CC/2024-2025/CCT/corrections/correction_CCT_2024-2025_ex6_AN1.pdf",
+          "published_at": "2026-05-14T19:29:51Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "72bd0f71a9022787b0b60d386c30311a",
+              "message_id": "1504566433424871635",
+              "timestamp": "2026-05-14T19:29:51Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-05-14T19:29:45Z",
+      "enonce": {
+        "md5": "c5f8453b836c5dd1971e53e452a64e8a",
+        "message_id": "1504566409441579139",
+        "pdf_path": "AN1/CC/2024-2025/CCT/enonce_CCT_2024-2025_AN1.pdf",
+        "published_at": "2026-05-14T19:29:45Z",
+        "status": "present"
+      },
+      "forum_id": "1497322104176119849",
+      "last_updated": "2026-05-14T19:29:51Z",
+      "matiere": "AN1",
+      "num": "T",
+      "state": "corrections_present",
+      "tags_applied": [
+        "CC",
+        "Corrections présentes"
+      ],
+      "thread_id": "1504566409441579139",
+      "titre_td": "Racines carrees de -3-4i et equation quadratique complexe",
+      "type": "CC"
+    },
+    "AN1__TD__1": {
+      "annee": null,
+      "corrections": {
+        "1": {
+          "md5": "30d6b684f7f3d9decdd804d333c72339",
+          "message_id": "1497451075933044736",
+          "pdf_path": "AN1/TD/TD1/corrections/correction_TD1_ex1_AN1.pdf",
+          "published_at": "2026-04-25T04:15:57Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "30d6b684f7f3d9decdd804d333c72339",
+              "message_id": "1497451075933044736",
+              "timestamp": "2026-04-25T04:15:57Z",
+              "version": 1
+            }
+          ]
+        },
+        "10": {
+          "md5": "9653e024bd17883aa2e4909bb56269d0",
+          "message_id": "1497451662695071806",
+          "pdf_path": "AN1/TD/TD1/corrections/correction_TD1_ex10_AN1.pdf",
+          "published_at": "2026-04-25T04:18:17Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "9653e024bd17883aa2e4909bb56269d0",
+              "message_id": "1497451662695071806",
+              "timestamp": "2026-04-25T04:18:17Z",
+              "version": 1
+            }
+          ]
+        },
+        "11": {
+          "md5": "301af66fb52d218eb3b571e26aa0fbf3",
+          "message_id": "1497451728403169373",
+          "pdf_path": "AN1/TD/TD1/corrections/correction_TD1_ex11_AN1.pdf",
+          "published_at": "2026-04-25T04:18:33Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "301af66fb52d218eb3b571e26aa0fbf3",
+              "message_id": "1497451728403169373",
+              "timestamp": "2026-04-25T04:18:33Z",
+              "version": 1
+            }
+          ]
+        },
+        "12": {
+          "md5": "c0b0a451b31763ab0c72383578f5245b",
+          "message_id": "1497451793783853226",
+          "pdf_path": "AN1/TD/TD1/corrections/correction_TD1_ex12_AN1.pdf",
+          "published_at": "2026-04-25T04:18:48Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "c0b0a451b31763ab0c72383578f5245b",
+              "message_id": "1497451793783853226",
+              "timestamp": "2026-04-25T04:18:48Z",
+              "version": 1
+            }
+          ]
+        },
+        "13": {
+          "md5": "00eda2b3e3f675a2f852fc6c8f856199",
+          "message_id": "1497451858405490813",
+          "pdf_path": "AN1/TD/TD1/corrections/correction_TD1_ex13_AN1.pdf",
+          "published_at": "2026-04-25T04:19:04Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "00eda2b3e3f675a2f852fc6c8f856199",
+              "message_id": "1497451858405490813",
+              "timestamp": "2026-04-25T04:19:04Z",
+              "version": 1
+            }
+          ]
+        },
+        "14": {
+          "md5": "6cfaca6e31cd8b7da64827415616ac03",
+          "message_id": "1497451924516245647",
+          "pdf_path": "AN1/TD/TD1/corrections/correction_TD1_ex14_AN1.pdf",
+          "published_at": "2026-04-25T04:19:20Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "6cfaca6e31cd8b7da64827415616ac03",
+              "message_id": "1497451924516245647",
+              "timestamp": "2026-04-25T04:19:20Z",
+              "version": 1
+            }
+          ]
+        },
+        "15": {
+          "md5": "328a5a7395b322d7ef8c5582a2cc4d14",
+          "message_id": "1497451989758513313",
+          "pdf_path": "AN1/TD/TD1/corrections/correction_TD1_ex15_AN1.pdf",
+          "published_at": "2026-04-25T04:19:35Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "328a5a7395b322d7ef8c5582a2cc4d14",
+              "message_id": "1497451989758513313",
+              "timestamp": "2026-04-25T04:19:35Z",
+              "version": 1
+            }
+          ]
+        },
+        "16": {
+          "md5": "27bbe406228c214c7b8add2a6841a34d",
+          "message_id": "1497452056649142323",
+          "pdf_path": "AN1/TD/TD1/corrections/correction_TD1_ex16_AN1.pdf",
+          "published_at": "2026-04-25T04:19:51Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "27bbe406228c214c7b8add2a6841a34d",
+              "message_id": "1497452056649142323",
+              "timestamp": "2026-04-25T04:19:51Z",
+              "version": 1
+            }
+          ]
+        },
+        "2": {
+          "md5": "6af1a4318bc4170a3219f33c03b32b17",
+          "message_id": "1497451141871571034",
+          "pdf_path": "AN1/TD/TD1/corrections/correction_TD1_ex2_AN1.pdf",
+          "published_at": "2026-04-25T04:16:13Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "6af1a4318bc4170a3219f33c03b32b17",
+              "message_id": "1497451141871571034",
+              "timestamp": "2026-04-25T04:16:13Z",
+              "version": 1
+            }
+          ]
+        },
+        "3": {
+          "md5": "57007af2a9898232a186ec50ca4b1c81",
+          "message_id": "1497451206036029553",
+          "pdf_path": "AN1/TD/TD1/corrections/correction_TD1_ex3_AN1.pdf",
+          "published_at": "2026-04-25T04:16:28Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "57007af2a9898232a186ec50ca4b1c81",
+              "message_id": "1497451206036029553",
+              "timestamp": "2026-04-25T04:16:28Z",
+              "version": 1
+            }
+          ]
+        },
+        "4": {
+          "md5": "479162912960b42ae69759a078c9e316",
+          "message_id": "1497451271588941854",
+          "pdf_path": "AN1/TD/TD1/corrections/correction_TD1_ex4_AN1.pdf",
+          "published_at": "2026-04-25T04:16:44Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "479162912960b42ae69759a078c9e316",
+              "message_id": "1497451271588941854",
+              "timestamp": "2026-04-25T04:16:44Z",
+              "version": 1
+            }
+          ]
+        },
+        "5": {
+          "md5": "9d8cd88921325fb6e6bedb2363f69c7f",
+          "message_id": "1497451337120743475",
+          "pdf_path": "AN1/TD/TD1/corrections/correction_TD1_ex5_AN1.pdf",
+          "published_at": "2026-04-25T04:17:00Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "9d8cd88921325fb6e6bedb2363f69c7f",
+              "message_id": "1497451337120743475",
+              "timestamp": "2026-04-25T04:17:00Z",
+              "version": 1
+            }
+          ]
+        },
+        "6": {
+          "md5": "6b7d8a000ba37fd10a5886e22a46b085",
+          "message_id": "1497451402828709949",
+          "pdf_path": "AN1/TD/TD1/corrections/correction_TD1_ex6_AN1.pdf",
+          "published_at": "2026-04-25T04:17:15Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "6b7d8a000ba37fd10a5886e22a46b085",
+              "message_id": "1497451402828709949",
+              "timestamp": "2026-04-25T04:17:15Z",
+              "version": 1
+            }
+          ]
+        },
+        "7": {
+          "md5": "689337d6b34bb94de0be855da64283c7",
+          "message_id": "1497451468184359033",
+          "pdf_path": "AN1/TD/TD1/corrections/correction_TD1_ex7_AN1.pdf",
+          "published_at": "2026-04-25T04:17:31Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "689337d6b34bb94de0be855da64283c7",
+              "message_id": "1497451468184359033",
+              "timestamp": "2026-04-25T04:17:31Z",
+              "version": 1
+            }
+          ]
+        },
+        "8": {
+          "md5": "58172daf325d3e421151d666c154d3a8",
+          "message_id": "1497451533049004112",
+          "pdf_path": "AN1/TD/TD1/corrections/correction_TD1_ex8_AN1.pdf",
+          "published_at": "2026-04-25T04:17:46Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "58172daf325d3e421151d666c154d3a8",
+              "message_id": "1497451533049004112",
+              "timestamp": "2026-04-25T04:17:46Z",
+              "version": 1
+            }
+          ]
+        },
+        "9": {
+          "md5": "3c20cdf118ff4cbcfa9bbdba3db4dd67",
+          "message_id": "1497451597834485800",
+          "pdf_path": "AN1/TD/TD1/corrections/correction_TD1_ex9_AN1.pdf",
+          "published_at": "2026-04-25T04:18:02Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "3c20cdf118ff4cbcfa9bbdba3db4dd67",
+              "message_id": "1497451597834485800",
+              "timestamp": "2026-04-25T04:18:02Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-25T04:15:57Z",
+      "enonce": {
+        "md5": "5190b5367ff0732b253898de60aec33f",
+        "message_id": "1497451071638081608",
+        "pdf_path": "AN1/TD/TD1/enonce_TD1_AN1.pdf",
+        "published_at": "2026-04-25T04:15:57Z",
+        "status": "present"
+      },
+      "forum_id": "1497322104176119849",
+      "last_updated": "2026-04-25T04:19:51Z",
+      "matiere": "AN1",
+      "num": "1",
+      "state": "corrections_present",
+      "tags_applied": [
+        "TD",
+        "Corrections présentes"
+      ],
+      "thread_id": "1497451071638081608",
+      "titre_td": "Forme algébrique — premiers calculs",
+      "type": "TD"
+    },
+    "AN1__TD__2": {
+      "annee": null,
+      "corrections": {
+        "1": {
+          "md5": "d2c2fd9d4376eb4273e1fa174df56b52",
+          "message_id": "1497452125435990137",
+          "pdf_path": "AN1/TD/TD2/corrections/correction_TD2_ex1_AN1.pdf",
+          "published_at": "2026-04-25T04:20:08Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "d2c2fd9d4376eb4273e1fa174df56b52",
+              "message_id": "1497452125435990137",
+              "timestamp": "2026-04-25T04:20:08Z",
+              "version": 1
+            }
+          ]
+        },
+        "10": {
+          "md5": "61464bcfdb7d8e2f5498ac5795909e5c",
+          "message_id": "1497452713473212536",
+          "pdf_path": "AN1/TD/TD2/corrections/correction_TD2_ex10_AN1.pdf",
+          "published_at": "2026-04-25T04:22:28Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "61464bcfdb7d8e2f5498ac5795909e5c",
+              "message_id": "1497452713473212536",
+              "timestamp": "2026-04-25T04:22:28Z",
+              "version": 1
+            }
+          ]
+        },
+        "11": {
+          "md5": "b76e88879fb69f6ad355baec3b84d650",
+          "message_id": "1497452778740777001",
+          "pdf_path": "AN1/TD/TD2/corrections/correction_TD2_ex11_AN1.pdf",
+          "published_at": "2026-04-25T04:22:44Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "b76e88879fb69f6ad355baec3b84d650",
+              "message_id": "1497452778740777001",
+              "timestamp": "2026-04-25T04:22:44Z",
+              "version": 1
+            }
+          ]
+        },
+        "12": {
+          "md5": "81a302af05ba173fb93a08303a63ed9e",
+          "message_id": "1497452844641423380",
+          "pdf_path": "AN1/TD/TD2/corrections/correction_TD2_ex12_AN1.pdf",
+          "published_at": "2026-04-25T04:22:59Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "81a302af05ba173fb93a08303a63ed9e",
+              "message_id": "1497452844641423380",
+              "timestamp": "2026-04-25T04:22:59Z",
+              "version": 1
+            }
+          ]
+        },
+        "13": {
+          "md5": "0cd55a2b15a24e77a492078aa534caec",
+          "message_id": "1497452909355598070",
+          "pdf_path": "AN1/TD/TD2/corrections/correction_TD2_ex13_AN1.pdf",
+          "published_at": "2026-04-25T04:23:15Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "0cd55a2b15a24e77a492078aa534caec",
+              "message_id": "1497452909355598070",
+              "timestamp": "2026-04-25T04:23:15Z",
+              "version": 1
+            }
+          ]
+        },
+        "14": {
+          "md5": "a7335a041b7c92e0e861646597cb2352",
+          "message_id": "1497452975050719292",
+          "pdf_path": "AN1/TD/TD2/corrections/correction_TD2_ex14_AN1.pdf",
+          "published_at": "2026-04-25T04:23:30Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "a7335a041b7c92e0e861646597cb2352",
+              "message_id": "1497452975050719292",
+              "timestamp": "2026-04-25T04:23:30Z",
+              "version": 1
+            }
+          ]
+        },
+        "15": {
+          "md5": "2e807c821ebf318887b7790249cc568e",
+          "message_id": "1497453039857176619",
+          "pdf_path": "AN1/TD/TD2/corrections/correction_TD2_ex15_AN1.pdf",
+          "published_at": "2026-04-25T04:23:46Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "2e807c821ebf318887b7790249cc568e",
+              "message_id": "1497453039857176619",
+              "timestamp": "2026-04-25T04:23:46Z",
+              "version": 1
+            }
+          ]
+        },
+        "16": {
+          "md5": "8a6415c3b1cae44370f1d3e914457e08",
+          "message_id": "1497453105841967125",
+          "pdf_path": "AN1/TD/TD2/corrections/correction_TD2_ex16_AN1.pdf",
+          "published_at": "2026-04-25T04:24:01Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "8a6415c3b1cae44370f1d3e914457e08",
+              "message_id": "1497453105841967125",
+              "timestamp": "2026-04-25T04:24:01Z",
+              "version": 1
+            }
+          ]
+        },
+        "17": {
+          "md5": "f1f0d2fbb0a192809b9f9607b459c602",
+          "message_id": "1497453170434244631",
+          "pdf_path": "AN1/TD/TD2/corrections/correction_TD2_ex17_AN1.pdf",
+          "published_at": "2026-04-25T04:24:17Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "f1f0d2fbb0a192809b9f9607b459c602",
+              "message_id": "1497453170434244631",
+              "timestamp": "2026-04-25T04:24:17Z",
+              "version": 1
+            }
+          ]
+        },
+        "18": {
+          "md5": "6e108cced2e5b0e2c8f3936c12e87d65",
+          "message_id": "1497453235638763572",
+          "pdf_path": "AN1/TD/TD2/corrections/correction_TD2_ex18_AN1.pdf",
+          "published_at": "2026-04-25T04:24:32Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "6e108cced2e5b0e2c8f3936c12e87d65",
+              "message_id": "1497453235638763572",
+              "timestamp": "2026-04-25T04:24:32Z",
+              "version": 1
+            }
+          ]
+        },
+        "19": {
+          "md5": "47cd99411fcbf9b89361c87e222b7dd1",
+          "message_id": "1497453300134445089",
+          "pdf_path": "AN1/TD/TD2/corrections/correction_TD2_ex19_AN1.pdf",
+          "published_at": "2026-04-25T04:24:48Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "47cd99411fcbf9b89361c87e222b7dd1",
+              "message_id": "1497453300134445089",
+              "timestamp": "2026-04-25T04:24:48Z",
+              "version": 1
+            }
+          ]
+        },
+        "2": {
+          "md5": "b1c4bcb51521c0a6eca97d9b1e5cbc80",
+          "message_id": "1497452191882154014",
+          "pdf_path": "AN1/TD/TD2/corrections/correction_TD2_ex2_AN1.pdf",
+          "published_at": "2026-04-25T04:20:23Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "b1c4bcb51521c0a6eca97d9b1e5cbc80",
+              "message_id": "1497452191882154014",
+              "timestamp": "2026-04-25T04:20:23Z",
+              "version": 1
+            }
+          ]
+        },
+        "20": {
+          "md5": "023c83884f2c5e71e10d9647a93fcb9e",
+          "message_id": "1497453366916153395",
+          "pdf_path": "AN1/TD/TD2/corrections/correction_TD2_ex20_AN1.pdf",
+          "published_at": "2026-04-25T04:25:04Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "023c83884f2c5e71e10d9647a93fcb9e",
+              "message_id": "1497453366916153395",
+              "timestamp": "2026-04-25T04:25:04Z",
+              "version": 1
+            }
+          ]
+        },
+        "3": {
+          "md5": "7fdb0f3fffc55d60d026f1d1ade82c9e",
+          "message_id": "1497452256595804220",
+          "pdf_path": "AN1/TD/TD2/corrections/correction_TD2_ex3_AN1.pdf",
+          "published_at": "2026-04-25T04:20:39Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "7fdb0f3fffc55d60d026f1d1ade82c9e",
+              "message_id": "1497452256595804220",
+              "timestamp": "2026-04-25T04:20:39Z",
+              "version": 1
+            }
+          ]
+        },
+        "4": {
+          "md5": "a07c0c1f5797e053aa1b8054f87353ca",
+          "message_id": "1497452322119487518",
+          "pdf_path": "AN1/TD/TD2/corrections/correction_TD2_ex4_AN1.pdf",
+          "published_at": "2026-04-25T04:20:54Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "a07c0c1f5797e053aa1b8054f87353ca",
+              "message_id": "1497452322119487518",
+              "timestamp": "2026-04-25T04:20:54Z",
+              "version": 1
+            }
+          ]
+        },
+        "5": {
+          "md5": "ea6d08eeb623a6f948ae5c29c3580332",
+          "message_id": "1497452386606645318",
+          "pdf_path": "AN1/TD/TD2/corrections/correction_TD2_ex5_AN1.pdf",
+          "published_at": "2026-04-25T04:21:10Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "ea6d08eeb623a6f948ae5c29c3580332",
+              "message_id": "1497452386606645318",
+              "timestamp": "2026-04-25T04:21:10Z",
+              "version": 1
+            }
+          ]
+        },
+        "6": {
+          "md5": "e7bcd973261ba0cdead1b7755c9bb91b",
+          "message_id": "1497452451345731674",
+          "pdf_path": "AN1/TD/TD2/corrections/correction_TD2_ex6_AN1.pdf",
+          "published_at": "2026-04-25T04:21:25Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "e7bcd973261ba0cdead1b7755c9bb91b",
+              "message_id": "1497452451345731674",
+              "timestamp": "2026-04-25T04:21:25Z",
+              "version": 1
+            }
+          ]
+        },
+        "7": {
+          "md5": "7ea09bd8a8fe1a0b5c50a93ca602da01",
+          "message_id": "1497452516529405972",
+          "pdf_path": "AN1/TD/TD2/corrections/correction_TD2_ex7_AN1.pdf",
+          "published_at": "2026-04-25T04:21:41Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "7ea09bd8a8fe1a0b5c50a93ca602da01",
+              "message_id": "1497452516529405972",
+              "timestamp": "2026-04-25T04:21:41Z",
+              "version": 1
+            }
+          ]
+        },
+        "8": {
+          "md5": "d811dcc6ec2f572a0a2fef66a7fe1940",
+          "message_id": "1497452582300418171",
+          "pdf_path": "AN1/TD/TD2/corrections/correction_TD2_ex8_AN1.pdf",
+          "published_at": "2026-04-25T04:21:56Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "d811dcc6ec2f572a0a2fef66a7fe1940",
+              "message_id": "1497452582300418171",
+              "timestamp": "2026-04-25T04:21:56Z",
+              "version": 1
+            }
+          ]
+        },
+        "9": {
+          "md5": "ab1a746fc3ab82d0d85b381f036ac0c5",
+          "message_id": "1497452647257608213",
+          "pdf_path": "AN1/TD/TD2/corrections/correction_TD2_ex9_AN1.pdf",
+          "published_at": "2026-04-25T04:22:12Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "ab1a746fc3ab82d0d85b381f036ac0c5",
+              "message_id": "1497452647257608213",
+              "timestamp": "2026-04-25T04:22:12Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-25T04:20:07Z",
+      "enonce": {
+        "md5": "c99444b211bfc1d560f01f9dd1d33e2e",
+        "message_id": "1497452121770168432",
+        "pdf_path": "AN1/TD/TD2/enonce_TD2_AN1.pdf",
+        "published_at": "2026-04-25T04:20:07Z",
+        "status": "present"
+      },
+      "forum_id": "1497322104176119849",
+      "last_updated": "2026-04-25T04:25:04Z",
+      "matiere": "AN1",
+      "num": "2",
+      "state": "corrections_present",
+      "tags_applied": [
+        "TD",
+        "Corrections présentes"
+      ],
+      "thread_id": "1497452121770168432",
+      "titre_td": "Domaines de définition (5 fonctions)",
+      "type": "TD"
+    },
+    "AN1__TD__3": {
+      "annee": null,
+      "corrections": {
+        "1": {
+          "md5": "d8776e8fcf70d8effc08836004dd3fbf",
+          "message_id": "1498608726167523328",
+          "pdf_path": "AN1/TD/TD3/corrections/correction_TD3_ex1_AN1.pdf",
+          "published_at": "2026-04-28T08:56:03Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "d8776e8fcf70d8effc08836004dd3fbf",
+              "message_id": "1498608726167523328",
+              "timestamp": "2026-04-28T08:56:03Z",
+              "version": 1
+            }
+          ]
+        },
+        "10": {
+          "md5": "e4a988c2b9043ab68b142fe4dfadb5f1",
+          "message_id": "1498608761672040478",
+          "pdf_path": "AN1/TD/TD3/corrections/correction_TD3_ex10_AN1.pdf",
+          "published_at": "2026-04-28T08:56:11Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "e4a988c2b9043ab68b142fe4dfadb5f1",
+              "message_id": "1498608761672040478",
+              "timestamp": "2026-04-28T08:56:11Z",
+              "version": 1
+            }
+          ]
+        },
+        "11": {
+          "md5": "b0d41ce0b136c1875446e888fa7f761e",
+          "message_id": "1498608764453126224",
+          "pdf_path": "AN1/TD/TD3/corrections/correction_TD3_ex11_AN1.pdf",
+          "published_at": "2026-04-28T08:56:12Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "b0d41ce0b136c1875446e888fa7f761e",
+              "message_id": "1498608764453126224",
+              "timestamp": "2026-04-28T08:56:12Z",
+              "version": 1
+            }
+          ]
+        },
+        "12": {
+          "md5": "4c1204e447aea752c574dadabbaf39af",
+          "message_id": "1498608766768119819",
+          "pdf_path": "AN1/TD/TD3/corrections/correction_TD3_ex12_AN1.pdf",
+          "published_at": "2026-04-28T08:56:13Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "4c1204e447aea752c574dadabbaf39af",
+              "message_id": "1498608766768119819",
+              "timestamp": "2026-04-28T08:56:13Z",
+              "version": 1
+            }
+          ]
+        },
+        "13": {
+          "md5": "29341d1bf0f8bd2c699587a9013ea413",
+          "message_id": "1498608787236323438",
+          "pdf_path": "AN1/TD/TD3/corrections/correction_TD3_ex13_AN1.pdf",
+          "published_at": "2026-04-28T08:56:17Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "29341d1bf0f8bd2c699587a9013ea413",
+              "message_id": "1498608787236323438",
+              "timestamp": "2026-04-28T08:56:17Z",
+              "version": 1
+            }
+          ]
+        },
+        "14": {
+          "md5": "6d46e7c57996cdb0a2dffb23649462df",
+          "message_id": "1498608789539258458",
+          "pdf_path": "AN1/TD/TD3/corrections/correction_TD3_ex14_AN1.pdf",
+          "published_at": "2026-04-28T08:56:18Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "6d46e7c57996cdb0a2dffb23649462df",
+              "message_id": "1498608789539258458",
+              "timestamp": "2026-04-28T08:56:18Z",
+              "version": 1
+            }
+          ]
+        },
+        "15": {
+          "md5": "de0f6cbb7d507417927524fb657f14f0",
+          "message_id": "1498608791686742107",
+          "pdf_path": "AN1/TD/TD3/corrections/correction_TD3_ex15_AN1.pdf",
+          "published_at": "2026-04-28T08:56:18Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "de0f6cbb7d507417927524fb657f14f0",
+              "message_id": "1498608791686742107",
+              "timestamp": "2026-04-28T08:56:18Z",
+              "version": 1
+            }
+          ]
+        },
+        "16": {
+          "md5": "3791eb407d2cb23c199285823625ca11",
+          "message_id": "1498608794014453810",
+          "pdf_path": "AN1/TD/TD3/corrections/correction_TD3_ex16_AN1.pdf",
+          "published_at": "2026-04-28T08:56:19Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "3791eb407d2cb23c199285823625ca11",
+              "message_id": "1498608794014453810",
+              "timestamp": "2026-04-28T08:56:19Z",
+              "version": 1
+            }
+          ]
+        },
+        "17": {
+          "md5": "9efa75a2f44045b89237d0063c415818",
+          "message_id": "1498608796619243662",
+          "pdf_path": "AN1/TD/TD3/corrections/correction_TD3_ex17_AN1.pdf",
+          "published_at": "2026-04-28T08:56:20Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "9efa75a2f44045b89237d0063c415818",
+              "message_id": "1498608796619243662",
+              "timestamp": "2026-04-28T08:56:20Z",
+              "version": 1
+            }
+          ]
+        },
+        "18": {
+          "md5": "82e08383a42d4056773f88141d759012",
+          "message_id": "1498608799676764260",
+          "pdf_path": "AN1/TD/TD3/corrections/correction_TD3_ex18_AN1.pdf",
+          "published_at": "2026-04-28T08:56:20Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "82e08383a42d4056773f88141d759012",
+              "message_id": "1498608799676764260",
+              "timestamp": "2026-04-28T08:56:20Z",
+              "version": 1
+            }
+          ]
+        },
+        "19": {
+          "md5": "5e56db53fe132286fc44a9250e240fde",
+          "message_id": "1498608803376009226",
+          "pdf_path": "AN1/TD/TD3/corrections/correction_TD3_ex19_AN1.pdf",
+          "published_at": "2026-04-28T08:56:21Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "5e56db53fe132286fc44a9250e240fde",
+              "message_id": "1498608803376009226",
+              "timestamp": "2026-04-28T08:56:21Z",
+              "version": 1
+            }
+          ]
+        },
+        "2": {
+          "md5": "9a691896864335ed62bb4ef542a91266",
+          "message_id": "1498608730286329888",
+          "pdf_path": "AN1/TD/TD3/corrections/correction_TD3_ex2_AN1.pdf",
+          "published_at": "2026-04-28T08:56:06Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "9a691896864335ed62bb4ef542a91266",
+              "message_id": "1498608730286329888",
+              "timestamp": "2026-04-28T08:56:06Z",
+              "version": 1
+            }
+          ]
+        },
+        "3": {
+          "md5": "da7efb2a683614df25e3be50db18a75e",
+          "message_id": "1498608740717563955",
+          "pdf_path": "AN1/TD/TD3/corrections/correction_TD3_ex3_AN1.pdf",
+          "published_at": "2026-04-28T08:56:07Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "da7efb2a683614df25e3be50db18a75e",
+              "message_id": "1498608740717563955",
+              "timestamp": "2026-04-28T08:56:07Z",
+              "version": 1
+            }
+          ]
+        },
+        "4": {
+          "md5": "6eca8bd8ed38ab203657fa2d3b7d4593",
+          "message_id": "1498608743984791572",
+          "pdf_path": "AN1/TD/TD3/corrections/correction_TD3_ex4_AN1.pdf",
+          "published_at": "2026-04-28T08:56:07Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "6eca8bd8ed38ab203657fa2d3b7d4593",
+              "message_id": "1498608743984791572",
+              "timestamp": "2026-04-28T08:56:07Z",
+              "version": 1
+            }
+          ]
+        },
+        "5": {
+          "md5": "62cea7b4348e2f1d2164f49f70d7a42c",
+          "message_id": "1498608746438590544",
+          "pdf_path": "AN1/TD/TD3/corrections/correction_TD3_ex5_AN1.pdf",
+          "published_at": "2026-04-28T08:56:08Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "62cea7b4348e2f1d2164f49f70d7a42c",
+              "message_id": "1498608746438590544",
+              "timestamp": "2026-04-28T08:56:08Z",
+              "version": 1
+            }
+          ]
+        },
+        "6": {
+          "md5": "0af6e5fde7ab4770ce68efa5b687fae9",
+          "message_id": "1498608749403963402",
+          "pdf_path": "AN1/TD/TD3/corrections/correction_TD3_ex6_AN1.pdf",
+          "published_at": "2026-04-28T08:56:08Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "0af6e5fde7ab4770ce68efa5b687fae9",
+              "message_id": "1498608749403963402",
+              "timestamp": "2026-04-28T08:56:08Z",
+              "version": 1
+            }
+          ]
+        },
+        "7": {
+          "md5": "02bb74ff87700e96ba341f59cd49efc6",
+          "message_id": "1498608751941517433",
+          "pdf_path": "AN1/TD/TD3/corrections/correction_TD3_ex7_AN1.pdf",
+          "published_at": "2026-04-28T08:56:09Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "02bb74ff87700e96ba341f59cd49efc6",
+              "message_id": "1498608751941517433",
+              "timestamp": "2026-04-28T08:56:09Z",
+              "version": 1
+            }
+          ]
+        },
+        "8": {
+          "md5": "cac29af2545b4896b32a206e90a64f07",
+          "message_id": "1498608754873335869",
+          "pdf_path": "AN1/TD/TD3/corrections/correction_TD3_ex8_AN1.pdf",
+          "published_at": "2026-04-28T08:56:10Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "cac29af2545b4896b32a206e90a64f07",
+              "message_id": "1498608754873335869",
+              "timestamp": "2026-04-28T08:56:10Z",
+              "version": 1
+            }
+          ]
+        },
+        "9": {
+          "md5": "114c04627e647650812ca11b226b5387",
+          "message_id": "1498608758824243230",
+          "pdf_path": "AN1/TD/TD3/corrections/correction_TD3_ex9_AN1.pdf",
+          "published_at": "2026-04-28T08:56:11Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "114c04627e647650812ca11b226b5387",
+              "message_id": "1498608758824243230",
+              "timestamp": "2026-04-28T08:56:11Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-28T08:56:02Z",
+      "enonce": {
+        "md5": "e2c69cb539031a663e4ebc604f465f2c",
+        "message_id": "1498608722824396881",
+        "pdf_path": "AN1/TD/TD3/enonce_TD3_AN1.pdf",
+        "published_at": "2026-04-28T08:56:02Z",
+        "status": "present"
+      },
+      "forum_id": "1497322104176119849",
+      "last_updated": "2026-04-28T08:56:21Z",
+      "matiere": "AN1",
+      "num": "3",
+      "state": "corrections_present",
+      "tags_applied": [
+        "TD",
+        "Corrections présentes"
+      ],
+      "thread_id": "1498608722824396881",
+      "titre_td": "Limites latérales — exp(1/x), exp(|x|/x), √(x²-2x+1)/(x-1)",
+      "type": "TD"
+    },
+    "AN1__TD__4": {
+      "annee": null,
+      "corrections": {
+        "1": {
+          "md5": "8478aa16106cb9aec1fe9002fe531081",
+          "message_id": "1497453435107278868",
+          "pdf_path": "AN1/TD/TD4/corrections/correction_TD4_ex1_AN1.pdf",
+          "published_at": "2026-04-25T04:25:20Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "8478aa16106cb9aec1fe9002fe531081",
+              "message_id": "1497453435107278868",
+              "timestamp": "2026-04-25T04:25:20Z",
+              "version": 1
+            }
+          ]
+        },
+        "2": {
+          "md5": "4ccbebc8c4ad37eb5de57f46f05bfa52",
+          "message_id": "1497453501150662756",
+          "pdf_path": "AN1/TD/TD4/corrections/correction_TD4_ex2_AN1.pdf",
+          "published_at": "2026-04-25T04:25:36Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "4ccbebc8c4ad37eb5de57f46f05bfa52",
+              "message_id": "1497453501150662756",
+              "timestamp": "2026-04-25T04:25:36Z",
+              "version": 1
+            }
+          ]
+        },
+        "3": {
+          "md5": "762f93489add7c32304e0ce113ba8a31",
+          "message_id": "1497453565671641249",
+          "pdf_path": "AN1/TD/TD4/corrections/correction_TD4_ex3_AN1.pdf",
+          "published_at": "2026-04-25T04:25:51Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "762f93489add7c32304e0ce113ba8a31",
+              "message_id": "1497453565671641249",
+              "timestamp": "2026-04-25T04:25:51Z",
+              "version": 1
+            }
+          ]
+        },
+        "4": {
+          "md5": "d6cf40c583e2d1fe2ae97629bda1ad1e",
+          "message_id": "1497453630448730255",
+          "pdf_path": "AN1/TD/TD4/corrections/correction_TD4_ex4_AN1.pdf",
+          "published_at": "2026-04-25T04:26:06Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "d6cf40c583e2d1fe2ae97629bda1ad1e",
+              "message_id": "1497453630448730255",
+              "timestamp": "2026-04-25T04:26:06Z",
+              "version": 1
+            }
+          ]
+        },
+        "5": {
+          "md5": "6a63ad57ae260dd2fbbddbface6226c8",
+          "message_id": "1497453695149932658",
+          "pdf_path": "AN1/TD/TD4/corrections/correction_TD4_ex5_AN1.pdf",
+          "published_at": "2026-04-25T04:26:22Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "6a63ad57ae260dd2fbbddbface6226c8",
+              "message_id": "1497453695149932658",
+              "timestamp": "2026-04-25T04:26:22Z",
+              "version": 1
+            }
+          ]
+        },
+        "6": {
+          "md5": "61770e534823407c2e92a710118fd983",
+          "message_id": "1497453760753045645",
+          "pdf_path": "AN1/TD/TD4/corrections/correction_TD4_ex6_AN1.pdf",
+          "published_at": "2026-04-25T04:26:37Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "61770e534823407c2e92a710118fd983",
+              "message_id": "1497453760753045645",
+              "timestamp": "2026-04-25T04:26:37Z",
+              "version": 1
+            }
+          ]
+        },
+        "7": {
+          "md5": "3f192375d502497f8dae4dc65aa4727f",
+          "message_id": "1497453825752170537",
+          "pdf_path": "AN1/TD/TD4/corrections/correction_TD4_ex7_AN1.pdf",
+          "published_at": "2026-04-25T04:26:53Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "3f192375d502497f8dae4dc65aa4727f",
+              "message_id": "1497453825752170537",
+              "timestamp": "2026-04-25T04:26:53Z",
+              "version": 1
+            }
+          ]
+        },
+        "8": {
+          "md5": "a5303c8874b55e916cd456e8a5f4cdc0",
+          "message_id": "1497453827849326695",
+          "pdf_path": "AN1/TD/TD4/corrections/correction_TD4_ex8_AN1.pdf",
+          "published_at": "2026-04-25T04:26:54Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "a5303c8874b55e916cd456e8a5f4cdc0",
+              "message_id": "1497453827849326695",
+              "timestamp": "2026-04-25T04:26:54Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-25T04:25:19Z",
+      "enonce": {
+        "md5": "9fffc5e11c24602be87fafe452d21ff7",
+        "message_id": "1497453432594763947",
+        "pdf_path": "AN1/TD/TD4/enonce_TD4_AN1.pdf",
+        "published_at": "2026-04-25T04:25:19Z",
+        "status": "present"
+      },
+      "forum_id": "1497322104176119849",
+      "last_updated": "2026-04-25T04:26:54Z",
+      "matiere": "AN1",
+      "num": "4",
+      "state": "corrections_present",
+      "tags_applied": [
+        "TD",
+        "Corrections présentes"
+      ],
+      "thread_id": "1497453432594763947",
+      "titre_td": "Feuille de TD n°4 — Étude globale de fonctions",
+      "type": "TD"
+    },
+    "AN1__TD__5": {
+      "annee": null,
+      "corrections": {
+        "1": {
+          "md5": "1012f53dde74279b0a3b611734eae24e",
+          "message_id": "1498560921000345731",
+          "pdf_path": "AN1/TD/TD5/corrections/correction_TD5_ex1_AN1.pdf",
+          "published_at": "2026-04-28T05:46:05Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "1012f53dde74279b0a3b611734eae24e",
+              "message_id": "1498560921000345731",
+              "timestamp": "2026-04-28T05:46:05Z",
+              "version": 1
+            }
+          ]
+        },
+        "10": {
+          "md5": "6612a845defc6ae3b90b13c14b6a0c48",
+          "message_id": "1498564427660656760",
+          "pdf_path": "AN1/TD/TD5/corrections/correction_TD5_ex10_AN1.pdf",
+          "published_at": "2026-04-28T06:00:01Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "6612a845defc6ae3b90b13c14b6a0c48",
+              "message_id": "1498564427660656760",
+              "timestamp": "2026-04-28T06:00:01Z",
+              "version": 1
+            }
+          ]
+        },
+        "11": {
+          "md5": "ff8dbe698b071eb985bde8dd0d7d491c",
+          "message_id": "1498564432928702597",
+          "pdf_path": "AN1/TD/TD5/corrections/correction_TD5_ex11_AN1.pdf",
+          "published_at": "2026-04-28T06:00:03Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "ff8dbe698b071eb985bde8dd0d7d491c",
+              "message_id": "1498564432928702597",
+              "timestamp": "2026-04-28T06:00:03Z",
+              "version": 1
+            }
+          ]
+        },
+        "2": {
+          "md5": "1c85a74d03fb6891e98e8da588ce5673",
+          "message_id": "1498560924976414851",
+          "pdf_path": "AN1/TD/TD5/corrections/correction_TD5_ex2_AN1.pdf",
+          "published_at": "2026-04-28T05:46:06Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "1c85a74d03fb6891e98e8da588ce5673",
+              "message_id": "1498560924976414851",
+              "timestamp": "2026-04-28T05:46:06Z",
+              "version": 1
+            }
+          ]
+        },
+        "3": {
+          "md5": "ba076b68a79b3e955c905d7efa633ef7",
+          "message_id": "1498560928772526282",
+          "pdf_path": "AN1/TD/TD5/corrections/correction_TD5_ex3_AN1.pdf",
+          "published_at": "2026-04-28T05:46:07Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "ba076b68a79b3e955c905d7efa633ef7",
+              "message_id": "1498560928772526282",
+              "timestamp": "2026-04-28T05:46:07Z",
+              "version": 1
+            }
+          ]
+        },
+        "4": {
+          "md5": "b207d00dba3c86d335db62c599fc97fe",
+          "message_id": "1498560933679857745",
+          "pdf_path": "AN1/TD/TD5/corrections/correction_TD5_ex4_AN1.pdf",
+          "published_at": "2026-04-28T05:46:08Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "b207d00dba3c86d335db62c599fc97fe",
+              "message_id": "1498560933679857745",
+              "timestamp": "2026-04-28T05:46:08Z",
+              "version": 1
+            }
+          ]
+        },
+        "5": {
+          "md5": "f717579a87e98ba32ffd4cfbd282b008",
+          "message_id": "1500567980776624190",
+          "pdf_path": "AN1/TD/TD5/corrections/correction_TD5_ex5_AN1.pdf",
+          "published_at": "2026-05-03T18:41:25Z",
+          "version": 2,
+          "versions": [
+            {
+              "md5": "cdcc4cbd381387c3985a56f66295b923",
+              "message_id": "1498560936045318264",
+              "timestamp": "2026-04-28T05:46:09Z",
+              "version": 1
+            },
+            {
+              "md5": "f717579a87e98ba32ffd4cfbd282b008",
+              "message_id": "1500567980776624190",
+              "timestamp": "2026-05-03T18:41:25Z",
+              "version": 2
+            }
+          ]
+        },
+        "6": {
+          "md5": "4f755b65180743c6d2a30c4bad3f39f5",
+          "message_id": "1500567986472358031",
+          "pdf_path": "AN1/TD/TD5/corrections/correction_TD5_ex6_AN1.pdf",
+          "published_at": "2026-05-03T18:41:27Z",
+          "version": 2,
+          "versions": [
+            {
+              "md5": "f997e420ed16a9c3c19b98dcfffcdad6",
+              "message_id": "1498560939274928229",
+              "timestamp": "2026-04-28T05:46:10Z",
+              "version": 1
+            },
+            {
+              "md5": "4f755b65180743c6d2a30c4bad3f39f5",
+              "message_id": "1500567986472358031",
+              "timestamp": "2026-05-03T18:41:27Z",
+              "version": 2
+            }
+          ]
+        },
+        "7": {
+          "md5": "58c3f94fdfbeff4b46c898e0d2f6e3cc",
+          "message_id": "1500848858362548286",
+          "pdf_path": "AN1/TD/TD5/corrections/correction_TD5_ex7_AN1.pdf",
+          "published_at": "2026-05-04T13:17:33Z",
+          "version": 2,
+          "versions": [
+            {
+              "md5": "7298d51bc98cfcc4751763140720f409",
+              "message_id": "1498560942102024323",
+              "timestamp": "2026-04-28T05:46:10Z",
+              "version": 1
+            },
+            {
+              "md5": "58c3f94fdfbeff4b46c898e0d2f6e3cc",
+              "message_id": "1500848858362548286",
+              "timestamp": "2026-05-04T13:17:33Z",
+              "version": 2
+            }
+          ]
+        },
+        "8": {
+          "md5": "b0dbc317f09cbc32f72c3d3231ab5c9b",
+          "message_id": "1500848863249043467",
+          "pdf_path": "AN1/TD/TD5/corrections/correction_TD5_ex8_AN1.pdf",
+          "published_at": "2026-05-04T13:17:34Z",
+          "version": 2,
+          "versions": [
+            {
+              "md5": "3067386ed8889ecaef793bd75e547707",
+              "message_id": "1498560945230970920",
+              "timestamp": "2026-04-28T05:46:11Z",
+              "version": 1
+            },
+            {
+              "md5": "b0dbc317f09cbc32f72c3d3231ab5c9b",
+              "message_id": "1500848863249043467",
+              "timestamp": "2026-05-04T13:17:34Z",
+              "version": 2
+            }
+          ]
+        },
+        "9": {
+          "md5": "0df5e0c70df1d37e3ce57dfaca55fd46",
+          "message_id": "1500848868609491175",
+          "pdf_path": "AN1/TD/TD5/corrections/correction_TD5_ex9_AN1.pdf",
+          "published_at": "2026-05-04T13:17:35Z",
+          "version": 2,
+          "versions": [
+            {
+              "md5": "ae0ecbe2b4e7e299e7cc92b57cfe28b0",
+              "message_id": "1498560947814535209",
+              "timestamp": "2026-04-28T05:46:12Z",
+              "version": 1
+            },
+            {
+              "md5": "0df5e0c70df1d37e3ce57dfaca55fd46",
+              "message_id": "1500848868609491175",
+              "timestamp": "2026-05-04T13:17:35Z",
+              "version": 2
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-28T05:46:05Z",
+      "enonce": {
+        "md5": "12dcf139d7fac304e747684c05422de6",
+        "message_id": "1498560917636644895",
+        "pdf_path": "AN1/TD/TD5/enonce_TD5_AN1.pdf",
+        "published_at": "2026-04-28T05:46:05Z",
+        "status": "present"
+      },
+      "forum_id": "1497322104176119849",
+      "last_updated": "2026-05-04T13:17:35Z",
+      "matiere": "AN1",
+      "num": "5",
+      "state": "corrections_present",
+      "tags_applied": [
+        "TD",
+        "Corrections présentes"
+      ],
+      "thread_id": "1498560917636644895",
+      "titre_td": "Calcul d'aire géométrique sous la courbe",
+      "type": "TD"
+    },
+    "EN1__CC__1__2023-24": {
+      "annee": "2023-24",
+      "corrections": {
+        "0": {
+          "md5": "89bce3d014b5b1a2bab62641acca98cb",
+          "message_id": "1498436239580332073",
+          "pdf_path": "EN1/CC/corrections/correction_CC1_2023-24_EN1.pdf",
+          "published_at": "2026-04-27T21:30:39Z",
+          "version": 2,
+          "versions": [
+            {
+              "md5": "698d56dd9dc8b8faa5926978e019ff4f",
+              "message_id": "1497638078930485349",
+              "timestamp": "2026-04-25T16:39:02Z",
+              "version": 1
+            },
+            {
+              "md5": "89bce3d014b5b1a2bab62641acca98cb",
+              "message_id": "1498436239580332073",
+              "timestamp": "2026-04-27T21:30:39Z",
+              "version": 2
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-25T16:39:01Z",
+      "enonce": {
+        "md5": "d14de6749bc31691d049520d5b5e47c0",
+        "message_id": "1497638075998666822",
+        "pdf_path": "EN1/CC/enonce_CC1_2023-24_EN1.pdf",
+        "published_at": "2026-04-25T16:39:01Z",
+        "status": "present"
+      },
+      "forum_id": "1497322105996316784",
+      "last_updated": "2026-04-27T21:30:39Z",
+      "matiere": "EN1",
+      "num": "1",
+      "state": "corrections_present",
+      "tags_applied": [
+        "CC",
+        "Corrections présentes"
+      ],
+      "thread_id": "1497638075998666822",
+      "titre_td": "Contrôle n°1 — 19 février 2024",
+      "type": "CC"
+    },
+    "EN1__CC__1__2024-25": {
+      "annee": "2024-25",
+      "corrections": {
+        "0": {
+          "md5": "37d6df38747cefd1174288a6b6e40c8d",
+          "message_id": "1498436256516931724",
+          "pdf_path": "EN1/CC/corrections/correction_CC1_2024-25_EN1.pdf",
+          "published_at": "2026-04-27T21:30:43Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "37d6df38747cefd1174288a6b6e40c8d",
+              "message_id": "1498436256516931724",
+              "timestamp": "2026-04-27T21:30:43Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-27T21:30:41Z",
+      "enonce": {
+        "md5": "3841b1a5c1dd68d536be6c86620cc4fd",
+        "message_id": "1498436249382420511",
+        "pdf_path": "EN1/CC/enonce_CC1_2024-25_EN1.pdf",
+        "published_at": "2026-04-27T21:30:41Z",
+        "status": "present"
+      },
+      "forum_id": "1497322105996316784",
+      "last_updated": "2026-04-27T21:30:43Z",
+      "matiere": "EN1",
+      "num": "1",
+      "state": "corrections_present",
+      "tags_applied": [
+        "CC",
+        "Corrections présentes"
+      ],
+      "thread_id": "1498436249382420511",
+      "titre_td": "Contrôle n°1 — 19 février 2024",
+      "type": "CC"
+    },
+    "EN1__CC__1__2025-26": {
+      "annee": "2025-26",
+      "corrections": {
+        "0": {
+          "md5": "00ccb20cfd6bb06543a2e41b95f989e2",
+          "message_id": "1498436266738585691",
+          "pdf_path": "EN1/CC/corrections/correction_CC1_2025-26_EN1.pdf",
+          "published_at": "2026-04-27T21:30:45Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "00ccb20cfd6bb06543a2e41b95f989e2",
+              "message_id": "1498436266738585691",
+              "timestamp": "2026-04-27T21:30:45Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-27T21:30:44Z",
+      "enonce": {
+        "md5": "61f1da8eefe039040523794082800e3f",
+        "message_id": "1498436262279909465",
+        "pdf_path": "EN1/CC/enonce_CC1_2025-26_EN1.pdf",
+        "published_at": "2026-04-27T21:30:44Z",
+        "status": "present"
+      },
+      "forum_id": "1497322105996316784",
+      "last_updated": "2026-04-27T21:30:45Z",
+      "matiere": "EN1",
+      "num": "1",
+      "state": "corrections_present",
+      "tags_applied": [
+        "CC",
+        "Corrections présentes"
+      ],
+      "thread_id": "1498436262279909465",
+      "titre_td": "Contrôle n°1 — 19 février 2024",
+      "type": "CC"
+    },
+    "EN1__CC__2__2023-24": {
+      "annee": "2023-24",
+      "corrections": {
+        "0": {
+          "md5": "533e897f91d362bdd5688ae36d4cd30b",
+          "message_id": "1498436281783287828",
+          "pdf_path": "EN1/CC/corrections/correction_CC2_2023-24_EN1.pdf",
+          "published_at": "2026-04-27T21:30:49Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "533e897f91d362bdd5688ae36d4cd30b",
+              "message_id": "1498436281783287828",
+              "timestamp": "2026-04-27T21:30:49Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-27T21:30:48Z",
+      "enonce": {
+        "md5": "8ae11e3ac455c59cba948c16b769c73b",
+        "message_id": "1498436277215690907",
+        "pdf_path": "EN1/CC/enonce_CC2_2023-24_EN1.pdf",
+        "published_at": "2026-04-27T21:30:48Z",
+        "status": "present"
+      },
+      "forum_id": "1497322105996316784",
+      "last_updated": "2026-04-27T21:30:49Z",
+      "matiere": "EN1",
+      "num": "2",
+      "state": "corrections_present",
+      "tags_applied": [
+        "CC",
+        "Corrections présentes"
+      ],
+      "thread_id": "1498436277215690907",
+      "titre_td": "Contrôle n°2 — 27 mai 2024",
+      "type": "CC"
+    },
+    "EN1__CC__2__2024-25": {
+      "annee": "2024-25",
+      "corrections": {
+        "0": {
+          "md5": "5a0841a714980b6127cf6f42fa050606",
+          "message_id": "1498454926924189786",
+          "pdf_path": "EN1/CC/corrections/correction_CC2_2024-25_EN1.pdf",
+          "published_at": "2026-04-27T22:44:54Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "5a0841a714980b6127cf6f42fa050606",
+              "message_id": "1498454926924189786",
+              "timestamp": "2026-04-27T22:44:54Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-27T22:44:53Z",
+      "enonce": {
+        "md5": "8e848c532d5f76f693145a54870946a9",
+        "message_id": "1498454921807134831",
+        "pdf_path": "EN1/CC/enonce_CC2_2024-25_EN1.pdf",
+        "published_at": "2026-04-27T22:44:53Z",
+        "status": "present"
+      },
+      "forum_id": "1497322105996316784",
+      "last_updated": "2026-04-27T22:44:54Z",
+      "matiere": "EN1",
+      "num": "2",
+      "state": "corrections_present",
+      "tags_applied": [
+        "CC",
+        "Corrections présentes"
+      ],
+      "thread_id": "1498454921807134831",
+      "titre_td": "Contrôle n°2 — 27 mai 2024",
+      "type": "CC"
+    },
+    "EN1__CC__2__2025-26": {
+      "annee": "2025-26",
+      "corrections": {
+        "0": {
+          "md5": "73215392e047f83f689ba9365408aeb6",
+          "message_id": "1502668233688350820",
+          "pdf_path": "EN1/CC/corrections/correction_CC2_2025-26_EN1.pdf",
+          "published_at": "2026-05-09T13:47:05Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "73215392e047f83f689ba9365408aeb6",
+              "message_id": "1502668233688350820",
+              "timestamp": "2026-05-09T13:47:05Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-05-09T13:47:04Z",
+      "enonce": {
+        "md5": "2bf3d9f2c2e4943af273fb8b096b8d8e",
+        "message_id": "1502668230123327610",
+        "pdf_path": "EN1/CC/enonce_CC2_2025-26_EN1.pdf",
+        "published_at": "2026-05-09T13:47:04Z",
+        "status": "present"
+      },
+      "forum_id": "1497322105996316784",
+      "last_updated": "2026-05-09T13:47:05Z",
+      "matiere": "EN1",
+      "num": "2",
+      "state": "corrections_present",
+      "tags_applied": [
+        "CC",
+        "Corrections présentes"
+      ],
+      "thread_id": "1502668230123327610",
+      "titre_td": "Contrôle n°2 — 27 mai 2024",
+      "type": "CC"
+    },
+    "EN1__TD__1": {
+      "annee": null,
+      "corrections": {
+        "5": {
+          "md5": "a8e00bb13127e170f152f2dc2ef466c1",
+          "message_id": "1498436291749089290",
+          "pdf_path": "EN1/TD/TD1/corrections/correction_TD1_ex5_EN1.pdf",
+          "published_at": "2026-04-27T21:30:51Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "a8e00bb13127e170f152f2dc2ef466c1",
+              "message_id": "1498436291749089290",
+              "timestamp": "2026-04-27T21:30:51Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-27T21:30:51Z",
+      "enonce": {
+        "md5": "ca8dec5043e3c9afaba82b01fc1fdba2",
+        "message_id": "1498436288561283152",
+        "pdf_path": "EN1/TD/TD1/enonce_TD1_EN1.pdf",
+        "published_at": "2026-04-27T21:30:51Z",
+        "status": "present"
+      },
+      "forum_id": "1497322105996316784",
+      "last_updated": "2026-04-27T21:30:51Z",
+      "matiere": "EN1",
+      "num": "1",
+      "state": "corrections_present",
+      "tags_applied": [
+        "TD",
+        "Corrections présentes"
+      ],
+      "thread_id": "1498436288561283152",
+      "titre_td": "Tables de vérité des fonctions logiques élémentaires",
+      "type": "TD"
+    },
+    "EN1__TD__2": {
+      "annee": null,
+      "corrections": {
+        "1": {
+          "md5": "415b566f0e149adf424ea894e3709181",
+          "message_id": "1497454958281359462",
+          "pdf_path": "EN1/TD/TD2/corrections/correction_TD2_ex1_EN1.pdf",
+          "published_at": "2026-04-25T04:31:23Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "415b566f0e149adf424ea894e3709181",
+              "message_id": "1497454958281359462",
+              "timestamp": "2026-04-25T04:31:23Z",
+              "version": 1
+            }
+          ]
+        },
+        "2": {
+          "md5": "e53d7ef1f9d29f904e83437cde8c18e7",
+          "message_id": "1497455025146822787",
+          "pdf_path": "EN1/TD/TD2/corrections/correction_TD2_ex2_EN1.pdf",
+          "published_at": "2026-04-25T04:31:39Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "e53d7ef1f9d29f904e83437cde8c18e7",
+              "message_id": "1497455025146822787",
+              "timestamp": "2026-04-25T04:31:39Z",
+              "version": 1
+            }
+          ]
+        },
+        "3": {
+          "md5": "effbf1cfb3b391cde48e0c0038870ff2",
+          "message_id": "1497455089860743220",
+          "pdf_path": "EN1/TD/TD2/corrections/correction_TD2_ex3_EN1.pdf",
+          "published_at": "2026-04-25T04:31:54Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "effbf1cfb3b391cde48e0c0038870ff2",
+              "message_id": "1497455089860743220",
+              "timestamp": "2026-04-25T04:31:54Z",
+              "version": 1
+            }
+          ]
+        },
+        "4": {
+          "md5": "d640a516161f18fbccf6f7dda7acc474",
+          "message_id": "1497455155170513007",
+          "pdf_path": "EN1/TD/TD2/corrections/correction_TD2_ex4_EN1.pdf",
+          "published_at": "2026-04-25T04:32:10Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "d640a516161f18fbccf6f7dda7acc474",
+              "message_id": "1497455155170513007",
+              "timestamp": "2026-04-25T04:32:10Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-25T04:31:22Z",
+      "enonce": {
+        "md5": "dee902dddc6bdf34350457414ee14c17",
+        "message_id": "1497454954305290320",
+        "pdf_path": "EN1/TD/TD2/enonce_TD2_EN1.pdf",
+        "published_at": "2026-04-25T04:31:22Z",
+        "status": "present"
+      },
+      "forum_id": "1497322105996316784",
+      "last_updated": "2026-04-25T04:32:10Z",
+      "matiere": "EN1",
+      "num": "2",
+      "state": "corrections_present",
+      "tags_applied": [
+        "TD",
+        "Corrections présentes"
+      ],
+      "thread_id": "1497454954305290320",
+      "titre_td": "Simplification par méthode algébrique",
+      "type": "TD"
+    },
+    "EN1__TD__3": {
+      "annee": null,
+      "corrections": {
+        "1": {
+          "md5": "944304fe747711f80a7587e591c0c685",
+          "message_id": "1497455224863064135",
+          "pdf_path": "EN1/TD/TD3/corrections/correction_TD3_ex1_EN1.pdf",
+          "published_at": "2026-04-25T04:32:27Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "944304fe747711f80a7587e591c0c685",
+              "message_id": "1497455224863064135",
+              "timestamp": "2026-04-25T04:32:27Z",
+              "version": 1
+            }
+          ]
+        },
+        "2": {
+          "md5": "c231051db964fc33f6efa742488d6fb2",
+          "message_id": "1497455290432356456",
+          "pdf_path": "EN1/TD/TD3/corrections/correction_TD3_ex2_EN1.pdf",
+          "published_at": "2026-04-25T04:32:42Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "c231051db964fc33f6efa742488d6fb2",
+              "message_id": "1497455290432356456",
+              "timestamp": "2026-04-25T04:32:42Z",
+              "version": 1
+            }
+          ]
+        },
+        "3": {
+          "md5": "3fd75e068e431cabeb4012610aafad95",
+          "message_id": "1497455355179958325",
+          "pdf_path": "EN1/TD/TD3/corrections/correction_TD3_ex3_EN1.pdf",
+          "published_at": "2026-04-25T04:32:58Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "3fd75e068e431cabeb4012610aafad95",
+              "message_id": "1497455355179958325",
+              "timestamp": "2026-04-25T04:32:58Z",
+              "version": 1
+            }
+          ]
+        },
+        "4": {
+          "md5": "56c5b0657341a2a4f70db60019c51253",
+          "message_id": "1497455419856261250",
+          "pdf_path": "EN1/TD/TD3/corrections/correction_TD3_ex4_EN1.pdf",
+          "published_at": "2026-04-25T04:33:13Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "56c5b0657341a2a4f70db60019c51253",
+              "message_id": "1497455419856261250",
+              "timestamp": "2026-04-25T04:33:13Z",
+              "version": 1
+            }
+          ]
+        },
+        "5": {
+          "md5": "e51c1dc5323ec85466c74cca075683f1",
+          "message_id": "1497455484876357742",
+          "pdf_path": "EN1/TD/TD3/corrections/correction_TD3_ex5_EN1.pdf",
+          "published_at": "2026-04-25T04:33:29Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "e51c1dc5323ec85466c74cca075683f1",
+              "message_id": "1497455484876357742",
+              "timestamp": "2026-04-25T04:33:29Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-25T04:32:26Z",
+      "enonce": {
+        "md5": "2e12f329b7328495666a6c77a8b407c5",
+        "message_id": "1497455222119727236",
+        "pdf_path": "EN1/TD/TD3/enonce_TD3_EN1.pdf",
+        "published_at": "2026-04-25T04:32:26Z",
+        "status": "present"
+      },
+      "forum_id": "1497322105996316784",
+      "last_updated": "2026-04-25T04:33:29Z",
+      "matiere": "EN1",
+      "num": "3",
+      "state": "corrections_present",
+      "tags_applied": [
+        "TD",
+        "Corrections présentes"
+      ],
+      "thread_id": "1497455222119727236",
+      "titre_td": "Expression logique à partir d'un schéma logique",
+      "type": "TD"
+    },
+    "EN1__TD__4": {
+      "annee": null,
+      "corrections": {
+        "1": {
+          "md5": "31c4a370012b101b3936dbab19db3ede",
+          "message_id": "1498436311646863450",
+          "pdf_path": "EN1/TD/TD4/corrections/correction_TD4_ex1_EN1.pdf",
+          "published_at": "2026-04-27T21:30:56Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "31c4a370012b101b3936dbab19db3ede",
+              "message_id": "1498436311646863450",
+              "timestamp": "2026-04-27T21:30:56Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-27T21:30:55Z",
+      "enonce": {
+        "md5": "4aee4aa2726c845a6bf9c89825fee368",
+        "message_id": "1498436299462541486",
+        "pdf_path": "EN1/TD/TD4/enonce_TD4_EN1.pdf",
+        "published_at": "2026-04-27T21:30:55Z",
+        "status": "present"
+      },
+      "forum_id": "1497322105996316784",
+      "last_updated": "2026-04-27T21:30:56Z",
+      "matiere": "EN1",
+      "num": "4",
+      "state": "corrections_present",
+      "tags_applied": [
+        "TD",
+        "Corrections présentes"
+      ],
+      "thread_id": "1498436299462541486",
+      "titre_td": "Additionneur 1 bit (Adder1)",
+      "type": "TD"
+    },
+    "EN1__TD__5": {
+      "annee": null,
+      "corrections": {
+        "1": {
+          "md5": "1deb341eb6c20646e6f5820d87125874",
+          "message_id": "1497455821200818319",
+          "pdf_path": "EN1/TD/TD5/corrections/correction_TD5_ex1_EN1.pdf",
+          "published_at": "2026-04-25T04:34:49Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "1deb341eb6c20646e6f5820d87125874",
+              "message_id": "1497455821200818319",
+              "timestamp": "2026-04-25T04:34:49Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-25T04:34:48Z",
+      "enonce": {
+        "md5": "81a4825bad06efb270ec06e965b40e0e",
+        "message_id": "1497455818004631613",
+        "pdf_path": "EN1/TD/TD5/enonce_TD5_EN1.pdf",
+        "published_at": "2026-04-25T04:34:48Z",
+        "status": "present"
+      },
+      "forum_id": "1497322105996316784",
+      "last_updated": "2026-04-25T04:34:49Z",
+      "matiere": "EN1",
+      "num": "5",
+      "state": "corrections_present",
+      "tags_applied": [
+        "TD",
+        "Corrections présentes"
+      ],
+      "thread_id": "1497455818004631613",
+      "titre_td": "Décodeur 7 segments (Q1-Q5)",
+      "type": "TD"
+    },
+    "EN1__TD__6": {
+      "annee": null,
+      "corrections": {
+        "1": {
+          "md5": "3e3f68ac7cec749ae1395531cc7ca89d",
+          "message_id": "1498436322782609439",
+          "pdf_path": "EN1/TD/TD6/corrections/correction_TD6_ex1_EN1.pdf",
+          "published_at": "2026-04-27T21:30:59Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "3e3f68ac7cec749ae1395531cc7ca89d",
+              "message_id": "1498436322782609439",
+              "timestamp": "2026-04-27T21:30:59Z",
+              "version": 1
+            }
+          ]
+        },
+        "2": {
+          "md5": "1ee8b80ce2825328f3177562da5085c7",
+          "message_id": "1498436327442485340",
+          "pdf_path": "EN1/TD/TD6/corrections/correction_TD6_ex2_EN1.pdf",
+          "published_at": "2026-04-27T21:31:00Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "1ee8b80ce2825328f3177562da5085c7",
+              "message_id": "1498436327442485340",
+              "timestamp": "2026-04-27T21:31:00Z",
+              "version": 1
+            }
+          ]
+        },
+        "3": {
+          "md5": "9c6e16550804989470e0830e3eca3057",
+          "message_id": "1498436332492685343",
+          "pdf_path": "EN1/TD/TD6/corrections/correction_TD6_ex3_EN1.pdf",
+          "published_at": "2026-04-27T21:31:01Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "9c6e16550804989470e0830e3eca3057",
+              "message_id": "1498436332492685343",
+              "timestamp": "2026-04-27T21:31:01Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-27T21:30:58Z",
+      "enonce": {
+        "md5": "3df0298056e48b9209f27bb16b7b6ced",
+        "message_id": "1498436319091757090",
+        "pdf_path": "EN1/TD/TD6/enonce_TD6_EN1.pdf",
+        "published_at": "2026-04-27T21:30:58Z",
+        "status": "present"
+      },
+      "forum_id": "1497322105996316784",
+      "last_updated": "2026-04-27T21:31:01Z",
+      "matiere": "EN1",
+      "num": "6",
+      "state": "corrections_present",
+      "tags_applied": [
+        "TD",
+        "Corrections présentes"
+      ],
+      "thread_id": "1498436319091757090",
+      "titre_td": "Codeur BN vers BCD (4 bits vers 8 bits)",
+      "type": "TD"
+    },
+    "EN1__TD__7": {
+      "annee": null,
+      "corrections": {
+        "1": {
+          "md5": "90b1d8b76e44dabcdb9f1202a9dbd739",
+          "message_id": "1497456090001047583",
+          "pdf_path": "EN1/TD/TD7/corrections/correction_TD7_ex1_EN1.pdf",
+          "published_at": "2026-04-25T04:35:53Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "90b1d8b76e44dabcdb9f1202a9dbd739",
+              "message_id": "1497456090001047583",
+              "timestamp": "2026-04-25T04:35:53Z",
+              "version": 1
+            }
+          ]
+        },
+        "2": {
+          "md5": "19e809377c8eec0e9630447b40d02f97",
+          "message_id": "1497456155981643926",
+          "pdf_path": "EN1/TD/TD7/corrections/correction_TD7_ex2_EN1.pdf",
+          "published_at": "2026-04-25T04:36:08Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "19e809377c8eec0e9630447b40d02f97",
+              "message_id": "1497456155981643926",
+              "timestamp": "2026-04-25T04:36:08Z",
+              "version": 1
+            }
+          ]
+        },
+        "3": {
+          "md5": "c98e167dba9a3c8f2dc399727f886258",
+          "message_id": "1497456220657811568",
+          "pdf_path": "EN1/TD/TD7/corrections/correction_TD7_ex3_EN1.pdf",
+          "published_at": "2026-04-25T04:36:24Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "c98e167dba9a3c8f2dc399727f886258",
+              "message_id": "1497456220657811568",
+              "timestamp": "2026-04-25T04:36:24Z",
+              "version": 1
+            }
+          ]
+        },
+        "4": {
+          "md5": "f3ab1a8436fb94e7a5da3e4a618e8b0c",
+          "message_id": "1497456294121046017",
+          "pdf_path": "EN1/TD/TD7/corrections/correction_TD7_ex4_EN1.pdf",
+          "published_at": "2026-04-25T04:36:42Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "f3ab1a8436fb94e7a5da3e4a618e8b0c",
+              "message_id": "1497456294121046017",
+              "timestamp": "2026-04-25T04:36:42Z",
+              "version": 1
+            }
+          ]
+        },
+        "5": {
+          "md5": "212ebcb6e11c3124388a870da5026e93",
+          "message_id": "1497456359330025472",
+          "pdf_path": "EN1/TD/TD7/corrections/correction_TD7_ex5_EN1.pdf",
+          "published_at": "2026-04-25T04:36:57Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "212ebcb6e11c3124388a870da5026e93",
+              "message_id": "1497456359330025472",
+              "timestamp": "2026-04-25T04:36:57Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-25T04:35:52Z",
+      "enonce": {
+        "md5": "18423694af95d16d655ca8a050d0431b",
+        "message_id": "1497456087828271114",
+        "pdf_path": "EN1/TD/TD7/enonce_TD7_EN1.pdf",
+        "published_at": "2026-04-25T04:35:52Z",
+        "status": "present"
+      },
+      "forum_id": "1497322105996316784",
+      "last_updated": "2026-04-25T04:36:57Z",
+      "matiere": "EN1",
+      "num": "7",
+      "state": "corrections_present",
+      "tags_applied": [
+        "TD",
+        "Corrections présentes"
+      ],
+      "thread_id": "1497456087828271114",
+      "titre_td": "Multiplexeurs et démultiplexeurs",
+      "type": "TD"
+    },
+    "EN1__TD__8": {
+      "annee": null,
+      "corrections": {
+        "1": {
+          "md5": "e3146b55dbe6d8534035141d7e440f6c",
+          "message_id": "1497456427944378408",
+          "pdf_path": "EN1/TD/TD8/corrections/correction_TD8_ex1_EN1.pdf",
+          "published_at": "2026-04-25T04:37:13Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "e3146b55dbe6d8534035141d7e440f6c",
+              "message_id": "1497456427944378408",
+              "timestamp": "2026-04-25T04:37:13Z",
+              "version": 1
+            }
+          ]
+        },
+        "2": {
+          "md5": "e3c8325d8458cfc5bb86c977b59a2a2f",
+          "message_id": "1497456493413404723",
+          "pdf_path": "EN1/TD/TD8/corrections/correction_TD8_ex2_EN1.pdf",
+          "published_at": "2026-04-25T04:37:29Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "e3c8325d8458cfc5bb86c977b59a2a2f",
+              "message_id": "1497456493413404723",
+              "timestamp": "2026-04-25T04:37:29Z",
+              "version": 1
+            }
+          ]
+        },
+        "3": {
+          "md5": "c02ea7aff92a8c04025b075963a42025",
+          "message_id": "1497456558005551175",
+          "pdf_path": "EN1/TD/TD8/corrections/correction_TD8_ex3_EN1.pdf",
+          "published_at": "2026-04-25T04:37:44Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "c02ea7aff92a8c04025b075963a42025",
+              "message_id": "1497456558005551175",
+              "timestamp": "2026-04-25T04:37:44Z",
+              "version": 1
+            }
+          ]
+        },
+        "4": {
+          "md5": "ae3b097baf6570f6e018e48fe4508f91",
+          "message_id": "1497456624259039312",
+          "pdf_path": "EN1/TD/TD8/corrections/correction_TD8_ex4_EN1.pdf",
+          "published_at": "2026-04-25T04:38:00Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "ae3b097baf6570f6e018e48fe4508f91",
+              "message_id": "1497456624259039312",
+              "timestamp": "2026-04-25T04:38:00Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-25T04:37:13Z",
+      "enonce": {
+        "md5": "e5dad9f57b244d60d04c47919a046706",
+        "message_id": "1497456424647659593",
+        "pdf_path": "EN1/TD/TD8/enonce_TD8_EN1.pdf",
+        "published_at": "2026-04-25T04:37:13Z",
+        "status": "present"
+      },
+      "forum_id": "1497322105996316784",
+      "last_updated": "2026-04-25T04:38:00Z",
+      "matiere": "EN1",
+      "num": "8",
+      "state": "corrections_present",
+      "tags_applied": [
+        "TD",
+        "Corrections présentes"
+      ],
+      "thread_id": "1497456424647659593",
+      "titre_td": "Codeur simple parité",
+      "type": "TD"
+    },
+    "EN1__TP__1": {
+      "annee": null,
+      "corrections": {
+        "0": {
+          "md5": "7e741d140c533e976b7f4f040409ec15",
+          "message_id": "1497456693708193823",
+          "pdf_path": "EN1/TP/TP1/corrections/correction_TP1_EN1.pdf",
+          "published_at": "2026-04-25T04:38:17Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "7e741d140c533e976b7f4f040409ec15",
+              "message_id": "1497456693708193823",
+              "timestamp": "2026-04-25T04:38:17Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-25T04:38:16Z",
+      "enonce": {
+        "md5": "6a3808bcaa3331791f7a4349590747dd",
+        "message_id": "1497456691061723166",
+        "pdf_path": "EN1/TP/TP1/enonce_TP1_EN1.pdf",
+        "published_at": "2026-04-25T04:38:16Z",
+        "status": "present"
+      },
+      "forum_id": "1497322105996316784",
+      "last_updated": "2026-04-25T04:38:17Z",
+      "matiere": "EN1",
+      "num": "1",
+      "state": "corrections_present",
+      "tags_applied": [
+        "TP",
+        "Corrections présentes"
+      ],
+      "thread_id": "1497456691061723166",
+      "titre_td": "Instrumentation et fonctions logiques",
+      "type": "TP"
+    },
+    "EN1__TP__2": {
+      "annee": null,
+      "corrections": {
+        "0": {
+          "md5": "0cbf9fcf25a0c25e9b58fc4b1428ff79",
+          "message_id": "1497456763061014588",
+          "pdf_path": "EN1/TP/TP2/corrections/correction_TP2_EN1.pdf",
+          "published_at": "2026-04-25T04:38:33Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "0cbf9fcf25a0c25e9b58fc4b1428ff79",
+              "message_id": "1497456763061014588",
+              "timestamp": "2026-04-25T04:38:33Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-25T04:38:33Z",
+      "enonce": {
+        "md5": "bc787590b19b10054f57a730cd1df684",
+        "message_id": "1497456760271671326",
+        "pdf_path": "EN1/TP/TP2/enonce_TP2_EN1.pdf",
+        "published_at": "2026-04-25T04:38:33Z",
+        "status": "present"
+      },
+      "forum_id": "1497322105996316784",
+      "last_updated": "2026-04-25T04:38:33Z",
+      "matiere": "EN1",
+      "num": "2",
+      "state": "corrections_present",
+      "tags_applied": [
+        "TP",
+        "Corrections présentes"
+      ],
+      "thread_id": "1497456760271671326",
+      "titre_td": "Additionneur et premiers pas avec Logisim",
+      "type": "TP"
+    },
+    "EN1__TP__3": {
+      "annee": null,
+      "corrections": {
+        "0": {
+          "md5": "8ce488d7dabe25c25c7a0e788a086bf6",
+          "message_id": "1498436350439854110",
+          "pdf_path": "EN1/TP/TP3/corrections/correction_TP3_EN1.pdf",
+          "published_at": "2026-04-27T21:31:06Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "8ce488d7dabe25c25c7a0e788a086bf6",
+              "message_id": "1498436350439854110",
+              "timestamp": "2026-04-27T21:31:06Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-27T21:31:04Z",
+      "enonce": {
+        "md5": "f278c3f74275b028300fb831080d42c0",
+        "message_id": "1498436346770100334",
+        "pdf_path": "EN1/TP/TP3/enonce_TP3_EN1.pdf",
+        "published_at": "2026-04-27T21:31:04Z",
+        "status": "present"
+      },
+      "forum_id": "1497322105996316784",
+      "last_updated": "2026-04-27T21:31:06Z",
+      "matiere": "EN1",
+      "num": "3",
+      "state": "corrections_present",
+      "tags_applied": [
+        "TP",
+        "Corrections présentes"
+      ],
+      "thread_id": "1498436346770100334",
+      "titre_td": "Additionneur 4 bits et soustracteurs",
+      "type": "TP"
+    },
+    "EN1__TP__4": {
+      "annee": null,
+      "corrections": {
+        "0": {
+          "md5": "2f29992e9f1f853114d866dc42526913",
+          "message_id": "1497456908766810152",
+          "pdf_path": "EN1/TP/TP4/corrections/correction_TP4_EN1.pdf",
+          "published_at": "2026-04-25T04:39:08Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "2f29992e9f1f853114d866dc42526913",
+              "message_id": "1497456908766810152",
+              "timestamp": "2026-04-25T04:39:08Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-25T04:39:07Z",
+      "enonce": {
+        "md5": "5bac0d4e7f17440e05e0e92bc3c6d96d",
+        "message_id": "1497456905013039156",
+        "pdf_path": "EN1/TP/TP4/enonce_TP4_EN1.pdf",
+        "published_at": "2026-04-25T04:39:07Z",
+        "status": "present"
+      },
+      "forum_id": "1497322105996316784",
+      "last_updated": "2026-04-25T04:39:08Z",
+      "matiere": "EN1",
+      "num": "4",
+      "state": "corrections_present",
+      "tags_applied": [
+        "TP",
+        "Corrections présentes"
+      ],
+      "thread_id": "1497456905013039156",
+      "titre_td": "Pilotage d'afficheurs 7 segments — Parties 1 et 2",
+      "type": "TP"
+    },
+    "EN1__TP__5": {
+      "annee": null,
+      "corrections": {
+        "0": {
+          "md5": "3fcbacfccd72cad7214f9193b021acc1",
+          "message_id": "1497456980241940501",
+          "pdf_path": "EN1/TP/TP5/corrections/correction_TP5_EN1.pdf",
+          "published_at": "2026-04-25T04:39:25Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "3fcbacfccd72cad7214f9193b021acc1",
+              "message_id": "1497456980241940501",
+              "timestamp": "2026-04-25T04:39:25Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-25T04:39:24Z",
+      "enonce": {
+        "md5": "f9d962cdeab3d7bbbea3f76c931fdcbd",
+        "message_id": "1497456975879995663",
+        "pdf_path": "EN1/TP/TP5/enonce_TP5_EN1.pdf",
+        "published_at": "2026-04-25T04:39:24Z",
+        "status": "present"
+      },
+      "forum_id": "1497322105996316784",
+      "last_updated": "2026-04-25T04:39:25Z",
+      "matiere": "EN1",
+      "num": "5",
+      "state": "corrections_present",
+      "tags_applied": [
+        "TP",
+        "Corrections présentes"
+      ],
+      "thread_id": "1497456975879995663",
+      "titre_td": "Multiplexeurs",
+      "type": "TP"
+    },
+    "EN1__TP__6": {
+      "annee": null,
+      "corrections": {
+        "0": {
+          "md5": "e13ee410c190b61e488e6bd1023ee456",
+          "message_id": "1498436401572872292",
+          "pdf_path": "EN1/TP/TP6/corrections/correction_TP6_EN1.pdf",
+          "published_at": "2026-04-27T21:31:17Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "e13ee410c190b61e488e6bd1023ee456",
+              "message_id": "1498436401572872292",
+              "timestamp": "2026-04-27T21:31:17Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-27T21:31:17Z",
+      "enonce": {
+        "md5": "eab1f1d59d4960381fad1cb71d80f4d5",
+        "message_id": "1498436366315552892",
+        "pdf_path": "EN1/TP/TP6/enonce_TP6_EN1.pdf",
+        "published_at": "2026-04-27T21:31:17Z",
+        "status": "present"
+      },
+      "forum_id": "1497322105996316784",
+      "last_updated": "2026-04-27T21:31:17Z",
+      "matiere": "EN1",
+      "num": "6",
+      "state": "corrections_present",
+      "tags_applied": [
+        "TP",
+        "Corrections présentes"
+      ],
+      "thread_id": "1498436366315552892",
+      "titre_td": "Code de Hamming (7,4)",
+      "type": "TP"
+    },
+    "PRG2__CC__1__2024-25": {
+      "annee": "2024-25",
+      "corrections": {
+        "0": {
+          "md5": "ded62b815a3b12ab86f727a499517d27",
+          "message_id": "1497934680043814934",
+          "pdf_path": "PRG2/CC/corrections/correction_CC1_2024-25_PRG2.pdf",
+          "published_at": "2026-04-26T12:17:37Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "ded62b815a3b12ab86f727a499517d27",
+              "message_id": "1497934680043814934",
+              "timestamp": "2026-04-26T12:17:37Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-25T04:41:42Z",
+      "enonce": {
+        "md5": "a1aada1e04bd6f5fa73011edd506f1ff",
+        "message_id": "1497457553385193582",
+        "pdf_path": "PRG2/CC/enonce_CC1_2024-25_PRG2.pdf",
+        "published_at": "2026-04-25T04:41:42Z",
+        "status": "present"
+      },
+      "forum_id": "1497322107338625246",
+      "last_updated": "2026-04-26T12:17:37Z",
+      "matiere": "PRG2",
+      "num": "1",
+      "state": "corrections_present",
+      "tags_applied": [
+        "CC",
+        "Corrections présentes"
+      ],
+      "thread_id": "1497457553385193582",
+      "titre_td": "Contrôle n°1 — 27 février 2025",
+      "type": "CC"
+    },
+    "PRG2__CC__2__2024-25": {
+      "annee": "2024-25",
+      "corrections": {
+        "0": {
+          "md5": "142e478f54d03af042e3e00c0bf3131d",
+          "message_id": "1498553870291439686",
+          "pdf_path": "PRG2/CC/corrections/correction_CC2_2024-25_PRG2.pdf",
+          "published_at": "2026-04-28T05:18:04Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "142e478f54d03af042e3e00c0bf3131d",
+              "message_id": "1498553870291439686",
+              "timestamp": "2026-04-28T05:18:04Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-28T05:18:04Z",
+      "enonce": {
+        "md5": "32bd856e60025717e977f34faf0f797e",
+        "message_id": "1498553867586109440",
+        "pdf_path": "PRG2/CC/enonce_CC2_2024-25_PRG2.pdf",
+        "published_at": "2026-04-28T05:18:04Z",
+        "status": "present"
+      },
+      "forum_id": "1497322107338625246",
+      "last_updated": "2026-04-28T05:18:04Z",
+      "matiere": "PRG2",
+      "num": "2",
+      "state": "corrections_present",
+      "tags_applied": [
+        "CC",
+        "Corrections présentes"
+      ],
+      "thread_id": "1498553867586109440",
+      "titre_td": "Contrôle n°2 — 24 avril 2025 (60 min, 20 pts)",
+      "type": "CC"
+    },
+    "PRG2__CC__3__2024-25": {
+      "annee": "2024-25",
+      "corrections": {
+        "0": {
+          "md5": "a4e7b38f0d9dad394f7740dceeef9bb1",
+          "message_id": "1504564620575244378",
+          "pdf_path": "PRG2/CC/corrections/correction_CC3_2024-25_PRG2.pdf",
+          "published_at": "2026-05-14T19:22:38Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "a4e7b38f0d9dad394f7740dceeef9bb1",
+              "message_id": "1504564620575244378",
+              "timestamp": "2026-05-14T19:22:38Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-05-14T19:22:38Z",
+      "enonce": {
+        "md5": "99e5ae4ee4773525a5378f2c4f2e2515",
+        "message_id": "1504564617387446444",
+        "pdf_path": "PRG2/CC/enonce_CC3_2024-25_PRG2.pdf",
+        "published_at": "2026-05-14T19:22:38Z",
+        "status": "present"
+      },
+      "forum_id": "1497322107338625246",
+      "last_updated": "2026-05-14T19:22:38Z",
+      "matiere": "PRG2",
+      "num": "3",
+      "state": "corrections_present",
+      "tags_applied": [
+        "CC",
+        "Corrections présentes"
+      ],
+      "thread_id": "1504564617387446444",
+      "titre_td": null,
+      "type": "CC"
+    },
+    "PRG2__TD__1": {
+      "annee": null,
+      "corrections": {
+        "1": {
+          "md5": "84f91e35f65f0d4ee0b0b58bcf158e1d",
+          "message_id": "1497457693135474738",
+          "pdf_path": "PRG2/TD/TD1/corrections/correction_TD1_ex1_PRG2.pdf",
+          "published_at": "2026-04-25T04:42:15Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "84f91e35f65f0d4ee0b0b58bcf158e1d",
+              "message_id": "1497457693135474738",
+              "timestamp": "2026-04-25T04:42:15Z",
+              "version": 1
+            }
+          ]
+        },
+        "2": {
+          "md5": "8476deac787b3cef138fe986422fe49e",
+          "message_id": "1497457758407233587",
+          "pdf_path": "PRG2/TD/TD1/corrections/correction_TD1_ex2_PRG2.pdf",
+          "published_at": "2026-04-25T04:42:31Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "8476deac787b3cef138fe986422fe49e",
+              "message_id": "1497457758407233587",
+              "timestamp": "2026-04-25T04:42:31Z",
+              "version": 1
+            }
+          ]
+        },
+        "3": {
+          "md5": "a6b309496e716781eaf2edbc923f683d",
+          "message_id": "1497457823183929495",
+          "pdf_path": "PRG2/TD/TD1/corrections/correction_TD1_ex3_PRG2.pdf",
+          "published_at": "2026-04-25T04:42:46Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "a6b309496e716781eaf2edbc923f683d",
+              "message_id": "1497457823183929495",
+              "timestamp": "2026-04-25T04:42:46Z",
+              "version": 1
+            }
+          ]
+        },
+        "4": {
+          "md5": "bc9e6e60720937a019d657f24cff662f",
+          "message_id": "1497457887444992081",
+          "pdf_path": "PRG2/TD/TD1/corrections/correction_TD1_ex4_PRG2.pdf",
+          "published_at": "2026-04-25T04:43:02Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "bc9e6e60720937a019d657f24cff662f",
+              "message_id": "1497457887444992081",
+              "timestamp": "2026-04-25T04:43:02Z",
+              "version": 1
+            }
+          ]
+        },
+        "5": {
+          "md5": "d8b7c7428b607e5ac23e7ba84c24adc7",
+          "message_id": "1497457952808763552",
+          "pdf_path": "PRG2/TD/TD1/corrections/correction_TD1_ex5_PRG2.pdf",
+          "published_at": "2026-04-25T04:43:17Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "d8b7c7428b607e5ac23e7ba84c24adc7",
+              "message_id": "1497457952808763552",
+              "timestamp": "2026-04-25T04:43:17Z",
+              "version": 1
+            }
+          ]
+        },
+        "6": {
+          "md5": "17b5bcee69279fb7456e091060710116",
+          "message_id": "1497458017443250347",
+          "pdf_path": "PRG2/TD/TD1/corrections/correction_TD1_ex6_PRG2.pdf",
+          "published_at": "2026-04-25T04:43:32Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "17b5bcee69279fb7456e091060710116",
+              "message_id": "1497458017443250347",
+              "timestamp": "2026-04-25T04:43:32Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-25T04:42:14Z",
+      "enonce": {
+        "md5": "e9df2b412a922a7c3c55b7d349b12160",
+        "message_id": "1497457689603870891",
+        "pdf_path": "PRG2/TD/TD1/enonce_TD1_PRG2.pdf",
+        "published_at": "2026-04-25T04:42:14Z",
+        "status": "present"
+      },
+      "forum_id": "1497322107338625246",
+      "last_updated": "2026-04-25T04:43:32Z",
+      "matiere": "PRG2",
+      "num": "1",
+      "state": "corrections_present",
+      "tags_applied": [
+        "TD",
+        "Corrections présentes"
+      ],
+      "thread_id": "1497457689603870891",
+      "titre_td": "Feuille de TD n°1 — Fonctions, conditionnelles, expressions booléennes",
+      "type": "TD"
+    },
+    "PRG2__TD__2": {
+      "annee": null,
+      "corrections": {
+        "1": {
+          "md5": "b1fb9c84649516bfd3322dfc6125a964",
+          "message_id": "1497458083922972686",
+          "pdf_path": "PRG2/TD/TD2/corrections/correction_TD2_ex1_PRG2.pdf",
+          "published_at": "2026-04-25T04:43:48Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "b1fb9c84649516bfd3322dfc6125a964",
+              "message_id": "1497458083922972686",
+              "timestamp": "2026-04-25T04:43:48Z",
+              "version": 1
+            }
+          ]
+        },
+        "2": {
+          "md5": "de3dcdeb516273334e9fc9785c72742b",
+          "message_id": "1497458149408505947",
+          "pdf_path": "PRG2/TD/TD2/corrections/correction_TD2_ex2_PRG2.pdf",
+          "published_at": "2026-04-25T04:44:04Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "de3dcdeb516273334e9fc9785c72742b",
+              "message_id": "1497458149408505947",
+              "timestamp": "2026-04-25T04:44:04Z",
+              "version": 1
+            }
+          ]
+        },
+        "3": {
+          "md5": "8f0a42f3e07678c7a4158c61f2824325",
+          "message_id": "1497458215057887364",
+          "pdf_path": "PRG2/TD/TD2/corrections/correction_TD2_ex3_PRG2.pdf",
+          "published_at": "2026-04-25T04:44:20Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "8f0a42f3e07678c7a4158c61f2824325",
+              "message_id": "1497458215057887364",
+              "timestamp": "2026-04-25T04:44:20Z",
+              "version": 1
+            }
+          ]
+        },
+        "4": {
+          "md5": "5a98148ea6f86d109ec2a0b0392e894f",
+          "message_id": "1497458279528529931",
+          "pdf_path": "PRG2/TD/TD2/corrections/correction_TD2_ex4_PRG2.pdf",
+          "published_at": "2026-04-25T04:44:35Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "5a98148ea6f86d109ec2a0b0392e894f",
+              "message_id": "1497458279528529931",
+              "timestamp": "2026-04-25T04:44:35Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-25T04:43:48Z",
+      "enonce": {
+        "md5": "ee4e7438269d4e0d862dd0e47636a7c1",
+        "message_id": "1497458082257698866",
+        "pdf_path": "PRG2/TD/TD2/enonce_TD2_PRG2.pdf",
+        "published_at": "2026-04-25T04:43:48Z",
+        "status": "present"
+      },
+      "forum_id": "1497322107338625246",
+      "last_updated": "2026-04-25T04:44:35Z",
+      "matiere": "PRG2",
+      "num": "2",
+      "state": "corrections_present",
+      "tags_applied": [
+        "TD",
+        "Corrections présentes"
+      ],
+      "thread_id": "1497458082257698866",
+      "titre_td": null,
+      "type": "TD"
+    },
+    "PRG2__TD__3": {
+      "annee": null,
+      "corrections": {
+        "1": {
+          "md5": "6b3001601ce89c76dba1aed021a05a7f",
+          "message_id": "1497458346880667688",
+          "pdf_path": "PRG2/TD/TD3/corrections/correction_TD3_ex1_PRG2.pdf",
+          "published_at": "2026-04-25T04:44:51Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "6b3001601ce89c76dba1aed021a05a7f",
+              "message_id": "1497458346880667688",
+              "timestamp": "2026-04-25T04:44:51Z",
+              "version": 1
+            }
+          ]
+        },
+        "2": {
+          "md5": "398f13016ddbb170be9c577962ad8965",
+          "message_id": "1497458412240240683",
+          "pdf_path": "PRG2/TD/TD3/corrections/correction_TD3_ex2_PRG2.pdf",
+          "published_at": "2026-04-25T04:45:06Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "398f13016ddbb170be9c577962ad8965",
+              "message_id": "1497458412240240683",
+              "timestamp": "2026-04-25T04:45:06Z",
+              "version": 1
+            }
+          ]
+        },
+        "3": {
+          "md5": "7ef0669679044dc955b589140dad518c",
+          "message_id": "1497458476538925180",
+          "pdf_path": "PRG2/TD/TD3/corrections/correction_TD3_ex3_PRG2.pdf",
+          "published_at": "2026-04-25T04:45:22Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "7ef0669679044dc955b589140dad518c",
+              "message_id": "1497458476538925180",
+              "timestamp": "2026-04-25T04:45:22Z",
+              "version": 1
+            }
+          ]
+        },
+        "4": {
+          "md5": "5544b8288e20ba3f828fbb7f31c299d5",
+          "message_id": "1497458541689311326",
+          "pdf_path": "PRG2/TD/TD3/corrections/correction_TD3_ex4_PRG2.pdf",
+          "published_at": "2026-04-25T04:45:37Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "5544b8288e20ba3f828fbb7f31c299d5",
+              "message_id": "1497458541689311326",
+              "timestamp": "2026-04-25T04:45:37Z",
+              "version": 1
+            }
+          ]
+        },
+        "5": {
+          "md5": "756294ffe31df17de70d3e824ab921d8",
+          "message_id": "1497458606415810590",
+          "pdf_path": "PRG2/TD/TD3/corrections/correction_TD3_ex5_PRG2.pdf",
+          "published_at": "2026-04-25T04:45:53Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "756294ffe31df17de70d3e824ab921d8",
+              "message_id": "1497458606415810590",
+              "timestamp": "2026-04-25T04:45:53Z",
+              "version": 1
+            }
+          ]
+        },
+        "6": {
+          "md5": "302d1fcb2dddf6e833df9bc5cedd1c76",
+          "message_id": "1497458670764691466",
+          "pdf_path": "PRG2/TD/TD3/corrections/correction_TD3_ex6_PRG2.pdf",
+          "published_at": "2026-04-25T04:46:08Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "302d1fcb2dddf6e833df9bc5cedd1c76",
+              "message_id": "1497458670764691466",
+              "timestamp": "2026-04-25T04:46:08Z",
+              "version": 1
+            }
+          ]
+        },
+        "7": {
+          "md5": "d8bec9ce98adb51d9e6071a2558a0848",
+          "message_id": "1497458735344255027",
+          "pdf_path": "PRG2/TD/TD3/corrections/correction_TD3_ex7_PRG2.pdf",
+          "published_at": "2026-04-25T04:46:23Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "d8bec9ce98adb51d9e6071a2558a0848",
+              "message_id": "1497458735344255027",
+              "timestamp": "2026-04-25T04:46:23Z",
+              "version": 1
+            }
+          ]
+        },
+        "8": {
+          "md5": "96f28015b23101dced5e19def5fb0492",
+          "message_id": "1497458799638876212",
+          "pdf_path": "PRG2/TD/TD3/corrections/correction_TD3_ex8_PRG2.pdf",
+          "published_at": "2026-04-25T04:46:39Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "96f28015b23101dced5e19def5fb0492",
+              "message_id": "1497458799638876212",
+              "timestamp": "2026-04-25T04:46:39Z",
+              "version": 1
+            }
+          ]
+        },
+        "9": {
+          "md5": "bccb3d054b52dcc6674a9aec70a2bf8c",
+          "message_id": "1497458865099509814",
+          "pdf_path": "PRG2/TD/TD3/corrections/correction_TD3_ex9_PRG2.pdf",
+          "published_at": "2026-04-25T04:46:54Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "bccb3d054b52dcc6674a9aec70a2bf8c",
+              "message_id": "1497458865099509814",
+              "timestamp": "2026-04-25T04:46:54Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-25T04:44:50Z",
+      "enonce": {
+        "md5": "38c7c07da157a3a66f01e2c42d40eb09",
+        "message_id": "1497458344770797628",
+        "pdf_path": "PRG2/TD/TD3/enonce_TD3_PRG2.pdf",
+        "published_at": "2026-04-25T04:44:50Z",
+        "status": "present"
+      },
+      "forum_id": "1497322107338625246",
+      "last_updated": "2026-04-25T04:46:54Z",
+      "matiere": "PRG2",
+      "num": "3",
+      "state": "corrections_present",
+      "tags_applied": [
+        "TD",
+        "Corrections présentes"
+      ],
+      "thread_id": "1497458344770797628",
+      "titre_td": null,
+      "type": "TD"
+    },
+    "PRG2__TD__4": {
+      "annee": null,
+      "corrections": {
+        "1": {
+          "md5": "3cd4bc97b69a9ae12aef4d5490d89827",
+          "message_id": "1497458933055623239",
+          "pdf_path": "PRG2/TD/TD4/corrections/correction_TD4_ex1_PRG2.pdf",
+          "published_at": "2026-04-25T04:47:11Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "3cd4bc97b69a9ae12aef4d5490d89827",
+              "message_id": "1497458933055623239",
+              "timestamp": "2026-04-25T04:47:11Z",
+              "version": 1
+            }
+          ]
+        },
+        "2": {
+          "md5": "f15d32e27a1c40f4703a568ae6b1c612",
+          "message_id": "1497458998499082340",
+          "pdf_path": "PRG2/TD/TD4/corrections/correction_TD4_ex2_PRG2.pdf",
+          "published_at": "2026-04-25T04:47:26Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "f15d32e27a1c40f4703a568ae6b1c612",
+              "message_id": "1497458998499082340",
+              "timestamp": "2026-04-25T04:47:26Z",
+              "version": 1
+            }
+          ]
+        },
+        "3": {
+          "md5": "73901ed96525f69a3d1d0c708480043f",
+          "message_id": "1497459064001794198",
+          "pdf_path": "PRG2/TD/TD4/corrections/correction_TD4_ex3_PRG2.pdf",
+          "published_at": "2026-04-25T04:47:42Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "73901ed96525f69a3d1d0c708480043f",
+              "message_id": "1497459064001794198",
+              "timestamp": "2026-04-25T04:47:42Z",
+              "version": 1
+            }
+          ]
+        },
+        "4": {
+          "md5": "0134e224d522ae8edd7584c927e43973",
+          "message_id": "1497459128929488956",
+          "pdf_path": "PRG2/TD/TD4/corrections/correction_TD4_ex4_PRG2.pdf",
+          "published_at": "2026-04-25T04:47:57Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "0134e224d522ae8edd7584c927e43973",
+              "message_id": "1497459128929488956",
+              "timestamp": "2026-04-25T04:47:57Z",
+              "version": 1
+            }
+          ]
+        },
+        "5": {
+          "md5": "c30d153dff7968ab4fea43cc0f77b3d1",
+          "message_id": "1497459193219780810",
+          "pdf_path": "PRG2/TD/TD4/corrections/correction_TD4_ex5_PRG2.pdf",
+          "published_at": "2026-04-25T04:48:13Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "c30d153dff7968ab4fea43cc0f77b3d1",
+              "message_id": "1497459193219780810",
+              "timestamp": "2026-04-25T04:48:13Z",
+              "version": 1
+            }
+          ]
+        },
+        "6": {
+          "md5": "bb85fa3e0456d961d3e66f76dac8368e",
+          "message_id": "1497459257497616536",
+          "pdf_path": "PRG2/TD/TD4/corrections/correction_TD4_ex6_PRG2.pdf",
+          "published_at": "2026-04-25T04:48:28Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "bb85fa3e0456d961d3e66f76dac8368e",
+              "message_id": "1497459257497616536",
+              "timestamp": "2026-04-25T04:48:28Z",
+              "version": 1
+            }
+          ]
+        },
+        "7": {
+          "md5": "f9ff70778305a5f47f0c651260184c6c",
+          "message_id": "1497459322307874857",
+          "pdf_path": "PRG2/TD/TD4/corrections/correction_TD4_ex7_PRG2.pdf",
+          "published_at": "2026-04-25T04:48:43Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "f9ff70778305a5f47f0c651260184c6c",
+              "message_id": "1497459322307874857",
+              "timestamp": "2026-04-25T04:48:43Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-25T04:47:10Z",
+      "enonce": {
+        "md5": "1837591d8a9d574e9a8da298d7f1711f",
+        "message_id": "1497458929611964609",
+        "pdf_path": "PRG2/TD/TD4/enonce_TD4_PRG2.pdf",
+        "published_at": "2026-04-25T04:47:10Z",
+        "status": "present"
+      },
+      "forum_id": "1497322107338625246",
+      "last_updated": "2026-04-25T04:48:43Z",
+      "matiere": "PRG2",
+      "num": "4",
+      "state": "corrections_present",
+      "tags_applied": [
+        "TD",
+        "Corrections présentes"
+      ],
+      "thread_id": "1497458929611964609",
+      "titre_td": null,
+      "type": "TD"
+    },
+    "PRG2__TD__5": {
+      "annee": null,
+      "corrections": {
+        "1": {
+          "md5": "38f3679b09c450b60ecda84fc451e213",
+          "message_id": "1498553962243162164",
+          "pdf_path": "PRG2/TD/TD5/corrections/correction_TD5_ex1_PRG2.pdf",
+          "published_at": "2026-04-28T05:18:26Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "38f3679b09c450b60ecda84fc451e213",
+              "message_id": "1498553962243162164",
+              "timestamp": "2026-04-28T05:18:26Z",
+              "version": 1
+            }
+          ]
+        },
+        "2": {
+          "md5": "fe1271d735299cfdf4938e63407ae008",
+          "message_id": "1498553966877741066",
+          "pdf_path": "PRG2/TD/TD5/corrections/correction_TD5_ex2_PRG2.pdf",
+          "published_at": "2026-04-28T05:18:27Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "fe1271d735299cfdf4938e63407ae008",
+              "message_id": "1498553966877741066",
+              "timestamp": "2026-04-28T05:18:27Z",
+              "version": 1
+            }
+          ]
+        },
+        "3": {
+          "md5": "d60c7c3bdd3be69a304864e1935acdac",
+          "message_id": "1498553970397020281",
+          "pdf_path": "PRG2/TD/TD5/corrections/correction_TD5_ex3_PRG2.pdf",
+          "published_at": "2026-04-28T05:18:28Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "d60c7c3bdd3be69a304864e1935acdac",
+              "message_id": "1498553970397020281",
+              "timestamp": "2026-04-28T05:18:28Z",
+              "version": 1
+            }
+          ]
+        },
+        "4": {
+          "md5": "f38af5797dc803d8c621b7255700b629",
+          "message_id": "1498553974008184834",
+          "pdf_path": "PRG2/TD/TD5/corrections/correction_TD5_ex4_PRG2.pdf",
+          "published_at": "2026-04-28T05:18:29Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "f38af5797dc803d8c621b7255700b629",
+              "message_id": "1498553974008184834",
+              "timestamp": "2026-04-28T05:18:29Z",
+              "version": 1
+            }
+          ]
+        },
+        "5": {
+          "md5": "b4110ca2bff8c17a993f693899d99f52",
+          "message_id": "1498553978139705465",
+          "pdf_path": "PRG2/TD/TD5/corrections/correction_TD5_ex5_PRG2.pdf",
+          "published_at": "2026-04-28T05:18:30Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "b4110ca2bff8c17a993f693899d99f52",
+              "message_id": "1498553978139705465",
+              "timestamp": "2026-04-28T05:18:30Z",
+              "version": 1
+            }
+          ]
+        },
+        "6": {
+          "md5": "7139d23564fe24825dd47d48e517f3cb",
+          "message_id": "1498553982220763156",
+          "pdf_path": "PRG2/TD/TD5/corrections/correction_TD5_ex6_PRG2.pdf",
+          "published_at": "2026-04-28T05:18:31Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "7139d23564fe24825dd47d48e517f3cb",
+              "message_id": "1498553982220763156",
+              "timestamp": "2026-04-28T05:18:31Z",
+              "version": 1
+            }
+          ]
+        },
+        "7": {
+          "md5": "9c037b7cd5d2558490d74b437937cfb7",
+          "message_id": "1498553984980615252",
+          "pdf_path": "PRG2/TD/TD5/corrections/correction_TD5_ex7_PRG2.pdf",
+          "published_at": "2026-04-28T05:18:32Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "9c037b7cd5d2558490d74b437937cfb7",
+              "message_id": "1498553984980615252",
+              "timestamp": "2026-04-28T05:18:32Z",
+              "version": 1
+            }
+          ]
+        },
+        "8": {
+          "md5": "8efd17ad450d2dea2001ba7fe6c6e9bb",
+          "message_id": "1498553988491247766",
+          "pdf_path": "PRG2/TD/TD5/corrections/correction_TD5_ex8_PRG2.pdf",
+          "published_at": "2026-04-28T05:18:32Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "8efd17ad450d2dea2001ba7fe6c6e9bb",
+              "message_id": "1498553988491247766",
+              "timestamp": "2026-04-28T05:18:32Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-28T05:18:26Z",
+      "enonce": {
+        "md5": "3b1c6913b3386cd1f4c7ab64ac39afe8",
+        "message_id": "1498553959650955336",
+        "pdf_path": "PRG2/TD/TD5/enonce_TD5_PRG2.pdf",
+        "published_at": "2026-04-28T05:18:26Z",
+        "status": "present"
+      },
+      "forum_id": "1497322107338625246",
+      "last_updated": "2026-04-28T05:18:32Z",
+      "matiere": "PRG2",
+      "num": "5",
+      "state": "corrections_present",
+      "tags_applied": [
+        "TD",
+        "Corrections présentes"
+      ],
+      "thread_id": "1498553959650955336",
+      "titre_td": null,
+      "type": "TD"
+    },
+    "PRG2__TD__6": {
+      "annee": null,
+      "corrections": {
+        "1": {
+          "md5": "27e0e951e60bc7d8356a5dd592e9df1e",
+          "message_id": "1498554149644796018",
+          "pdf_path": "PRG2/TD/TD6/corrections/correction_TD6_ex1_PRG2.pdf",
+          "published_at": "2026-04-28T05:19:11Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "27e0e951e60bc7d8356a5dd592e9df1e",
+              "message_id": "1498554149644796018",
+              "timestamp": "2026-04-28T05:19:11Z",
+              "version": 1
+            }
+          ]
+        },
+        "2": {
+          "md5": "4404742c28a271f9d538f452776aae7a",
+          "message_id": "1498554155185344702",
+          "pdf_path": "PRG2/TD/TD6/corrections/correction_TD6_ex2_PRG2.pdf",
+          "published_at": "2026-04-28T05:19:12Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "4404742c28a271f9d538f452776aae7a",
+              "message_id": "1498554155185344702",
+              "timestamp": "2026-04-28T05:19:12Z",
+              "version": 1
+            }
+          ]
+        },
+        "3": {
+          "md5": "dafab57633edd39e4baea9e2476df862",
+          "message_id": "1498554158113095810",
+          "pdf_path": "PRG2/TD/TD6/corrections/correction_TD6_ex3_PRG2.pdf",
+          "published_at": "2026-04-28T05:19:13Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "dafab57633edd39e4baea9e2476df862",
+              "message_id": "1498554158113095810",
+              "timestamp": "2026-04-28T05:19:13Z",
+              "version": 1
+            }
+          ]
+        },
+        "4": {
+          "md5": "e3599d7caddd7d07b6d0e3c9f8ff377b",
+          "message_id": "1498554161313349703",
+          "pdf_path": "PRG2/TD/TD6/corrections/correction_TD6_ex4_PRG2.pdf",
+          "published_at": "2026-04-28T05:19:14Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "e3599d7caddd7d07b6d0e3c9f8ff377b",
+              "message_id": "1498554161313349703",
+              "timestamp": "2026-04-28T05:19:14Z",
+              "version": 1
+            }
+          ]
+        },
+        "5": {
+          "md5": "7981b5f4c1a43fb015b331e56ebc0226",
+          "message_id": "1498554165172109432",
+          "pdf_path": "PRG2/TD/TD6/corrections/correction_TD6_ex5_PRG2.pdf",
+          "published_at": "2026-04-28T05:19:15Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "7981b5f4c1a43fb015b331e56ebc0226",
+              "message_id": "1498554165172109432",
+              "timestamp": "2026-04-28T05:19:15Z",
+              "version": 1
+            }
+          ]
+        },
+        "6": {
+          "md5": "c0302fa007022b7bb5dff633d5aa52d6",
+          "message_id": "1498554168120709120",
+          "pdf_path": "PRG2/TD/TD6/corrections/correction_TD6_ex6_PRG2.pdf",
+          "published_at": "2026-04-28T05:19:15Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "c0302fa007022b7bb5dff633d5aa52d6",
+              "message_id": "1498554168120709120",
+              "timestamp": "2026-04-28T05:19:15Z",
+              "version": 1
+            }
+          ]
+        },
+        "7": {
+          "md5": "c1485e6da16264947ed4dda7b8a64416",
+          "message_id": "1498554170838614087",
+          "pdf_path": "PRG2/TD/TD6/corrections/correction_TD6_ex7_PRG2.pdf",
+          "published_at": "2026-04-28T05:19:16Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "c1485e6da16264947ed4dda7b8a64416",
+              "message_id": "1498554170838614087",
+              "timestamp": "2026-04-28T05:19:16Z",
+              "version": 1
+            }
+          ]
+        },
+        "8": {
+          "md5": "11208565b12af6f3aefbd595297023de",
+          "message_id": "1498554175867457637",
+          "pdf_path": "PRG2/TD/TD6/corrections/correction_TD6_ex8_PRG2.pdf",
+          "published_at": "2026-04-28T05:19:17Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "11208565b12af6f3aefbd595297023de",
+              "message_id": "1498554175867457637",
+              "timestamp": "2026-04-28T05:19:17Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-28T05:19:10Z",
+      "enonce": {
+        "md5": "d1055805bd0653b25c4b41abe43a6aca",
+        "message_id": "1498554146306134157",
+        "pdf_path": "PRG2/TD/TD6/enonce_TD6_PRG2.pdf",
+        "published_at": "2026-04-28T05:19:10Z",
+        "status": "present"
+      },
+      "forum_id": "1497322107338625246",
+      "last_updated": "2026-04-28T05:19:17Z",
+      "matiere": "PRG2",
+      "num": "6",
+      "state": "corrections_present",
+      "tags_applied": [
+        "TD",
+        "Corrections présentes"
+      ],
+      "thread_id": "1498554146306134157",
+      "titre_td": null,
+      "type": "TD"
+    },
+    "PRG2__TD__7": {
+      "annee": null,
+      "corrections": {
+        "1": {
+          "md5": "f13f9944c6cd7912ee9d96cb12e53d8d",
+          "message_id": "1498593624424841298",
+          "pdf_path": "PRG2/TD/TD7/corrections/correction_TD7_ex1_PRG2.pdf",
+          "published_at": "2026-04-28T07:56:03Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "f13f9944c6cd7912ee9d96cb12e53d8d",
+              "message_id": "1498593624424841298",
+              "timestamp": "2026-04-28T07:56:03Z",
+              "version": 1
+            }
+          ]
+        },
+        "2": {
+          "md5": "67d757fc72069f9ff909cde5e41b23e7",
+          "message_id": "1498593628426080307",
+          "pdf_path": "PRG2/TD/TD7/corrections/correction_TD7_ex2_PRG2.pdf",
+          "published_at": "2026-04-28T07:56:03Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "67d757fc72069f9ff909cde5e41b23e7",
+              "message_id": "1498593628426080307",
+              "timestamp": "2026-04-28T07:56:03Z",
+              "version": 1
+            }
+          ]
+        },
+        "3": {
+          "md5": "52ed7963dd98b490ed6799b75e3f2d18",
+          "message_id": "1498593632616452196",
+          "pdf_path": "PRG2/TD/TD7/corrections/correction_TD7_ex3_PRG2.pdf",
+          "published_at": "2026-04-28T07:56:05Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "52ed7963dd98b490ed6799b75e3f2d18",
+              "message_id": "1498593632616452196",
+              "timestamp": "2026-04-28T07:56:05Z",
+              "version": 1
+            }
+          ]
+        },
+        "4": {
+          "md5": "d25acf7e2aa76d8d5699620a974a3aaf",
+          "message_id": "1498593636147924992",
+          "pdf_path": "PRG2/TD/TD7/corrections/correction_TD7_ex4_PRG2.pdf",
+          "published_at": "2026-04-28T07:56:05Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "d25acf7e2aa76d8d5699620a974a3aaf",
+              "message_id": "1498593636147924992",
+              "timestamp": "2026-04-28T07:56:05Z",
+              "version": 1
+            }
+          ]
+        },
+        "5": {
+          "md5": "658fb8c4a223d8b14f3c81bc1853a85e",
+          "message_id": "1498593639696171038",
+          "pdf_path": "PRG2/TD/TD7/corrections/correction_TD7_ex5_PRG2.pdf",
+          "published_at": "2026-04-28T07:56:06Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "658fb8c4a223d8b14f3c81bc1853a85e",
+              "message_id": "1498593639696171038",
+              "timestamp": "2026-04-28T07:56:06Z",
+              "version": 1
+            }
+          ]
+        },
+        "6": {
+          "md5": "2bdfb2223fd218023d9e64d6bdd0f247",
+          "message_id": "1498593642170814495",
+          "pdf_path": "PRG2/TD/TD7/corrections/correction_TD7_ex6_PRG2.pdf",
+          "published_at": "2026-04-28T07:56:07Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "2bdfb2223fd218023d9e64d6bdd0f247",
+              "message_id": "1498593642170814495",
+              "timestamp": "2026-04-28T07:56:07Z",
+              "version": 1
+            }
+          ]
+        },
+        "7": {
+          "md5": "1f64c70e0235e7e10e42175f9844bd67",
+          "message_id": "1498593645912133643",
+          "pdf_path": "PRG2/TD/TD7/corrections/correction_TD7_ex7_PRG2.pdf",
+          "published_at": "2026-04-28T07:56:08Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "1f64c70e0235e7e10e42175f9844bd67",
+              "message_id": "1498593645912133643",
+              "timestamp": "2026-04-28T07:56:08Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-28T07:56:02Z",
+      "enonce": {
+        "md5": "2608a4d3f75fe8804a780888dab903f6",
+        "message_id": "1498593621753069568",
+        "pdf_path": "PRG2/TD/TD7/enonce_TD7_PRG2.pdf",
+        "published_at": "2026-04-28T07:56:02Z",
+        "status": "present"
+      },
+      "forum_id": "1497322107338625246",
+      "last_updated": "2026-04-28T07:56:08Z",
+      "matiere": "PRG2",
+      "num": "7",
+      "state": "corrections_present",
+      "tags_applied": [
+        "TD",
+        "Corrections présentes"
+      ],
+      "thread_id": "1498593621753069568",
+      "titre_td": "Somme des carrés des éléments pairs — pipeline filter / map / sum",
+      "type": "TD"
+    },
+    "PRG2__TD__8": {
+      "annee": null,
+      "created_at": "2026-05-05T20:28:14.014756+00:00",
+      "forum_id": "1497322107338625246",
+      "last_updated": "2026-05-05T20:28:14.014756+00:00",
+      "matiere": "PRG2",
+      "num": "8",
+      "posts": {},
+      "tags_applied": [
+        "TD"
+      ],
+      "thread_id": "1501319589404082219",
+      "thread_name": "[TD8] Arbres binaires (BinTree)",
+      "type": "TD"
+    },
+    "PRG2__TP__1": {
+      "annee": null,
+      "corrections": {
+        "0": {
+          "md5": "3a001baadbbb12967540c317cdd7f7d9",
+          "message_id": "1497460900041461850",
+          "pdf_path": "PRG2/TP/TP1/corrections/correction_TP1_PRG2.pdf",
+          "published_at": "2026-04-25T04:55:00Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "3a001baadbbb12967540c317cdd7f7d9",
+              "message_id": "1497460900041461850",
+              "timestamp": "2026-04-25T04:55:00Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-25T04:54:59Z",
+      "enonce": {
+        "md5": "478b80fe6d069f6aa3f156ce4010e061",
+        "message_id": "1497460897545846824",
+        "pdf_path": "PRG2/TP/TP1/enonce_TP1_PRG2.pdf",
+        "published_at": "2026-04-25T04:54:59Z",
+        "status": "present"
+      },
+      "forum_id": "1497322107338625246",
+      "last_updated": "2026-04-25T04:55:00Z",
+      "matiere": "PRG2",
+      "num": "1",
+      "state": "corrections_present",
+      "tags_applied": [
+        "TP",
+        "Corrections présentes"
+      ],
+      "thread_id": "1497460897545846824",
+      "titre_td": null,
+      "type": "TP"
+    },
+    "PRG2__TP__2": {
+      "annee": null,
+      "corrections": {
+        "0": {
+          "md5": "759aa3fe3b2c71bf2f6f8e80e58c0bf3",
+          "message_id": "1497460969616576622",
+          "pdf_path": "PRG2/TP/TP2/corrections/correction_TP2_PRG2.pdf",
+          "published_at": "2026-04-25T04:55:16Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "759aa3fe3b2c71bf2f6f8e80e58c0bf3",
+              "message_id": "1497460969616576622",
+              "timestamp": "2026-04-25T04:55:16Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-25T04:55:16Z",
+      "enonce": {
+        "md5": "644ba2c160b836d329a0fd80f01eb9d0",
+        "message_id": "1497460965661343825",
+        "pdf_path": "PRG2/TP/TP2/enonce_TP2_PRG2.pdf",
+        "published_at": "2026-04-25T04:55:16Z",
+        "status": "present"
+      },
+      "forum_id": "1497322107338625246",
+      "last_updated": "2026-04-25T04:55:16Z",
+      "matiere": "PRG2",
+      "num": "2",
+      "state": "corrections_present",
+      "tags_applied": [
+        "TP",
+        "Corrections présentes"
+      ],
+      "thread_id": "1497460965661343825",
+      "titre_td": null,
+      "type": "TP"
+    },
+    "PRG2__TP__3": {
+      "annee": null,
+      "corrections": {
+        "0": {
+          "md5": "d46a00b492e338f5b574a87235a6974a",
+          "message_id": "1497461040164634625",
+          "pdf_path": "PRG2/TP/TP3/corrections/correction_TP3_PRG2.pdf",
+          "published_at": "2026-04-25T04:55:33Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "d46a00b492e338f5b574a87235a6974a",
+              "message_id": "1497461040164634625",
+              "timestamp": "2026-04-25T04:55:33Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-25T04:55:32Z",
+      "enonce": {
+        "md5": "b42abb1d7a47be7b05a11590f2172990",
+        "message_id": "1497461036696076348",
+        "pdf_path": "PRG2/TP/TP3/enonce_TP3_PRG2.pdf",
+        "published_at": "2026-04-25T04:55:32Z",
+        "status": "present"
+      },
+      "forum_id": "1497322107338625246",
+      "last_updated": "2026-04-25T04:55:33Z",
+      "matiere": "PRG2",
+      "num": "3",
+      "state": "corrections_present",
+      "tags_applied": [
+        "TP",
+        "Corrections présentes"
+      ],
+      "thread_id": "1497461036696076348",
+      "titre_td": null,
+      "type": "TP"
+    },
+    "PRG2__TP__4": {
+      "annee": null,
+      "corrections": {
+        "0": {
+          "md5": "932727978929f6a1ab7e95501a946353",
+          "message_id": "1497461109068795954",
+          "pdf_path": "PRG2/TP/TP4/corrections/correction_TP4_PRG2.pdf",
+          "published_at": "2026-04-25T04:55:49Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "932727978929f6a1ab7e95501a946353",
+              "message_id": "1497461109068795954",
+              "timestamp": "2026-04-25T04:55:49Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-25T04:55:49Z",
+      "enonce": {
+        "md5": "e15b8ad1d17838198d15dda04e0f3d4c",
+        "message_id": "1497461106514595870",
+        "pdf_path": "PRG2/TP/TP4/enonce_TP4_PRG2.pdf",
+        "published_at": "2026-04-25T04:55:49Z",
+        "status": "present"
+      },
+      "forum_id": "1497322107338625246",
+      "last_updated": "2026-04-25T04:55:49Z",
+      "matiere": "PRG2",
+      "num": "4",
+      "state": "corrections_present",
+      "tags_applied": [
+        "TP",
+        "Corrections présentes"
+      ],
+      "thread_id": "1497461106514595870",
+      "titre_td": null,
+      "type": "TP"
+    },
+    "PRG2__TP__5": {
+      "annee": null,
+      "corrections": {
+        "0": {
+          "md5": "80240657174f2242b19b8ea3a257b61e",
+          "message_id": "1497461177352061018",
+          "pdf_path": "PRG2/TP/TP5/corrections/correction_TP5_PRG2.pdf",
+          "published_at": "2026-04-25T04:56:06Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "80240657174f2242b19b8ea3a257b61e",
+              "message_id": "1497461177352061018",
+              "timestamp": "2026-04-25T04:56:06Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-25T04:56:05Z",
+      "enonce": {
+        "md5": "59a00a44d10b29743d762a02603ced59",
+        "message_id": "1497461174654992506",
+        "pdf_path": "PRG2/TP/TP5/enonce_TP5_PRG2.pdf",
+        "published_at": "2026-04-25T04:56:05Z",
+        "status": "present"
+      },
+      "forum_id": "1497322107338625246",
+      "last_updated": "2026-04-25T04:56:06Z",
+      "matiere": "PRG2",
+      "num": "5",
+      "state": "corrections_present",
+      "tags_applied": [
+        "TP",
+        "Corrections présentes"
+      ],
+      "thread_id": "1497461174654992506",
+      "titre_td": null,
+      "type": "TP"
+    },
+    "PRG2__TP__6": {
+      "annee": null,
+      "corrections": {
+        "0": {
+          "md5": "9bc500031d3d4012359c8e362f5eddd5",
+          "message_id": "1497461246281388233",
+          "pdf_path": "PRG2/TP/TP6/corrections/correction_TP6_PRG2.pdf",
+          "published_at": "2026-04-25T04:56:22Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "9bc500031d3d4012359c8e362f5eddd5",
+              "message_id": "1497461246281388233",
+              "timestamp": "2026-04-25T04:56:22Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-25T04:56:22Z",
+      "enonce": {
+        "md5": "f3af597186f2d27c6470e76dff6b5b6e",
+        "message_id": "1497461243496103958",
+        "pdf_path": "PRG2/TP/TP6/enonce_TP6_PRG2.pdf",
+        "published_at": "2026-04-25T04:56:22Z",
+        "status": "present"
+      },
+      "forum_id": "1497322107338625246",
+      "last_updated": "2026-04-25T04:56:22Z",
+      "matiere": "PRG2",
+      "num": "6",
+      "state": "corrections_present",
+      "tags_applied": [
+        "TP",
+        "Corrections présentes"
+      ],
+      "thread_id": "1497461243496103958",
+      "titre_td": null,
+      "type": "TP"
+    },
+    "PRG2__TP__7": {
+      "annee": null,
+      "corrections": {
+        "0": {
+          "md5": "74e3f5bcdcd820b6938bdcfa88f6059b",
+          "message_id": "1504050175759618152",
+          "pdf_path": "PRG2/TP/TP7/corrections/correction_TP7_PRG2.pdf",
+          "published_at": "2026-05-13T09:18:26Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "74e3f5bcdcd820b6938bdcfa88f6059b",
+              "message_id": "1504050175759618152",
+              "timestamp": "2026-05-13T09:18:26Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-05-13T09:18:24Z",
+      "enonce": {
+        "md5": null,
+        "message_id": "1504050173150761090",
+        "pdf_path": null,
+        "published_at": "2026-05-13T09:18:24Z",
+        "status": "missing"
+      },
+      "forum_id": "1497322107338625246",
+      "last_updated": "2026-05-13T09:18:26Z",
+      "matiere": "PRG2",
+      "num": "7",
+      "state": "corrections_present",
+      "tags_applied": [
+        "TP",
+        "Corrections présentes"
+      ],
+      "thread_id": "1504050173150761090",
+      "titre_td": "Ordre supérieur, application partielle, composition (14 fonctions)",
+      "type": "TP"
+    },
+    "PRG2__TP__8": {
+      "annee": null,
+      "corrections": {
+        "0": {
+          "md5": "62174d36766f09394b4c29b3624ba63c",
+          "message_id": "1504061244192063491",
+          "pdf_path": "PRG2/TP/TP8/corrections/correction_TP8_PRG2.pdf",
+          "published_at": "2026-05-13T10:02:24Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "62174d36766f09394b4c29b3624ba63c",
+              "message_id": "1504061244192063491",
+              "timestamp": "2026-05-13T10:02:24Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-05-06T06:45:27.321805+00:00",
+      "forum_id": "1497322107338625246",
+      "last_updated": "2026-05-13T10:02:24Z",
+      "matiere": "PRG2",
+      "num": "8",
+      "posts": {},
+      "state": "corrections_present",
+      "tags_applied": [
+        "TP",
+        "Corrections présentes"
+      ],
+      "thread_id": "1501474919203078155",
+      "thread_name": "[TP8] Arbres binaires et arbres généraux",
+      "type": "TP"
+    },
+    "PRG2__TP__9": {
+      "annee": null,
+      "created_at": "2026-05-06T06:45:27.321805+00:00",
+      "forum_id": "1497322107338625246",
+      "last_updated": "2026-05-06T06:45:27.321805+00:00",
+      "matiere": "PRG2",
+      "num": "9",
+      "posts": {},
+      "tags_applied": [
+        "TP",
+        "Corrections présentes"
+      ],
+      "thread_id": "1501474939767881759",
+      "thread_name": "[TP9] ADN Match — expressions régulières (Brzozowski)",
+      "type": "TP"
+    },
+    "PSI__TD__SHANNON": {
+      "annee": null,
+      "corrections": {},
+      "created_at": "2026-04-27T18:20:26Z",
+      "enonce": {},
+      "forum_id": "1497322108932460646",
+      "last_updated": "2026-04-27T20:44:31Z",
+      "matiere": "PSI",
+      "num": "SHANNON",
+      "state": "missing_enonce",
+      "tags_applied": [
+        "Corrections présentes",
+        "TD"
+      ],
+      "thread_id": "1498388370093637735",
+      "titre_td": "[TD] Shannon — Théorie de l'information",
+      "type": "TD"
+    },
+    "PSI__TP__0": {
+      "annee": null,
+      "corrections": {
+        "0": {
+          "md5": "2ba9194d8ee91fc1055aca15840e2c11",
+          "message_id": "1498386880163479645",
+          "pdf_path": "PSI/TP/TP0/corrections/correction_TP0_PSI.pdf",
+          "published_at": "2026-04-27T18:14:30Z",
+          "version": 1,
+          "versions": [
+            {
+              "md5": "2ba9194d8ee91fc1055aca15840e2c11",
+              "message_id": "1498386880163479645",
+              "timestamp": "2026-04-27T18:14:30Z",
+              "version": 1
+            }
+          ]
+        }
+      },
+      "created_at": "2026-04-27T18:14:25Z",
+      "enonce": {
+        "md5": "d48ce56c831a7447333ff14f3f62e952",
+        "message_id": "1498386868679475330",
+        "pdf_path": "PSI/TP/TP0/enonce_TP0_PSI.pdf",
+        "published_at": "2026-04-27T18:14:28Z",
+        "status": "present"
+      },
+      "forum_id": "1497322108932460646",
+      "last_updated": "2026-04-27T20:44:30Z",
+      "matiere": "PSI",
+      "num": "0",
+      "state": "corrections_present",
+      "tags_applied": [
+        "Corrections présentes",
+        "TP"
+      ],
+      "thread_id": "1498386858533458020",
+      "titre_td": "[TP0] Prise en main Python",
+      "type": "TP"
+    },
+    "PSI__TP__SGF": {
+      "annee": null,
+      "corrections": {},
+      "created_at": "2026-04-27T18:15:25Z",
+      "enonce": {},
+      "forum_id": "1497322108932460646",
+      "last_updated": "2026-04-27T20:44:30Z",
+      "matiere": "PSI",
+      "num": "SGF",
+      "state": "missing_enonce",
+      "tags_applied": [
+        "Corrections présentes",
+        "TP"
+      ],
+      "thread_id": "1498387110518853752",
+      "titre_td": "[TP] SGF — Système de gestion de fichiers",
+      "type": "TP"
+    },
+    "PSI__TP__SHANNON": {
+      "annee": null,
+      "corrections": {},
+      "created_at": "2026-04-27T17:31:26Z",
+      "enonce": {},
+      "forum_id": "1497322108932460646",
+      "last_updated": "2026-04-27T20:44:29Z",
+      "matiere": "PSI",
+      "num": "SHANNON",
+      "state": "missing_enonce",
+      "tags_applied": [
+        "Corrections présentes",
+        "TP"
+      ],
+      "thread_id": "1498376038344949851",
+      "titre_td": "[TP] Shannon — Le bit comme mesure de l'information",
+      "type": "TP"
+    }
+  }
+}

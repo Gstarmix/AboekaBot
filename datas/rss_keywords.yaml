@@ -1,0 +1,65 @@
+all:
+  boost: []
+  blacklist:
+  - Sponsored
+  - sponsored content
+  - advertorial
+cyber:
+  boost:
+  - vulnérabilité critique
+  - critical vulnerability
+  - 0-day
+  - zero-day
+  - RCE
+  - remote code execution
+  - ransomware
+  - data breach
+  - fuite de données
+  - supply chain
+  - patch tuesday
+  - CVE
+  - exploit
+  - backdoor
+  - malware
+  - APT
+  blacklist:
+  - Webinar
+ia:
+  boost:
+  - GPT-5
+  - GPT-6
+  - Claude
+  - frontier model
+  - safety
+  - alignment
+  - jailbreak
+  - prompt injection
+  - benchmark
+  - open source
+  - open weight
+  blacklist:
+  - case study
+  - testimonial
+dev:
+  boost:
+  - security advisory
+  - critical update
+  - breaking change
+  - deprecation
+  - LTS release
+  - GA release
+  - major release
+  blacklist: []
+tech:
+  boost:
+  - intelligence artificielle
+  - cybersécurité
+  - protection des données
+  - RGPD
+  - réglementation
+  blacklist:
+  - test produit
+  - test gaming
+  - bon plan
+  - promo
+  - black friday
